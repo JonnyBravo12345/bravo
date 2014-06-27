@@ -1,6 +1,6 @@
 package financialmarketsimulator;
 
-import Exception.ItemNotFoundException;
+import financialmarketsimulator.exception.ItemNotFoundException;
 
 /**
  *

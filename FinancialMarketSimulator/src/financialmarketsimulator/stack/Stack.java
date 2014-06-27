@@ -5,6 +5,7 @@
  */
 package financialmarketsimulator.stack;
 
+import financialmarketsimulator.exception.EmptyException;
 import java.util.concurrent.atomic.AtomicReference;
 
 /**

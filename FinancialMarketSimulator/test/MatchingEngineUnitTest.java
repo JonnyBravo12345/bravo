@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 
+import financialmarketsimulator.exception.EmptyException;
 import financialmarketsimulator.Bid;
 import financialmarketsimulator.MarketEntryAttempt;
 import financialmarketsimulator.MatchingEngine;
