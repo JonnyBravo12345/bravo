@@ -31,9 +31,8 @@ public class MarketStrategy implements Trade {
     public void setStrategy(String strategy) {
 
     }
-    
-    public MarketEntryAttempt searchMarketEntryAttempt(MarketEntryAttempt entry)
-    {
+
+    public MarketEntryAttempt searchMarketEntryAttempt(MarketEntryAttempt entry) {
         return null;
     }
 

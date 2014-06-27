@@ -16,22 +16,22 @@ import static org.junit.Assert.*;
  * @author Madimetja
  */
 public class ReceiptUnitTest {
-    
+
     public ReceiptUnitTest() {
     }
-    
+
     @BeforeClass
     public static void setUpClass() {
     }
-    
+
     @AfterClass
     public static void tearDownClass() {
     }
-    
+
     @Before
     public void setUp() {
     }
-    
+
     @After
     public void tearDown() {
     }
@@ -41,7 +41,6 @@ public class ReceiptUnitTest {
     //
     // @Test
     // public void hello() {}
-    
     @Test
     /**
      * @todo Tests if the Receipt object instantiates as expected

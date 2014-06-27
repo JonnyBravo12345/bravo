@@ -16,22 +16,22 @@ import static org.junit.Assert.*;
  * @author Madimetja
  */
 public class MarketStrategyUnitTest {
-    
+
     public MarketStrategyUnitTest() {
     }
-    
+
     @BeforeClass
     public static void setUpClass() {
     }
-    
+
     @AfterClass
     public static void tearDownClass() {
     }
-    
+
     @Before
     public void setUp() {
     }
-    
+
     @After
     public void tearDown() {
     }
@@ -41,4 +41,49 @@ public class MarketStrategyUnitTest {
     //
     // @Test
     // public void hello() {}
+    
+    @Test
+    /**
+     * @todo 
+     */
+    public void makeOfferTest() {
+    }
+
+    @Test
+    /**
+     * @todo
+     */
+    public void makeBidTest() {
+    }
+
+    @Test
+    /**
+     * @todo
+     */
+    public void retractBidTest() {
+
+    }
+
+    @Test
+    /**
+     * @todo
+     */
+    public void retractOfferTest() {
+
+    }
+
+    @Test
+    /**
+     * @todo
+     */
+    public void setStrategyTest() {
+
+    }
+
+    @Test
+   /**
+    * @todo
+    */
+    public void searchMarketEntryAttempt() {
+    }
 }
