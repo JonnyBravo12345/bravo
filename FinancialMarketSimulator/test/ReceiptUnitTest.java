@@ -42,14 +42,10 @@ public class ReceiptUnitTest {
     // @Test
     // public void hello() {}
     
-    /*
-     * Function  : constuctor
-     * Input     : 
-     * Process   : 
-     * Output    : 
-     * Speed     : 
-     */
     @Test
+    /**
+     * @todo Tests if the Receipt object instantiates as expected
+     */
     public void instantiation() {
         //marketManager = new MarketManager();
         String expectedOutput = "";

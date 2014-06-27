@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['offer',['Offer',['../classfinancialmarketsimulator_1_1_offer.html',1,'financialmarketsimulator']]],
-  ['offerreceipt',['OfferReceipt',['../classfinancialmarketsimulator_1_1receipts_1_1_offer_receipt.html',1,'financialmarketsimulator::receipts']]],
-  ['offerstack',['OfferStack',['../classfinancialmarketsimulator_1_1stack_1_1_offer_stack.html',1,'financialmarketsimulator::stack']]],
-  ['offerunittest',['OfferUnitTest',['../class_offer_unit_test.html',1,'']]]
+  ['numberofshares',['numberOfShares',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a5333f3fb0b26cba3382a05e582f86d8a',1,'financialmarketsimulator::MarketEntryAttempt']]]
 ];

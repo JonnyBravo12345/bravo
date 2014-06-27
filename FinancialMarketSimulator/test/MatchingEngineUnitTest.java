@@ -47,36 +47,30 @@ public class MatchingEngineUnitTest {
     // @Test
     // public void hello() {}
     //Test Object
+    /**
+     * The MatchingEngine object used for testing throughout the class
+     */
     MatchingEngine matchingEngine;
 
-    /*
-     * Function  : constuctor
-     * Input     : 
-     * Process   : 
-     * Output    : 
-     * Speed     : 
-     */
     @Test
+    /**
+     * @todo Tests if the MatchingEngine object instantiates as expected
+     */
     public void instantiation() {
         matchingEngine = new MatchingEngine();
 
     }
 
-    /*
-     * Function  : matchBidAndOffer()
-     * Input     : 
-     * Process   : -This test creates mock bids and offers which will be pushed
-     *              into the bids and offers stack respectively. Of the mock bids
-     *              and offers created, one bid and one offer will be created to 
-     *              match, while the others will not match. The trade function
-     *              should then assess the stacks and return a match/trade in the
-     *              first test, and should return nothing in the second test where
-     *              none of the bids and offers.
-     * Output    : 
-     * Speed     : 
-     */
     @Test
     @SuppressWarnings("CallToPrintStackTrace")
+    /**
+     * @todo Tests the MatchingEngine trade() function. Two cases are tested:
+     * Firstly, if the trade function will record a trade when an offer and a
+     * bid are explicitly made to match, and secondly if the trade function will
+     * record no trade when all bids and offers are made explicitly not to
+     * match. The function creates mock bid and offer stacks and populates them
+     * with mock bid and offer objects. Trade is then called on those stacks.
+     */
     public void tradeTest() {
         matchingEngine = new MatchingEngine();
 
@@ -171,16 +165,12 @@ public class MatchingEngineUnitTest {
 
     }
 
-    /*
-     * Function  : update()
-     * Input     : 
-     * Process   : - Should obeserve the relevant queue and 
-     *               update the relevant views
-     * Output    : 
-     * Speed     : 
-     */
     @Test
+    /**
+     * @todo Observes the bid and offer stacks when called and informs the
+     * MarketManager to either update or not update the views accordingly.
+     */
     public void updateTest() {
-        
+
     }
 }
