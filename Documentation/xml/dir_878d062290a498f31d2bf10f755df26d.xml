@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="dir_878d062290a498f31d2bf10f755df26d" kind="dir">
+    <compoundname>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator</compoundname>
+    <innerdir refid="dir_a2e395377a3410ca19ae3a075d11db2c">C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/receipts</innerdir>
+    <innerdir refid="dir_3a75d973409d46dc9dc25b989a1fa52c">C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack</innerdir>
+    <innerfile refid="_bid_8java">Bid.java</innerfile>
+    <innerfile refid="_financial_market_simulator_8java">FinancialMarketSimulator.java</innerfile>
+    <innerfile refid="_market_entity_8java">MarketEntity.java</innerfile>
+    <innerfile refid="_market_entry_attempt_8java">MarketEntryAttempt.java</innerfile>
+    <innerfile refid="_market_manager_8java">MarketManager.java</innerfile>
+    <innerfile refid="_market_strategy_8java">MarketStrategy.java</innerfile>
+    <innerfile refid="_matching_engine_8java">MatchingEngine.java</innerfile>
+    <innerfile refid="_offer_8java">Offer.java</innerfile>
+    <innerfile refid="_trade_8java">Trade.java</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/"/>
+  </compounddef>
+</doxygen>

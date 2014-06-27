@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test" kind="class" prot="public">
+    <compoundname>stackPackageUnitTests::MarketEntryAttemptNodeUnitTest</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1a89d17da03de1228fdbe1288b2e9c938f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>stackPackageUnitTests.MarketEntryAttemptNodeUnitTest.MarketEntryAttemptNodeUnitTest</definition>
+        <argsstring>()</argsstring>
+        <name>MarketEntryAttemptNodeUnitTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/MarketEntryAttemptNodeUnitTest.java" line="22" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/MarketEntryAttemptNodeUnitTest.java" bodystart="22" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1a9390c1c0e025bf0b4e52d90e823b178e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void stackPackageUnitTests.MarketEntryAttemptNodeUnitTest.setUp</definition>
+        <argsstring>()</argsstring>
+        <name>setUp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/MarketEntryAttemptNodeUnitTest.java" line="34" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/MarketEntryAttemptNodeUnitTest.java" bodystart="34" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1ac53239c7d35e9cf1105772b0830bf111" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void stackPackageUnitTests.MarketEntryAttemptNodeUnitTest.tearDown</definition>
+        <argsstring>()</argsstring>
+        <name>tearDown</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/MarketEntryAttemptNodeUnitTest.java" line="38" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/MarketEntryAttemptNodeUnitTest.java" bodystart="38" bodyend="39"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1a4ca18c744d6e0e6ae6c71d18dc292e13" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void stackPackageUnitTests.MarketEntryAttemptNodeUnitTest.setUpClass</definition>
+        <argsstring>()</argsstring>
+        <name>setUpClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/MarketEntryAttemptNodeUnitTest.java" line="26" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/MarketEntryAttemptNodeUnitTest.java" bodystart="26" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1af36feb95c6dbe4c59ce7f2014d7ba4ae" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void stackPackageUnitTests.MarketEntryAttemptNodeUnitTest.tearDownClass</definition>
+        <argsstring>()</argsstring>
+        <name>tearDownClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/MarketEntryAttemptNodeUnitTest.java" line="30" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/MarketEntryAttemptNodeUnitTest.java" bodystart="30" bodyend="31"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+</para>    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/MarketEntryAttemptNodeUnitTest.java" line="20" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/MarketEntryAttemptNodeUnitTest.java" bodystart="20" bodyend="46"/>
+    <listofallmembers>
+      <member refid="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1a89d17da03de1228fdbe1288b2e9c938f" prot="public" virt="non-virtual"><scope>stackPackageUnitTests::MarketEntryAttemptNodeUnitTest</scope><name>MarketEntryAttemptNodeUnitTest</name></member>
+      <member refid="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1a9390c1c0e025bf0b4e52d90e823b178e" prot="public" virt="non-virtual"><scope>stackPackageUnitTests::MarketEntryAttemptNodeUnitTest</scope><name>setUp</name></member>
+      <member refid="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1a4ca18c744d6e0e6ae6c71d18dc292e13" prot="public" virt="non-virtual"><scope>stackPackageUnitTests::MarketEntryAttemptNodeUnitTest</scope><name>setUpClass</name></member>
+      <member refid="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1ac53239c7d35e9cf1105772b0830bf111" prot="public" virt="non-virtual"><scope>stackPackageUnitTests::MarketEntryAttemptNodeUnitTest</scope><name>tearDown</name></member>
+      <member refid="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1af36feb95c6dbe4c59ce7f2014d7ba4ae" prot="public" virt="non-virtual"><scope>stackPackageUnitTests::MarketEntryAttemptNodeUnitTest</scope><name>tearDownClass</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -7,20 +7,24 @@
 
 var indexSectionsWithContent =
 {
-  0: "bdefgimnoprstu",
+  0: "abdefgimnoprstu",
   1: "befmorst",
-  2: "gimstu",
-  3: "dnpt",
-  4: "t"
+  2: "fs",
+  3: "befmorst",
+  4: "abegimoprstu",
+  5: "dnpt",
+  6: "t"
 };
 
 var indexSectionNames =
 {
   0: "all",
   1: "classes",
-  2: "functions",
-  3: "variables",
-  4: "pages"
+  2: "namespaces",
+  3: "files",
+  4: "functions",
+  5: "variables",
+  6: "pages"
 };
 
 function convertToId(search)

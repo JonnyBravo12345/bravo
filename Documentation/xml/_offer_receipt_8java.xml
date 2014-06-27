@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="_offer_receipt_8java" kind="file">
+    <compoundname>OfferReceipt.java</compoundname>
+    <innerclass refid="classfinancialmarketsimulator_1_1receipts_1_1_offer_receipt" prot="public">financialmarketsimulator::receipts::OfferReceipt</innerclass>
+    <innernamespace refid="namespacefinancialmarketsimulator_1_1receipts">financialmarketsimulator::receipts</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="comment">/*</highlight></codeline>
+<codeline lineno="2"><highlight class="comment"><sp/>*<sp/>To<sp/>change<sp/>this<sp/>license<sp/>header,<sp/>choose<sp/>License<sp/>Headers<sp/>in<sp/>Project<sp/>Properties.</highlight></codeline>
+<codeline lineno="3"><highlight class="comment"><sp/>*<sp/>To<sp/>change<sp/>this<sp/>template<sp/>file,<sp/>choose<sp/>Tools<sp/>|<sp/>Templates</highlight></codeline>
+<codeline lineno="4"><highlight class="comment"><sp/>*<sp/>and<sp/>open<sp/>the<sp/>template<sp/>in<sp/>the<sp/>editor.</highlight></codeline>
+<codeline lineno="5"><highlight class="comment"><sp/>*/</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight><highlight class="keyword">package<sp/></highlight><highlight class="normal">financialmarketsimulator.receipts;</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"></highlight></codeline>
+<codeline lineno="13" refid="classfinancialmarketsimulator_1_1receipts_1_1_offer_receipt" refkind="compound"><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classfinancialmarketsimulator_1_1receipts_1_1_offer_receipt" kindref="compound">OfferReceipt</ref><sp/>{</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="15"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/receipts/OfferReceipt.java"/>
+  </compounddef>
+</doxygen>

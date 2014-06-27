@@ -36,20 +36,10 @@ public class OfferUnitTest {
     public void tearDown() {
     }
 
-    // TODO add test methods here.
-    // The methods must be annotated with annotation @Test. For example:
-    //
-    // @Test
-    // public void hello() {}
-    
-    /*
-     * Function  : constuctor
-     * Input     : 
-     * Process   : 
-     * Output    : 
-     * Speed     : 
-     */
     @Test
+    /**
+     * @todo Tests if the Offer object instantiates as expected
+     */
     public void instantiation() {
         //marketManager = new MarketManager();
         String expectedOutput = "";

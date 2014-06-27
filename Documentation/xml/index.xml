@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.7">
+  <compound refid="classfinancialmarketsimulator_1_1stack_1_1_backoff" kind="class"><name>financialmarketsimulator::stack::Backoff</name>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_backoff_1aadf7ba83632fd8e6e0aa0968601bc7e4" kind="variable"><name>minDelay</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_backoff_1a9a0dabea7c0e217e1dd76f2534ddee0a" kind="variable"><name>maxDelay</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_backoff_1a3444852105923b8ad2534038e9e01208" kind="variable"><name>limit</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_backoff_1a182f27351dd41dcbc492d59fc612a9dc" kind="variable"><name>random</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_backoff_1ad23617770370498034c220b0c70ded4e" kind="function"><name>Backoff</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_backoff_1ac9fda467f801c8d4b07a77c49ef4d937" kind="function"><name>backoff</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1_bid" kind="class"><name>financialmarketsimulator::Bid</name>
+    <member refid="classfinancialmarketsimulator_1_1_bid_1a9ed8e389307df90419473a2b3ef375af" kind="function"><name>Bid</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_bid_1a323008939bcfc7e51c56a9d61a1d79d9" kind="function"><name>Bid</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1receipts_1_1_bid_receipt" kind="class"><name>financialmarketsimulator::receipts::BidReceipt</name>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1stack_1_1_bid_stack" kind="class"><name>financialmarketsimulator::stack::BidStack</name>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_bid_stack_1a5c2694a816c3fb93081f61554d60fc42" kind="function"><name>sortStack</name></member>
+  </compound>
+  <compound refid="class_bid_unit_test" kind="class"><name>BidUnitTest</name>
+    <member refid="class_bid_unit_test_1a8fd151d7f101bf0368f2d916dc9d684c" kind="function"><name>BidUnitTest</name></member>
+    <member refid="class_bid_unit_test_1a17ac735be171e68824a4ab6aee2427c6" kind="function"><name>setUp</name></member>
+    <member refid="class_bid_unit_test_1a1e3ac3daf16cfb03129bc9c6ec29004c" kind="function"><name>tearDown</name></member>
+    <member refid="class_bid_unit_test_1a00b30251528b2203d6d9f17c321bc499" kind="function"><name>instantiation</name></member>
+    <member refid="class_bid_unit_test_1a708398bb9f31d775f2a8cadfa7de00ad" kind="function"><name>setUpClass</name></member>
+    <member refid="class_bid_unit_test_1a63ef12d1e873a8b1dd37a8d1009a2a2f" kind="function"><name>tearDownClass</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1stack_1_1_empty_exception" kind="class"><name>financialmarketsimulator::stack::EmptyException</name>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_empty_exception_1ac89be1a9a37af8d039c3c47599fb35c6" kind="function"><name>EmptyException</name></member>
+  </compound>
+  <compound refid="class_exchange_unit_test" kind="class"><name>ExchangeUnitTest</name>
+    <member refid="class_exchange_unit_test_1af3ee60d26d520d58f5d1ffd0712be054" kind="variable"><name>exchange</name></member>
+    <member refid="class_exchange_unit_test_1a5d935cc130f600879e820fe1b7cb1af6" kind="function"><name>ExchangeUnitTest</name></member>
+    <member refid="class_exchange_unit_test_1a61dd0af902dc0da5513c53a2dc797b33" kind="function"><name>setUp</name></member>
+    <member refid="class_exchange_unit_test_1a58164607cebb6763d2c7ab8866988cfb" kind="function"><name>tearDown</name></member>
+    <member refid="class_exchange_unit_test_1a7196c89003b25fcbe16ce03c95ad3cb6" kind="function"><name>instantiation</name></member>
+    <member refid="class_exchange_unit_test_1abaa84464701e883f0938e6fdbe2b72b5" kind="function"><name>setUpClass</name></member>
+    <member refid="class_exchange_unit_test_1aeb8675a172645bd95fe665ad75f92bd5" kind="function"><name>tearDownClass</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1_financial_market_simulator" kind="class"><name>financialmarketsimulator::FinancialMarketSimulator</name>
+    <member refid="classfinancialmarketsimulator_1_1_financial_market_simulator_1a55f0112537bdd6b3fb2607dd767d2ece" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1_market_entity" kind="class"><name>financialmarketsimulator::MarketEntity</name>
+    <member refid="classfinancialmarketsimulator_1_1_market_entity_1a115fb994b2d376d6122ce1ccb64e900b" kind="variable"><name>marketName</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entity_1a4ebe72cd5259043f9acf42eb4bbd29fb" kind="variable"><name>entityID</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entity_1a7db150a75db8fbd0430f5bf87227b229" kind="variable"><name>type</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entity_1a94223fa07955cf4b4ee8a46a9a7b8915" kind="variable"><name>strategies</name></member>
+  </compound>
+  <compound refid="class_market_entity_unit_test" kind="class"><name>MarketEntityUnitTest</name>
+    <member refid="class_market_entity_unit_test_1abd5946a03ecf362ca65e0372b76b23d6" kind="function"><name>MarketEntityUnitTest</name></member>
+    <member refid="class_market_entity_unit_test_1a146492fa14011135db8b95abaeb1fe48" kind="function"><name>setUp</name></member>
+    <member refid="class_market_entity_unit_test_1abaa756813805984bc9dd42799d2712c4" kind="function"><name>tearDown</name></member>
+    <member refid="class_market_entity_unit_test_1a55db93367ff6381d89024a48ab61b7e3" kind="function"><name>setUpClass</name></member>
+    <member refid="class_market_entity_unit_test_1a0fc27471ace003490b7088fd122a73a8" kind="function"><name>tearDownClass</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kind="class"><name>financialmarketsimulator::MarketEntryAttempt</name>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a6e3074ceef1578108b239a355b0a6747" kind="variable"><name>price</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a5333f3fb0b26cba3382a05e582f86d8a" kind="variable"><name>numberOfShares</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a3b4418b6906b72597b72ec50a245afce" kind="variable"><name>participantName</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7dcd3bab8cbe1498e452bec851e5ec5d" kind="variable"><name>date</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1acd62492a481b9db42703ce1c60a01ff3" kind="variable"><name>timeStamp</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a18b910056492a3eca05b112d7003bea7" kind="function"><name>MarketEntryAttempt</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a9b2f8a9eef7975bc053907e2ea05c779" kind="function"><name>MarketEntryAttempt</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a465bd475d2cf836c09e51e26ae937e66" kind="function"><name>getPrice</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1ae48c6d1bc9ef23b88d077ee194686946" kind="function"><name>getNumberOfShares</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7c461ce88325da7ce771ef3e8284616c" kind="function"><name>getParticipantName</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a48ec5ce3d7d0451da742f3290f0e3b52" kind="function"><name>getTimeStanp</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1ac350f88eed14da376cb58aa920df2f38" kind="function"><name>setPrice</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a27476573fd4a0aa03270c648500a3c98" kind="function"><name>setNumberOfShares</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1af2b5d63e0ac8d2e39cf474e128739c8a" kind="function"><name>setParticipantName</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node" kind="class"><name>financialmarketsimulator::stack::MarketEntryAttemptNode</name>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a9671342fa6e35efe9cbf03385e606f32" kind="variable"><name>next</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a9a2784e51cab776b17f9957dbb2feb04" kind="variable"><name>node</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a1b07a62e05f0a51e7e77edbad7e1b07d" kind="function"><name>MarketEntryAttemptNode</name></member>
+  </compound>
+  <compound refid="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test" kind="class"><name>stackPackageUnitTests::MarketEntryAttemptNodeUnitTest</name>
+    <member refid="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1a89d17da03de1228fdbe1288b2e9c938f" kind="function"><name>MarketEntryAttemptNodeUnitTest</name></member>
+    <member refid="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1a9390c1c0e025bf0b4e52d90e823b178e" kind="function"><name>setUp</name></member>
+    <member refid="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1ac53239c7d35e9cf1105772b0830bf111" kind="function"><name>tearDown</name></member>
+    <member refid="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1a4ca18c744d6e0e6ae6c71d18dc292e13" kind="function"><name>setUpClass</name></member>
+    <member refid="classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test_1af36feb95c6dbe4c59ce7f2014d7ba4ae" kind="function"><name>tearDownClass</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1_market_manager" kind="class"><name>financialmarketsimulator::MarketManager</name>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1a0b4541dae75786e9d112902a291451e7" kind="variable"><name>stockName</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1ae0b027e815b5fa8aad4e94128c36ce61" kind="variable"><name>stockType</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1ae1104e3ec64ad7851796ebf92aa1eb4d" kind="variable"><name>totalNumberOfShares</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1af942b20a8919ab994d4c953515ee43da" kind="variable"><name>stockMarketValue</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1a91ee7d24908d9e97d999cb6da7f12366" kind="variable"><name>matchingEngine</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1a2dc19fc7b921365bc5172a3f5b7933c8" kind="variable"><name>bidsStack</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1aae3fa88d6f64385e76d53b1a38b03070" kind="variable"><name>offerStack</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1a59e7711f4974dd07fb5aa89f77824f86" kind="function"><name>MarketManager</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1abec3bfc62ba95bd12c444492b7cad61e" kind="function"><name>MarketManager</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1a468b11be3b1e2ce72f93dfc25468273b" kind="function"><name>acceptBid</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1a2f9ad41c35ca0bb1ad2ac045f8cd3dd3" kind="function"><name>acceptOffer</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1aa8c0454b1d66599ff5abbb01d35790e8" kind="function"><name>removeBid</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1ad49a43c96b962562014c7bb37dfa5f7e" kind="function"><name>removeOffer</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1afb2bf557ed70cd23feccddfb5c01ab0d" kind="function"><name>updateEngine</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1a32d674b201543e3a6783ec64ba172266" kind="function"><name>updateEntities</name></member>
+  </compound>
+  <compound refid="class_market_manager_unit_test" kind="class"><name>MarketManagerUnitTest</name>
+    <member refid="class_market_manager_unit_test_1a577686bfd319e34bfbdaf76c308f2117" kind="variable"><name>marketManager</name></member>
+    <member refid="class_market_manager_unit_test_1ad67ee1cfc8c8f11b6a3bef139ed7432e" kind="function"><name>MarketManagerUnitTest</name></member>
+    <member refid="class_market_manager_unit_test_1a7675c43ec3a21669742870c5ff7bcdef" kind="function"><name>setUp</name></member>
+    <member refid="class_market_manager_unit_test_1a8ce1dfb5c96973d49b3b1308bc9b77b9" kind="function"><name>tearDown</name></member>
+    <member refid="class_market_manager_unit_test_1a975ffc40c27926b93d755a313440c35a" kind="function"><name>instantiation</name></member>
+    <member refid="class_market_manager_unit_test_1aadbb351148ad8792ffdc73d21a477d46" kind="function"><name>acceptBidTest</name></member>
+    <member refid="class_market_manager_unit_test_1a048bcd980b57e21cf535525c3d354327" kind="function"><name>acceptOfferTest</name></member>
+    <member refid="class_market_manager_unit_test_1ad15bca438fb420eb4edc10d2a6d5d69b" kind="function"><name>removeBidTest</name></member>
+    <member refid="class_market_manager_unit_test_1a3a39f91093490fa570428eeadbee53d8" kind="function"><name>removeOfferTest</name></member>
+    <member refid="class_market_manager_unit_test_1a1c14446d8fae8ccdc8bbfb43054a5528" kind="function"><name>updateEngineTest</name></member>
+    <member refid="class_market_manager_unit_test_1ac830f868e90ae29122ae6382a4d227de" kind="function"><name>updateEntitiesTest</name></member>
+    <member refid="class_market_manager_unit_test_1a5ecff1008c99832638bca96b9a12c129" kind="function"><name>setUpClass</name></member>
+    <member refid="class_market_manager_unit_test_1a6384859a83037cf70ee3a30835e9067e" kind="function"><name>tearDownClass</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1_market_strategy" kind="class"><name>financialmarketsimulator::MarketStrategy</name>
+    <member refid="classfinancialmarketsimulator_1_1_market_strategy_1a82e5b65bef66ffadea8085e3ca107130" kind="function"><name>makeOffer</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_strategy_1a2a518f43a8460feab62ef5c31d0e02c9" kind="function"><name>makeBid</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_strategy_1ab7bbd10cab2e86f3c48c81bbb4c058e2" kind="function"><name>retractBid</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_strategy_1aa3e0b344b5025ab9aa4a36df70b48ec3" kind="function"><name>retractOffer</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_strategy_1ae65923e56266106ecb5b4b7f89a4e70b" kind="function"><name>setStrategy</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_strategy_1ac773269f4e29a7b1099b3495d1781823" kind="function"><name>searchMarketEntryAttempt</name></member>
+  </compound>
+  <compound refid="class_market_strategy_unit_test" kind="class"><name>MarketStrategyUnitTest</name>
+    <member refid="class_market_strategy_unit_test_1ae43ac2b179784a2176d37163c075fe7d" kind="function"><name>MarketStrategyUnitTest</name></member>
+    <member refid="class_market_strategy_unit_test_1aab34abed7a4e3829160450b21793da17" kind="function"><name>setUp</name></member>
+    <member refid="class_market_strategy_unit_test_1afa4e0a0e8292236fbcf994dc042741fb" kind="function"><name>tearDown</name></member>
+    <member refid="class_market_strategy_unit_test_1ab814f5c9983e0eaa02f7c5040b81971a" kind="function"><name>makeOfferTest</name></member>
+    <member refid="class_market_strategy_unit_test_1a98b0ebe10401ed5d3c9af160dfcb8f2a" kind="function"><name>makeBidTest</name></member>
+    <member refid="class_market_strategy_unit_test_1aa0b0a03a9824cd06bc94c68d9c45042f" kind="function"><name>retractBidTest</name></member>
+    <member refid="class_market_strategy_unit_test_1a045225ba03abd2845f49e6c0e065712a" kind="function"><name>retractOfferTest</name></member>
+    <member refid="class_market_strategy_unit_test_1ac701e483e622d7a918f1b8f21f024108" kind="function"><name>setStrategyTest</name></member>
+    <member refid="class_market_strategy_unit_test_1a090ee23fae74dd8351ad91f17c784627" kind="function"><name>searchMarketEntryAttempt</name></member>
+    <member refid="class_market_strategy_unit_test_1ab6f9926edcaa9511516b0b3bb1025b9f" kind="function"><name>setUpClass</name></member>
+    <member refid="class_market_strategy_unit_test_1aeb485798bfb7f18a04b6355e6f2a2581" kind="function"><name>tearDownClass</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1_matching_engine" kind="class"><name>financialmarketsimulator::MatchingEngine</name>
+    <member refid="classfinancialmarketsimulator_1_1_matching_engine_1a2b6448ca83b5c11a9e48afd1286a6bb0" kind="function"><name>MatchingEngine</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_matching_engine_1aa835268cf4fa1feff9f528b72cadd57f" kind="function"><name>trade</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_matching_engine_1a7a5e112f743728b6ea9d62d263fb74e3" kind="function"><name>update</name></member>
+  </compound>
+  <compound refid="class_matching_engine_unit_test" kind="class"><name>MatchingEngineUnitTest</name>
+    <member refid="class_matching_engine_unit_test_1a9b9c1aa450f77228a7473644d5e7a8d1" kind="variable"><name>matchingEngine</name></member>
+    <member refid="class_matching_engine_unit_test_1ac0212366a59b035f17ecece829dd8237" kind="function"><name>MatchingEngineUnitTest</name></member>
+    <member refid="class_matching_engine_unit_test_1a2fe9413d67e2ad0c8233d11d1f209548" kind="function"><name>setUp</name></member>
+    <member refid="class_matching_engine_unit_test_1adececd49e895e978d85a27b8470104d3" kind="function"><name>tearDown</name></member>
+    <member refid="class_matching_engine_unit_test_1acbb8d543a15e349d8f46769388fd28bd" kind="function"><name>instantiation</name></member>
+    <member refid="class_matching_engine_unit_test_1a2dbbdf5632bac8d35d6902caf5556c5f" kind="function"><name>tradeTest</name></member>
+    <member refid="class_matching_engine_unit_test_1a914f15f54087d84798e02b33734a9791" kind="function"><name>updateTest</name></member>
+    <member refid="class_matching_engine_unit_test_1a35f673f5cdf8f8282686a1f84ee2dd37" kind="function"><name>setUpClass</name></member>
+    <member refid="class_matching_engine_unit_test_1a0fb23de300ffd3a7d2b42e84d457be09" kind="function"><name>tearDownClass</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1_offer" kind="class"><name>financialmarketsimulator::Offer</name>
+    <member refid="classfinancialmarketsimulator_1_1_offer_1afd21aead83f37337c381877a047004e8" kind="function"><name>Offer</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_offer_1a155651fa401d386b3e97067f02300b18" kind="function"><name>Offer</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1receipts_1_1_offer_receipt" kind="class"><name>financialmarketsimulator::receipts::OfferReceipt</name>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1stack_1_1_offer_stack" kind="class"><name>financialmarketsimulator::stack::OfferStack</name>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_offer_stack_1a34bc18d02e364310b528b9a40f58d16f" kind="function"><name>sortStack</name></member>
+  </compound>
+  <compound refid="class_offer_unit_test" kind="class"><name>OfferUnitTest</name>
+    <member refid="class_offer_unit_test_1a9203abc6708ce6e8e6a6b7789fb59cc5" kind="function"><name>OfferUnitTest</name></member>
+    <member refid="class_offer_unit_test_1a491087ff4d8fd6bad517f3e65c6a2c1a" kind="function"><name>setUp</name></member>
+    <member refid="class_offer_unit_test_1a8e3f348a59b90790bb602bafbe7e2c0d" kind="function"><name>tearDown</name></member>
+    <member refid="class_offer_unit_test_1a6a183dfb778383f20231c0dd4a43dc65" kind="function"><name>instantiation</name></member>
+    <member refid="class_offer_unit_test_1a814f87470fbd7747577a8d21a1e31374" kind="function"><name>setUpClass</name></member>
+    <member refid="class_offer_unit_test_1afcf0203b47fec4b0899c2e53f2a1a4dc" kind="function"><name>tearDownClass</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1receipts_1_1_receipt" kind="class"><name>financialmarketsimulator::receipts::Receipt</name>
+  </compound>
+  <compound refid="class_receipt_unit_test" kind="class"><name>ReceiptUnitTest</name>
+    <member refid="class_receipt_unit_test_1aae54603d2821a419c61a3902a39d0ee7" kind="function"><name>ReceiptUnitTest</name></member>
+    <member refid="class_receipt_unit_test_1aac78b41793c52301090b041a76a7990d" kind="function"><name>setUp</name></member>
+    <member refid="class_receipt_unit_test_1af07963be2cea104cb428a55a6216fc68" kind="function"><name>tearDown</name></member>
+    <member refid="class_receipt_unit_test_1aab92fcc0a866db8ec56ed65b9693cdc8" kind="function"><name>instantiation</name></member>
+    <member refid="class_receipt_unit_test_1a349b50a6df17f5b573210fab7cb7ed50" kind="function"><name>setUpClass</name></member>
+    <member refid="class_receipt_unit_test_1a16caf64de74462999a3e508979cb4438" kind="function"><name>tearDownClass</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1stack_1_1_stack" kind="class"><name>financialmarketsimulator::stack::Stack</name>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1a3d774a80f7b2cd7107debc25eebc48cb" kind="variable"><name>top</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1a85502bdf69183f7582b6c8d11bfb82b1" kind="variable"><name>backoff</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1ac8d5da14bd84123fcb4c7ad24a1defdc" kind="variable"><name>MIN_DELAY</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1a040a6c6c3fa81f771e4d8d9e790a9b62" kind="variable"><name>MAX_DELAY</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1a2566c4821f0d3091cdac87b5ee7404bf" kind="function"><name>tryPush</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1aacd57a41238742e12b8ee9f20b93b162" kind="function"><name>tryPop</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1a923eeb3696e2bbb208516defd3039213" kind="function"><name>push</name></member>
+    <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1acf0de0447fa83242a8409bc5903ca215" kind="function"><name>pop</name></member>
+  </compound>
+  <compound refid="classstack_package_unit_tests_1_1_stack_unit_test" kind="class"><name>stackPackageUnitTests::StackUnitTest</name>
+    <member refid="classstack_package_unit_tests_1_1_stack_unit_test_1ac01ed09cc4839564ab5190194fc2a779" kind="function"><name>StackUnitTest</name></member>
+    <member refid="classstack_package_unit_tests_1_1_stack_unit_test_1a21d7f0fe59add6adeba3968a0efd6665" kind="function"><name>setUp</name></member>
+    <member refid="classstack_package_unit_tests_1_1_stack_unit_test_1a2e35176b63667c6e025495e811b5d473" kind="function"><name>tearDown</name></member>
+    <member refid="classstack_package_unit_tests_1_1_stack_unit_test_1ab44e5f0e6f4dfcdc89b416109dd7db11" kind="function"><name>setUpClass</name></member>
+    <member refid="classstack_package_unit_tests_1_1_stack_unit_test_1ab065aabd4484126579c30a5ab4acb941" kind="function"><name>tearDownClass</name></member>
+  </compound>
+  <compound refid="interfacefinancialmarketsimulator_1_1_trade" kind="interface"><name>financialmarketsimulator::Trade</name>
+    <member refid="interfacefinancialmarketsimulator_1_1_trade_1aba2e7742e3c7a477417abb741eb049af" kind="function"><name>makeOffer</name></member>
+    <member refid="interfacefinancialmarketsimulator_1_1_trade_1ab84e578afb7f519b018ebc0ffaab4d2a" kind="function"><name>makeBid</name></member>
+    <member refid="interfacefinancialmarketsimulator_1_1_trade_1a22d67d3c44faaf8fca8a4fd2d78a3e75" kind="function"><name>retractBid</name></member>
+    <member refid="interfacefinancialmarketsimulator_1_1_trade_1a1a1cbe142a99ac5e08872efea02239f7" kind="function"><name>retractOffer</name></member>
+    <member refid="interfacefinancialmarketsimulator_1_1_trade_1aa3cfc0cff8e9a08e48cfd70ae870cb8b" kind="function"><name>setStrategy</name></member>
+    <member refid="interfacefinancialmarketsimulator_1_1_trade_1a2635502a77913bfa79d6a953ee7c3c1f" kind="function"><name>searchMarketEntryAttempt</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1receipts_1_1_trade_receipt" kind="class"><name>financialmarketsimulator::receipts::TradeReceipt</name>
+  </compound>
+  <compound refid="class_trade_unit_test" kind="class"><name>TradeUnitTest</name>
+    <member refid="class_trade_unit_test_1abbeaf5bc821390bec6f419d89956e7ac" kind="function"><name>TradeUnitTest</name></member>
+    <member refid="class_trade_unit_test_1aef602b2b9e5555fc5da1bb749b611ccd" kind="function"><name>setUp</name></member>
+    <member refid="class_trade_unit_test_1a34ba2c94e327c25a445241730d3953ef" kind="function"><name>tearDown</name></member>
+    <member refid="class_trade_unit_test_1a5be15b13c335f6325b1ee14ef9062a92" kind="function"><name>setUpClass</name></member>
+    <member refid="class_trade_unit_test_1a12cc028ac0612978efa5400afd4baaa5" kind="function"><name>tearDownClass</name></member>
+  </compound>
+  <compound refid="namespacefinancialmarketsimulator" kind="namespace"><name>financialmarketsimulator</name>
+  </compound>
+  <compound refid="namespacefinancialmarketsimulator_1_1receipts" kind="namespace"><name>financialmarketsimulator::receipts</name>
+  </compound>
+  <compound refid="namespacefinancialmarketsimulator_1_1stack" kind="namespace"><name>financialmarketsimulator::stack</name>
+  </compound>
+  <compound refid="namespaceorg_1_1junit_1_1_assert" kind="namespace"><name>org::junit::Assert</name>
+  </compound>
+  <compound refid="namespacestack_package_unit_tests" kind="namespace"><name>stackPackageUnitTests</name>
+  </compound>
+  <compound refid="_bid_8java" kind="file"><name>Bid.java</name>
+  </compound>
+  <compound refid="_financial_market_simulator_8java" kind="file"><name>FinancialMarketSimulator.java</name>
+  </compound>
+  <compound refid="_market_entity_8java" kind="file"><name>MarketEntity.java</name>
+  </compound>
+  <compound refid="_market_entry_attempt_8java" kind="file"><name>MarketEntryAttempt.java</name>
+  </compound>
+  <compound refid="_market_manager_8java" kind="file"><name>MarketManager.java</name>
+  </compound>
+  <compound refid="_market_strategy_8java" kind="file"><name>MarketStrategy.java</name>
+  </compound>
+  <compound refid="_matching_engine_8java" kind="file"><name>MatchingEngine.java</name>
+  </compound>
+  <compound refid="_offer_8java" kind="file"><name>Offer.java</name>
+  </compound>
+  <compound refid="_bid_receipt_8java" kind="file"><name>BidReceipt.java</name>
+  </compound>
+  <compound refid="_offer_receipt_8java" kind="file"><name>OfferReceipt.java</name>
+  </compound>
+  <compound refid="_receipt_8java" kind="file"><name>Receipt.java</name>
+  </compound>
+  <compound refid="_trade_receipt_8java" kind="file"><name>TradeReceipt.java</name>
+  </compound>
+  <compound refid="_backoff_8java" kind="file"><name>Backoff.java</name>
+  </compound>
+  <compound refid="_bid_stack_8java" kind="file"><name>BidStack.java</name>
+  </compound>
+  <compound refid="_empty_exception_8java" kind="file"><name>EmptyException.java</name>
+  </compound>
+  <compound refid="_market_entry_attempt_node_8java" kind="file"><name>MarketEntryAttemptNode.java</name>
+  </compound>
+  <compound refid="_offer_stack_8java" kind="file"><name>OfferStack.java</name>
+  </compound>
+  <compound refid="_stack_8java" kind="file"><name>Stack.java</name>
+  </compound>
+  <compound refid="_trade_8java" kind="file"><name>Trade.java</name>
+  </compound>
+  <compound refid="_bid_unit_test_8java" kind="file"><name>BidUnitTest.java</name>
+  </compound>
+  <compound refid="_exchange_unit_test_8java" kind="file"><name>ExchangeUnitTest.java</name>
+  </compound>
+  <compound refid="_market_entity_unit_test_8java" kind="file"><name>MarketEntityUnitTest.java</name>
+  </compound>
+  <compound refid="_market_manager_unit_test_8java" kind="file"><name>MarketManagerUnitTest.java</name>
+  </compound>
+  <compound refid="_market_strategy_unit_test_8java" kind="file"><name>MarketStrategyUnitTest.java</name>
+  </compound>
+  <compound refid="_matching_engine_unit_test_8java" kind="file"><name>MatchingEngineUnitTest.java</name>
+  </compound>
+  <compound refid="_offer_unit_test_8java" kind="file"><name>OfferUnitTest.java</name>
+  </compound>
+  <compound refid="_receipt_unit_test_8java" kind="file"><name>ReceiptUnitTest.java</name>
+  </compound>
+  <compound refid="_market_entry_attempt_node_unit_test_8java" kind="file"><name>MarketEntryAttemptNodeUnitTest.java</name>
+  </compound>
+  <compound refid="_stack_unit_test_8java" kind="file"><name>StackUnitTest.java</name>
+  </compound>
+  <compound refid="_trade_unit_test_8java" kind="file"><name>TradeUnitTest.java</name>
+  </compound>
+  <compound refid="todo" kind="page"><name>todo</name>
+  </compound>
+  <compound refid="dir_1c3d04a1d42243e861f4366d8e5f6de5" kind="dir"><name>C:/Users/Madimetja/Documents/GitHub/bravo</name>
+  </compound>
+  <compound refid="dir_878d062290a498f31d2bf10f755df26d" kind="dir"><name>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator</name>
+  </compound>
+  <compound refid="dir_79556c42e2f93d2b069fd7d05156430c" kind="dir"><name>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator</name>
+  </compound>
+  <compound refid="dir_e5fbe6d2783ccd4c93c7856d92d7be6e" kind="dir"><name>C:/Users/Madimetja/Documents/GitHub</name>
+  </compound>
+  <compound refid="dir_a2e395377a3410ca19ae3a075d11db2c" kind="dir"><name>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/receipts</name>
+  </compound>
+  <compound refid="dir_b952635d537484dc3587ddcc47779f38" kind="dir"><name>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src</name>
+  </compound>
+  <compound refid="dir_3a75d973409d46dc9dc25b989a1fa52c" kind="dir"><name>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack</name>
+  </compound>
+  <compound refid="dir_7a5c4462b1f302c60f03039fcf9c32e2" kind="dir"><name>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests</name>
+  </compound>
+  <compound refid="dir_71d9371f5427f638fd8d2dc3d6773918" kind="dir"><name>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test</name>
+  </compound>
+</doxygenindex>

@@ -1,15 +1,4 @@
 var searchData=
 [
-  ['marketentity',['MarketEntity',['../classfinancialmarketsimulator_1_1_market_entity.html',1,'financialmarketsimulator']]],
-  ['marketentityunittest',['MarketEntityUnitTest',['../class_market_entity_unit_test.html',1,'']]],
-  ['marketentryattempt',['MarketEntryAttempt',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html',1,'financialmarketsimulator']]],
-  ['marketentryattempt',['MarketEntryAttempt',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a9b2f8a9eef7975bc053907e2ea05c779',1,'financialmarketsimulator::MarketEntryAttempt']]],
-  ['marketentryattemptnode',['MarketEntryAttemptNode',['../classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node.html',1,'financialmarketsimulator::stack']]],
-  ['marketentryattemptnodeunittest',['MarketEntryAttemptNodeUnitTest',['../classstack_package_unit_tests_1_1_market_entry_attempt_node_unit_test.html',1,'stackPackageUnitTests']]],
-  ['marketmanager',['MarketManager',['../classfinancialmarketsimulator_1_1_market_manager.html',1,'financialmarketsimulator']]],
-  ['marketmanagerunittest',['MarketManagerUnitTest',['../class_market_manager_unit_test.html',1,'']]],
-  ['marketstrategy',['MarketStrategy',['../classfinancialmarketsimulator_1_1_market_strategy.html',1,'financialmarketsimulator']]],
-  ['marketstrategyunittest',['MarketStrategyUnitTest',['../class_market_strategy_unit_test.html',1,'']]],
-  ['matchingengine',['MatchingEngine',['../classfinancialmarketsimulator_1_1_matching_engine.html',1,'financialmarketsimulator']]],
-  ['matchingengineunittest',['MatchingEngineUnitTest',['../class_matching_engine_unit_test.html',1,'']]]
+  ['instantiation',['instantiation',['../class_bid_unit_test.html#a00b30251528b2203d6d9f17c321bc499',1,'BidUnitTest.instantiation()'],['../class_exchange_unit_test.html#a7196c89003b25fcbe16ce03c95ad3cb6',1,'ExchangeUnitTest.instantiation()'],['../class_market_manager_unit_test.html#a975ffc40c27926b93d755a313440c35a',1,'MarketManagerUnitTest.instantiation()'],['../class_matching_engine_unit_test.html#acbb8d543a15e349d8f46769388fd28bd',1,'MatchingEngineUnitTest.instantiation()'],['../class_offer_unit_test.html#a6a183dfb778383f20231c0dd4a43dc65',1,'OfferUnitTest.instantiation()'],['../class_receipt_unit_test.html#aab92fcc0a866db8ec56ed65b9693cdc8',1,'ReceiptUnitTest.instantiation()']]]
 ];

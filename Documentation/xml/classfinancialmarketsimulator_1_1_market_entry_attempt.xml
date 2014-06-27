@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="classfinancialmarketsimulator_1_1_market_entry_attempt" kind="class" prot="public">
+    <compoundname>financialmarketsimulator::MarketEntryAttempt</compoundname>
+    <derivedcompoundref refid="classfinancialmarketsimulator_1_1_bid" prot="public" virt="non-virtual">financialmarketsimulator.Bid</derivedcompoundref>
+    <derivedcompoundref refid="classfinancialmarketsimulator_1_1_offer" prot="public" virt="non-virtual">financialmarketsimulator.Offer</derivedcompoundref>
+      <sectiondef kind="protected-attrib">
+      <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1a6e3074ceef1578108b239a355b0a6747" prot="protected" static="no" mutable="no">
+        <type>double</type>
+        <definition>double financialmarketsimulator.MarketEntryAttempt.price</definition>
+        <argsstring></argsstring>
+        <name>price</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Stores the price of the entry attempt. This can be either a bid share price or an offer share price. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="20" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1a5333f3fb0b26cba3382a05e582f86d8a" prot="protected" static="no" mutable="no">
+        <type>int</type>
+        <definition>int financialmarketsimulator.MarketEntryAttempt.numberOfShares</definition>
+        <argsstring></argsstring>
+        <name>numberOfShares</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Stores the number of shares being offered of bid. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="24" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1a3b4418b6906b72597b72ec50a245afce" prot="protected" static="no" mutable="no">
+        <type>String</type>
+        <definition>String financialmarketsimulator.MarketEntryAttempt.participantName</definition>
+        <argsstring></argsstring>
+        <name>participantName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Stores the name of the participant making the bid or offer. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="28" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7dcd3bab8cbe1498e452bec851e5ec5d" prot="protected" static="no" mutable="no">
+        <type>Date</type>
+        <definition>Date financialmarketsimulator.MarketEntryAttempt.date</definition>
+        <argsstring></argsstring>
+        <name>date</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Java Data variable to get current date. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="32" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1acd62492a481b9db42703ce1c60a01ff3" prot="protected" static="no" mutable="no">
+        <type>String</type>
+        <definition>String financialmarketsimulator.MarketEntryAttempt.timeStamp</definition>
+        <argsstring></argsstring>
+        <name>timeStamp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Stores the date and time the offer or bid was made. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="36" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="36" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1a18b910056492a3eca05b112d7003bea7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>financialmarketsimulator.MarketEntryAttempt.MarketEntryAttempt</definition>
+        <argsstring>()</argsstring>
+        <name>MarketEntryAttempt</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="39" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="39" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1a9b2f8a9eef7975bc053907e2ea05c779" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>financialmarketsimulator.MarketEntryAttempt.MarketEntryAttempt</definition>
+        <argsstring>(double pr, int numShares, String name)</argsstring>
+        <name>MarketEntryAttempt</name>
+        <param>
+          <type>double</type>
+          <declname>pr</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>numShares</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000001"><xreftitle>Todo</xreftitle><xrefdescription><para><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref> class constructor</para></xrefdescription></xrefsect></para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>pr</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The price of the entry attempt </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>numShares</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of shares being bid or offered </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name of the participant making the bid or the offer. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="51" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="51" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1a465bd475d2cf836c09e51e26ae937e66" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>double</type>
+        <definition>double financialmarketsimulator.MarketEntryAttempt.getPrice</definition>
+        <argsstring>()</argsstring>
+        <name>getPrice</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Double value for the price of the entry attempt, i.e. bid or offer </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="62" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="62" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1ae48c6d1bc9ef23b88d077ee194686946" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int financialmarketsimulator.MarketEntryAttempt.getNumberOfShares</definition>
+        <argsstring>()</argsstring>
+        <name>getNumberOfShares</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Integer value for the number of shares being offered or bid. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="69" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="69" bodyend="71"/>
+      </memberdef>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7c461ce88325da7ce771ef3e8284616c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String financialmarketsimulator.MarketEntryAttempt.getParticipantName</definition>
+        <argsstring>()</argsstring>
+        <name>getParticipantName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>String value for the name of the market participant who made the entry attempt. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="76" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="76" bodyend="78"/>
+      </memberdef>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1a48ec5ce3d7d0451da742f3290f0e3b52" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String financialmarketsimulator.MarketEntryAttempt.getTimeStanp</definition>
+        <argsstring>()</argsstring>
+        <name>getTimeStanp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>String value representing time stamp of the entry attempt formatted as DD/MM/YYYY HH:MM:SS:MS TIME_ZONE </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="83" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="83" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1ac350f88eed14da376cb58aa920df2f38" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void financialmarketsimulator.MarketEntryAttempt.setPrice</definition>
+        <argsstring>(double _price)</argsstring>
+        <name>setPrice</name>
+        <param>
+          <type>double</type>
+          <declname>_price</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000002"><xreftitle>Todo</xreftitle><xrefdescription><para>Sets the price of the shares for entry attempt, i.e. sets the price of shares being offered or bid. <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>_price</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The price of the shares for the entry attempt. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="91" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="91" bodyend="94"/>
+      </memberdef>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1a27476573fd4a0aa03270c648500a3c98" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void financialmarketsimulator.MarketEntryAttempt.setNumberOfShares</definition>
+        <argsstring>(int _numShares)</argsstring>
+        <name>setNumberOfShares</name>
+        <param>
+          <type>int</type>
+          <declname>_numShares</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000003"><xreftitle>Todo</xreftitle><xrefdescription><para>Sets the number of shares for the entry attempt, i.e. the number of shares being offered or bid <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>_numShares</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of shares for the entry attempt. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="100" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="100" bodyend="103"/>
+      </memberdef>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_entry_attempt_1af2b5d63e0ac8d2e39cf474e128739c8a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void financialmarketsimulator.MarketEntryAttempt.setParticipantName</definition>
+        <argsstring>(String _name)</argsstring>
+        <name>setParticipantName</name>
+        <param>
+          <type>String</type>
+          <declname>_name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000004"><xreftitle>Todo</xreftitle><xrefdescription><para>Sets the name of the participant making the entry attempt. <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>_name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name of the participant making the entry attempt. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="109" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="109" bodyend="112"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="36">
+        <label>financialmarketsimulator.Bid</label>
+        <link refid="classfinancialmarketsimulator_1_1_bid"/>
+        <childnode refid="35" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="35">
+        <label>financialmarketsimulator.MarketEntryAttempt</label>
+        <link refid="classfinancialmarketsimulator_1_1_market_entry_attempt"/>
+      </node>
+      <node id="37">
+        <label>financialmarketsimulator.Offer</label>
+        <link refid="classfinancialmarketsimulator_1_1_offer"/>
+        <childnode refid="35" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="38">
+        <label>financialmarketsimulator.MarketEntryAttempt</label>
+        <link refid="classfinancialmarketsimulator_1_1_market_entry_attempt"/>
+        <childnode refid="39" relation="usage">
+          <edgelabel>date</edgelabel>
+        </childnode>
+      </node>
+      <node id="39">
+        <label>Date</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" line="14" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java" bodystart="14" bodyend="113"/>
+    <listofallmembers>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7dcd3bab8cbe1498e452bec851e5ec5d" prot="protected" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>date</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1ae48c6d1bc9ef23b88d077ee194686946" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>getNumberOfShares</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7c461ce88325da7ce771ef3e8284616c" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>getParticipantName</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a465bd475d2cf836c09e51e26ae937e66" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>getPrice</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a48ec5ce3d7d0451da742f3290f0e3b52" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>getTimeStanp</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a18b910056492a3eca05b112d7003bea7" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>MarketEntryAttempt</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a9b2f8a9eef7975bc053907e2ea05c779" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>MarketEntryAttempt</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a5333f3fb0b26cba3382a05e582f86d8a" prot="protected" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>numberOfShares</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a3b4418b6906b72597b72ec50a245afce" prot="protected" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>participantName</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a6e3074ceef1578108b239a355b0a6747" prot="protected" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>price</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a27476573fd4a0aa03270c648500a3c98" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>setNumberOfShares</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1af2b5d63e0ac8d2e39cf474e128739c8a" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>setParticipantName</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1ac350f88eed14da376cb58aa920df2f38" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>setPrice</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1acd62492a481b9db42703ce1c60a01ff3" prot="protected" virt="non-virtual"><scope>financialmarketsimulator::MarketEntryAttempt</scope><name>timeStamp</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

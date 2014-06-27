@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="class_receipt_unit_test" kind="class" prot="public">
+    <compoundname>ReceiptUnitTest</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_receipt_unit_test_1aae54603d2821a419c61a3902a39d0ee7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>ReceiptUnitTest.ReceiptUnitTest</definition>
+        <argsstring>()</argsstring>
+        <name>ReceiptUnitTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" line="20" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" bodystart="20" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_receipt_unit_test_1aac78b41793c52301090b041a76a7990d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ReceiptUnitTest.setUp</definition>
+        <argsstring>()</argsstring>
+        <name>setUp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" line="32" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" bodystart="32" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_receipt_unit_test_1af07963be2cea104cb428a55a6216fc68" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ReceiptUnitTest.tearDown</definition>
+        <argsstring>()</argsstring>
+        <name>tearDown</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" line="36" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" bodystart="36" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_receipt_unit_test_1aab92fcc0a866db8ec56ed65b9693cdc8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ReceiptUnitTest.instantiation</definition>
+        <argsstring>()</argsstring>
+        <name>instantiation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000022"><xreftitle>Todo</xreftitle><xrefdescription><para>Tests if the Receipt object instantiates as expected </para></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" line="43" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_receipt_unit_test_1a349b50a6df17f5b573210fab7cb7ed50" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void ReceiptUnitTest.setUpClass</definition>
+        <argsstring>()</argsstring>
+        <name>setUpClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" line="24" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" bodystart="24" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_receipt_unit_test_1a16caf64de74462999a3e508979cb4438" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void ReceiptUnitTest.tearDownClass</definition>
+        <argsstring>()</argsstring>
+        <name>tearDownClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" line="28" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" bodystart="28" bodyend="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+</para>    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" line="18" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ReceiptUnitTest.java" bodystart="18" bodyend="49"/>
+    <listofallmembers>
+      <member refid="class_receipt_unit_test_1aab92fcc0a866db8ec56ed65b9693cdc8" prot="public" virt="non-virtual"><scope>ReceiptUnitTest</scope><name>instantiation</name></member>
+      <member refid="class_receipt_unit_test_1aae54603d2821a419c61a3902a39d0ee7" prot="public" virt="non-virtual"><scope>ReceiptUnitTest</scope><name>ReceiptUnitTest</name></member>
+      <member refid="class_receipt_unit_test_1aac78b41793c52301090b041a76a7990d" prot="public" virt="non-virtual"><scope>ReceiptUnitTest</scope><name>setUp</name></member>
+      <member refid="class_receipt_unit_test_1a349b50a6df17f5b573210fab7cb7ed50" prot="public" virt="non-virtual"><scope>ReceiptUnitTest</scope><name>setUpClass</name></member>
+      <member refid="class_receipt_unit_test_1af07963be2cea104cb428a55a6216fc68" prot="public" virt="non-virtual"><scope>ReceiptUnitTest</scope><name>tearDown</name></member>
+      <member refid="class_receipt_unit_test_1a16caf64de74462999a3e508979cb4438" prot="public" virt="non-virtual"><scope>ReceiptUnitTest</scope><name>tearDownClass</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

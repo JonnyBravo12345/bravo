@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="classfinancialmarketsimulator_1_1_matching_engine" kind="class" prot="public">
+    <compoundname>financialmarketsimulator::MatchingEngine</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_matching_engine_1a2b6448ca83b5c11a9e48afd1286a6bb0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>financialmarketsimulator.MatchingEngine.MatchingEngine</definition>
+        <argsstring>()</argsstring>
+        <name>MatchingEngine</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MatchingEngine.java" line="9" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MatchingEngine.java" bodystart="9" bodyend="11"/>
+      </memberdef>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_matching_engine_1aa835268cf4fa1feff9f528b72cadd57f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void financialmarketsimulator.MatchingEngine.trade</definition>
+        <argsstring>()</argsstring>
+        <name>trade</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MatchingEngine.java" line="14" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MatchingEngine.java" bodystart="14" bodyend="16"/>
+      </memberdef>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_matching_engine_1a7a5e112f743728b6ea9d62d263fb74e3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void financialmarketsimulator.MatchingEngine.update</definition>
+        <argsstring>()</argsstring>
+        <name>update</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MatchingEngine.java" line="19" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MatchingEngine.java" bodystart="19" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="authors"><para>Madimetja Shika, Moeletji Semenya, Daniel Makgonta </para></simplesect>
+</para>    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MatchingEngine.java" line="7" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MatchingEngine.java" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="classfinancialmarketsimulator_1_1_matching_engine_1a2b6448ca83b5c11a9e48afd1286a6bb0" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MatchingEngine</scope><name>MatchingEngine</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_matching_engine_1aa835268cf4fa1feff9f528b72cadd57f" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MatchingEngine</scope><name>trade</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_matching_engine_1a7a5e112f743728b6ea9d62d263fb74e3" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MatchingEngine</scope><name>update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

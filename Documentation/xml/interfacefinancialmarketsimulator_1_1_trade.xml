@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="interfacefinancialmarketsimulator_1_1_trade" kind="interface" prot="public">
+    <compoundname>financialmarketsimulator::Trade</compoundname>
+    <derivedcompoundref refid="classfinancialmarketsimulator_1_1_market_strategy" prot="public" virt="non-virtual">financialmarketsimulator.MarketStrategy</derivedcompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="interfacefinancialmarketsimulator_1_1_trade_1aba2e7742e3c7a477417abb741eb049af" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref></type>
+        <definition>MarketEntryAttempt financialmarketsimulator.Trade.makeOffer</definition>
+        <argsstring>()</argsstring>
+        <name>makeOffer</name>
+        <reimplementedby refid="classfinancialmarketsimulator_1_1_market_strategy_1a82e5b65bef66ffadea8085e3ca107130">makeOffer</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Trade.java" line="14" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="interfacefinancialmarketsimulator_1_1_trade_1ab84e578afb7f519b018ebc0ffaab4d2a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref></type>
+        <definition>MarketEntryAttempt financialmarketsimulator.Trade.makeBid</definition>
+        <argsstring>()</argsstring>
+        <name>makeBid</name>
+        <reimplementedby refid="classfinancialmarketsimulator_1_1_market_strategy_1a2a518f43a8460feab62ef5c31d0e02c9">makeBid</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Trade.java" line="16" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="interfacefinancialmarketsimulator_1_1_trade_1a22d67d3c44faaf8fca8a4fd2d78a3e75" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void financialmarketsimulator.Trade.retractBid</definition>
+        <argsstring>()</argsstring>
+        <name>retractBid</name>
+        <reimplementedby refid="classfinancialmarketsimulator_1_1_market_strategy_1ab7bbd10cab2e86f3c48c81bbb4c058e2">retractBid</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Trade.java" line="18" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="interfacefinancialmarketsimulator_1_1_trade_1a1a1cbe142a99ac5e08872efea02239f7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void financialmarketsimulator.Trade.retractOffer</definition>
+        <argsstring>()</argsstring>
+        <name>retractOffer</name>
+        <reimplementedby refid="classfinancialmarketsimulator_1_1_market_strategy_1aa3e0b344b5025ab9aa4a36df70b48ec3">retractOffer</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Trade.java" line="20" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="interfacefinancialmarketsimulator_1_1_trade_1aa3cfc0cff8e9a08e48cfd70ae870cb8b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void financialmarketsimulator.Trade.setStrategy</definition>
+        <argsstring>(String strategy)</argsstring>
+        <name>setStrategy</name>
+        <reimplementedby refid="classfinancialmarketsimulator_1_1_market_strategy_1ae65923e56266106ecb5b4b7f89a4e70b">setStrategy</reimplementedby>
+        <param>
+          <type>String</type>
+          <declname>strategy</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Trade.java" line="22" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="interfacefinancialmarketsimulator_1_1_trade_1a2635502a77913bfa79d6a953ee7c3c1f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref></type>
+        <definition>MarketEntryAttempt financialmarketsimulator.Trade.searchMarketEntryAttempt</definition>
+        <argsstring>(MarketEntryAttempt entry)</argsstring>
+        <name>searchMarketEntryAttempt</name>
+        <reimplementedby refid="classfinancialmarketsimulator_1_1_market_strategy_1ac773269f4e29a7b1099b3495d1781823">searchMarketEntryAttempt</reimplementedby>
+        <param>
+          <type><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref></type>
+          <declname>entry</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Trade.java" line="24" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="93">
+        <label>financialmarketsimulator.Trade</label>
+        <link refid="interfacefinancialmarketsimulator_1_1_trade"/>
+      </node>
+      <node id="94">
+        <label>financialmarketsimulator.MarketStrategy</label>
+        <link refid="classfinancialmarketsimulator_1_1_market_strategy"/>
+        <childnode refid="93" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Trade.java" line="12" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Trade.java" bodystart="12" bodyend="26"/>
+    <listofallmembers>
+      <member refid="interfacefinancialmarketsimulator_1_1_trade_1ab84e578afb7f519b018ebc0ffaab4d2a" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Trade</scope><name>makeBid</name></member>
+      <member refid="interfacefinancialmarketsimulator_1_1_trade_1aba2e7742e3c7a477417abb741eb049af" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Trade</scope><name>makeOffer</name></member>
+      <member refid="interfacefinancialmarketsimulator_1_1_trade_1a22d67d3c44faaf8fca8a4fd2d78a3e75" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Trade</scope><name>retractBid</name></member>
+      <member refid="interfacefinancialmarketsimulator_1_1_trade_1a1a1cbe142a99ac5e08872efea02239f7" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Trade</scope><name>retractOffer</name></member>
+      <member refid="interfacefinancialmarketsimulator_1_1_trade_1a2635502a77913bfa79d6a953ee7c3c1f" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Trade</scope><name>searchMarketEntryAttempt</name></member>
+      <member refid="interfacefinancialmarketsimulator_1_1_trade_1aa3cfc0cff8e9a08e48cfd70ae870cb8b" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Trade</scope><name>setStrategy</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

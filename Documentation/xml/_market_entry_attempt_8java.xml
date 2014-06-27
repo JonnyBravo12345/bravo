@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="_market_entry_attempt_8java" kind="file">
+    <compoundname>MarketEntryAttempt.java</compoundname>
+    <innerclass refid="classfinancialmarketsimulator_1_1_market_entry_attempt" prot="public">financialmarketsimulator::MarketEntryAttempt</innerclass>
+    <innernamespace refid="namespacefinancialmarketsimulator">financialmarketsimulator</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="comment">/*</highlight></codeline>
+<codeline lineno="2"><highlight class="comment"><sp/>*<sp/>To<sp/>change<sp/>this<sp/>license<sp/>header,<sp/>choose<sp/>License<sp/>Headers<sp/>in<sp/>Project<sp/>Properties.</highlight></codeline>
+<codeline lineno="3"><highlight class="comment"><sp/>*<sp/>To<sp/>change<sp/>this<sp/>template<sp/>file,<sp/>choose<sp/>Tools<sp/>|<sp/>Templates</highlight></codeline>
+<codeline lineno="4"><highlight class="comment"><sp/>*<sp/>and<sp/>open<sp/>the<sp/>template<sp/>in<sp/>the<sp/>editor.</highlight></codeline>
+<codeline lineno="5"><highlight class="comment"><sp/>*/</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="keyword">package<sp/></highlight><highlight class="normal">financialmarketsimulator;</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight></codeline>
+<codeline lineno="8"><highlight class="normal"></highlight><highlight class="keyword">import</highlight><highlight class="normal"><sp/>java.util.Date;</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14" refid="classfinancialmarketsimulator_1_1_market_entry_attempt" refkind="compound"><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref><sp/>{</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/></highlight></codeline>
+<codeline lineno="20" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a6e3074ceef1578108b239a355b0a6747" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">protected</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a6e3074ceef1578108b239a355b0a6747" kindref="member">price</ref>;</highlight></codeline>
+<codeline lineno="24" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a5333f3fb0b26cba3382a05e582f86d8a" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">protected</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a5333f3fb0b26cba3382a05e582f86d8a" kindref="member">numberOfShares</ref>;</highlight></codeline>
+<codeline lineno="28" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a3b4418b6906b72597b72ec50a245afce" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">protected</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a3b4418b6906b72597b72ec50a245afce" kindref="member">participantName</ref>;</highlight></codeline>
+<codeline lineno="32" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7dcd3bab8cbe1498e452bec851e5ec5d" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">protected</highlight><highlight class="normal"><sp/>Date<sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7dcd3bab8cbe1498e452bec851e5ec5d" kindref="member">date</ref>;</highlight></codeline>
+<codeline lineno="36" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1acd62492a481b9db42703ce1c60a01ff3" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">protected</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1acd62492a481b9db42703ce1c60a01ff3" kindref="member">timeStamp</ref>;</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Constructor</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="39" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a18b910056492a3eca05b112d7003bea7" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a18b910056492a3eca05b112d7003bea7" kindref="member">MarketEntryAttempt</ref>()</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="51" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a9b2f8a9eef7975bc053907e2ea05c779" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a9b2f8a9eef7975bc053907e2ea05c779" kindref="member">MarketEntryAttempt</ref>(</highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>pr,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>numShares,<sp/>String<sp/>name)<sp/>{</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.price<sp/>=<sp/>pr;</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.numberOfShares<sp/>=<sp/>numShares;</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.participantName<sp/>=<sp/>name;</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7dcd3bab8cbe1498e452bec851e5ec5d" kindref="member">date</ref><sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>Date();</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.timeStamp<sp/>=<sp/>date.toString();</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"></highlight></codeline>
+<codeline lineno="62" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a465bd475d2cf836c09e51e26ae937e66" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a465bd475d2cf836c09e51e26ae937e66" kindref="member">getPrice</ref>()<sp/>{</highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>this.price;</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="65"><highlight class="normal"></highlight></codeline>
+<codeline lineno="69" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1ae48c6d1bc9ef23b88d077ee194686946" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1ae48c6d1bc9ef23b88d077ee194686946" kindref="member">getNumberOfShares</ref>()<sp/>{</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>this.numberOfShares;</highlight></codeline>
+<codeline lineno="71"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="72"><highlight class="normal"></highlight></codeline>
+<codeline lineno="76" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7c461ce88325da7ce771ef3e8284616c" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7c461ce88325da7ce771ef3e8284616c" kindref="member">getParticipantName</ref>()<sp/>{</highlight></codeline>
+<codeline lineno="77"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>this.participantName;</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="79"><highlight class="normal"></highlight></codeline>
+<codeline lineno="83" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a48ec5ce3d7d0451da742f3290f0e3b52" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a48ec5ce3d7d0451da742f3290f0e3b52" kindref="member">getTimeStanp</ref>()<sp/>{</highlight></codeline>
+<codeline lineno="84"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>this.timeStamp;</highlight></codeline>
+<codeline lineno="85"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="86"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="91" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1ac350f88eed14da376cb58aa920df2f38" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1ac350f88eed14da376cb58aa920df2f38" kindref="member">setPrice</ref>(</highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>_price)</highlight></codeline>
+<codeline lineno="92"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="93"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.price<sp/>=<sp/>_price;</highlight></codeline>
+<codeline lineno="94"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="95"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="100" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a27476573fd4a0aa03270c648500a3c98" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a27476573fd4a0aa03270c648500a3c98" kindref="member">setNumberOfShares</ref>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>_numShares)</highlight></codeline>
+<codeline lineno="101"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="102"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.numberOfShares<sp/>=<sp/>_numShares;</highlight></codeline>
+<codeline lineno="103"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="104"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="109" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1af2b5d63e0ac8d2e39cf474e128739c8a" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1af2b5d63e0ac8d2e39cf474e128739c8a" kindref="member">setParticipantName</ref>(String<sp/>_name)</highlight></codeline>
+<codeline lineno="110"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="111"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.participantName<sp/>=<sp/>_name;</highlight></codeline>
+<codeline lineno="112"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="113"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntryAttempt.java"/>
+  </compounddef>
+</doxygen>

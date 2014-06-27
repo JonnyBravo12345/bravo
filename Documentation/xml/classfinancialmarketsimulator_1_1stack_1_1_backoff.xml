@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="classfinancialmarketsimulator_1_1stack_1_1_backoff" kind="class" prot="public">
+    <compoundname>financialmarketsimulator::stack::Backoff</compoundname>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classfinancialmarketsimulator_1_1stack_1_1_backoff_1aadf7ba83632fd8e6e0aa0968601bc7e4" prot="package" static="no" mutable="no">
+        <type>final int</type>
+        <definition>final int financialmarketsimulator.stack.Backoff.minDelay</definition>
+        <argsstring></argsstring>
+        <name>minDelay</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" line="17" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classfinancialmarketsimulator_1_1stack_1_1_backoff_1a9a0dabea7c0e217e1dd76f2534ddee0a" prot="package" static="no" mutable="no">
+        <type>final int</type>
+        <definition>final int financialmarketsimulator.stack.Backoff.maxDelay</definition>
+        <argsstring></argsstring>
+        <name>maxDelay</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" line="17" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classfinancialmarketsimulator_1_1stack_1_1_backoff_1a3444852105923b8ad2534038e9e01208" prot="package" static="no" mutable="no">
+        <type>int</type>
+        <definition>int financialmarketsimulator.stack.Backoff.limit</definition>
+        <argsstring></argsstring>
+        <name>limit</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" line="18" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classfinancialmarketsimulator_1_1stack_1_1_backoff_1a182f27351dd41dcbc492d59fc612a9dc" prot="package" static="no" mutable="no">
+        <type>final Random</type>
+        <definition>final Random financialmarketsimulator.stack.Backoff.random</definition>
+        <argsstring></argsstring>
+        <name>random</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" line="19" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1stack_1_1_backoff_1ad23617770370498034c220b0c70ded4e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>financialmarketsimulator.stack.Backoff.Backoff</definition>
+        <argsstring>(int min, int max)</argsstring>
+        <name>Backoff</name>
+        <param>
+          <type>int</type>
+          <declname>min</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>max</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" line="21" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1stack_1_1_backoff_1ac9fda467f801c8d4b07a77c49ef4d937" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void financialmarketsimulator.stack.Backoff.backoff</definition>
+        <argsstring>()</argsstring>
+        <name>backoff</name>
+        <exceptions> throws InterruptedException </exceptions>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" line="28" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" bodystart="28" bodyend="32"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+</para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="2">
+        <label>Random</label>
+      </node>
+      <node id="1">
+        <label>financialmarketsimulator.stack.Backoff</label>
+        <link refid="classfinancialmarketsimulator_1_1stack_1_1_backoff"/>
+        <childnode refid="2" relation="usage">
+          <edgelabel>random</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" line="15" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" bodystart="15" bodyend="33"/>
+    <listofallmembers>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_backoff_1ad23617770370498034c220b0c70ded4e" prot="public" virt="non-virtual"><scope>financialmarketsimulator::stack::Backoff</scope><name>Backoff</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_backoff_1ac9fda467f801c8d4b07a77c49ef4d937" prot="public" virt="non-virtual"><scope>financialmarketsimulator::stack::Backoff</scope><name>backoff</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_backoff_1a3444852105923b8ad2534038e9e01208" prot="package" virt="non-virtual"><scope>financialmarketsimulator::stack::Backoff</scope><name>limit</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_backoff_1a9a0dabea7c0e217e1dd76f2534ddee0a" prot="package" virt="non-virtual"><scope>financialmarketsimulator::stack::Backoff</scope><name>maxDelay</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_backoff_1aadf7ba83632fd8e6e0aa0968601bc7e4" prot="package" virt="non-virtual"><scope>financialmarketsimulator::stack::Backoff</scope><name>minDelay</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_backoff_1a182f27351dd41dcbc492d59fc612a9dc" prot="package" virt="non-virtual"><scope>financialmarketsimulator::stack::Backoff</scope><name>random</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="classfinancialmarketsimulator_1_1receipts_1_1_trade_receipt" kind="class" prot="public">
+    <compoundname>financialmarketsimulator::receipts::TradeReceipt</compoundname>
+    <basecompoundref refid="classfinancialmarketsimulator_1_1receipts_1_1_receipt" prot="public" virt="non-virtual">financialmarketsimulator.receipts.Receipt</basecompoundref>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Moeletji </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="97">
+        <label>financialmarketsimulator.receipts.Receipt</label>
+        <link refid="classfinancialmarketsimulator_1_1receipts_1_1_receipt"/>
+      </node>
+      <node id="96">
+        <label>financialmarketsimulator.receipts.TradeReceipt</label>
+        <link refid="classfinancialmarketsimulator_1_1receipts_1_1_trade_receipt"/>
+        <childnode refid="97" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="99">
+        <label>financialmarketsimulator.receipts.Receipt</label>
+        <link refid="classfinancialmarketsimulator_1_1receipts_1_1_receipt"/>
+      </node>
+      <node id="98">
+        <label>financialmarketsimulator.receipts.TradeReceipt</label>
+        <link refid="classfinancialmarketsimulator_1_1receipts_1_1_trade_receipt"/>
+        <childnode refid="99" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/receipts/TradeReceipt.java" line="13" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/receipts/TradeReceipt.java" bodystart="13" bodyend="15"/>
+    <listofallmembers>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

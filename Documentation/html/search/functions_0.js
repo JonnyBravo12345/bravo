@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['getnumberofshares',['getNumberOfShares',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#ae48c6d1bc9ef23b88d077ee194686946',1,'financialmarketsimulator::MarketEntryAttempt']]],
-  ['getparticipantname',['getParticipantName',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a7c461ce88325da7ce771ef3e8284616c',1,'financialmarketsimulator::MarketEntryAttempt']]],
-  ['getprice',['getPrice',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a465bd475d2cf836c09e51e26ae937e66',1,'financialmarketsimulator::MarketEntryAttempt']]],
-  ['gettimestanp',['getTimeStanp',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a48ec5ce3d7d0451da742f3290f0e3b52',1,'financialmarketsimulator::MarketEntryAttempt']]]
+  ['acceptbid',['acceptBid',['../classfinancialmarketsimulator_1_1_market_manager.html#a468b11be3b1e2ce72f93dfc25468273b',1,'financialmarketsimulator::MarketManager']]],
+  ['acceptbidtest',['acceptBidTest',['../class_market_manager_unit_test.html#aadbb351148ad8792ffdc73d21a477d46',1,'MarketManagerUnitTest']]],
+  ['acceptoffer',['acceptOffer',['../classfinancialmarketsimulator_1_1_market_manager.html#a2f9ad41c35ca0bb1ad2ac045f8cd3dd3',1,'financialmarketsimulator::MarketManager']]],
+  ['acceptoffertest',['acceptOfferTest',['../class_market_manager_unit_test.html#a048bcd980b57e21cf535525c3d354327',1,'MarketManagerUnitTest']]]
 ];

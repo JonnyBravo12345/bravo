@@ -1,0 +1,222 @@
+.TH "financialmarketsimulator.MarketEntryAttempt" 3 "Fri Jun 27 2014" "Financial_Market_Simulato_ Documentation_V0.1" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+financialmarketsimulator.MarketEntryAttempt \- 
+.SH SYNOPSIS
+.br
+.PP
+.PP
+Inherited by \fBfinancialmarketsimulator\&.Bid\fP, and \fBfinancialmarketsimulator\&.Offer\fP\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "\fBMarketEntryAttempt\fP ()"
+.br
+.ti -1c
+.RI "\fBMarketEntryAttempt\fP (double pr, int numShares, String name)"
+.br
+.ti -1c
+.RI "double \fBgetPrice\fP ()"
+.br
+.ti -1c
+.RI "int \fBgetNumberOfShares\fP ()"
+.br
+.ti -1c
+.RI "String \fBgetParticipantName\fP ()"
+.br
+.ti -1c
+.RI "String \fBgetTimeStanp\fP ()"
+.br
+.ti -1c
+.RI "void \fBsetPrice\fP (double _price)"
+.br
+.ti -1c
+.RI "void \fBsetNumberOfShares\fP (int _numShares)"
+.br
+.ti -1c
+.RI "void \fBsetParticipantName\fP (String _name)"
+.br
+.in -1c
+.SS "Protected Attributes"
+
+.in +1c
+.ti -1c
+.RI "double \fBprice\fP"
+.br
+.ti -1c
+.RI "int \fBnumberOfShares\fP"
+.br
+.ti -1c
+.RI "String \fBparticipantName\fP"
+.br
+.ti -1c
+.RI "Date \fBdate\fP"
+.br
+.ti -1c
+.RI "String \fBtimeStamp\fP"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+
+.PP
+\fBAuthor:\fP
+.RS 4
+Madimetja 
+.RE
+.PP
+
+.PP
+Definition at line 14 of file MarketEntryAttempt\&.java\&.
+.SH "Constructor & Destructor Documentation"
+.PP 
+.SS "financialmarketsimulator\&.MarketEntryAttempt\&.MarketEntryAttempt ()"
+
+.PP
+Definition at line 39 of file MarketEntryAttempt\&.java\&.
+.SS "financialmarketsimulator\&.MarketEntryAttempt\&.MarketEntryAttempt (doublepr, intnumShares, Stringname)"
+
+.PP
+\fBTodo\fP
+.RS 4
+\fBMarketEntryAttempt\fP class constructor
+.RE
+.PP
+.PP
+\fBParameters:\fP
+.RS 4
+\fIpr\fP The price of the entry attempt 
+.br
+\fInumShares\fP The number of shares being bid or offered 
+.br
+\fIname\fP The name of the participant making the bid or the offer\&. 
+.RE
+.PP
+
+.PP
+Definition at line 51 of file MarketEntryAttempt\&.java\&.
+.SH "Member Function Documentation"
+.PP 
+.SS "int financialmarketsimulator\&.MarketEntryAttempt\&.getNumberOfShares ()"
+
+.PP
+\fBReturns:\fP
+.RS 4
+Integer value for the number of shares being offered or bid\&. 
+.RE
+.PP
+
+.PP
+Definition at line 69 of file MarketEntryAttempt\&.java\&.
+.SS "String financialmarketsimulator\&.MarketEntryAttempt\&.getParticipantName ()"
+
+.PP
+\fBReturns:\fP
+.RS 4
+String value for the name of the market participant who made the entry attempt\&. 
+.RE
+.PP
+
+.PP
+Definition at line 76 of file MarketEntryAttempt\&.java\&.
+.SS "double financialmarketsimulator\&.MarketEntryAttempt\&.getPrice ()"
+
+.PP
+\fBReturns:\fP
+.RS 4
+Double value for the price of the entry attempt, i\&.e\&. bid or offer 
+.RE
+.PP
+
+.PP
+Definition at line 62 of file MarketEntryAttempt\&.java\&.
+.SS "String financialmarketsimulator\&.MarketEntryAttempt\&.getTimeStanp ()"
+
+.PP
+\fBReturns:\fP
+.RS 4
+String value representing time stamp of the entry attempt formatted as DD/MM/YYYY HH:MM:SS:MS TIME_ZONE 
+.RE
+.PP
+
+.PP
+Definition at line 83 of file MarketEntryAttempt\&.java\&.
+.SS "void financialmarketsimulator\&.MarketEntryAttempt\&.setNumberOfShares (int_numShares)"
+
+.PP
+\fBTodo\fP
+.RS 4
+Sets the number of shares for the entry attempt, i\&.e\&. the number of shares being offered or bid 
+.PP
+\fBParameters:\fP
+.RS 4
+\fI_numShares\fP The number of shares for the entry attempt\&. 
+.RE
+.PP
+.RE
+.PP
+
+.PP
+Definition at line 100 of file MarketEntryAttempt\&.java\&.
+.SS "void financialmarketsimulator\&.MarketEntryAttempt\&.setParticipantName (String_name)"
+
+.PP
+\fBTodo\fP
+.RS 4
+Sets the name of the participant making the entry attempt\&. 
+.PP
+\fBParameters:\fP
+.RS 4
+\fI_name\fP The name of the participant making the entry attempt\&. 
+.RE
+.PP
+.RE
+.PP
+
+.PP
+Definition at line 109 of file MarketEntryAttempt\&.java\&.
+.SS "void financialmarketsimulator\&.MarketEntryAttempt\&.setPrice (double_price)"
+
+.PP
+\fBTodo\fP
+.RS 4
+Sets the price of the shares for entry attempt, i\&.e\&. sets the price of shares being offered or bid\&. 
+.PP
+\fBParameters:\fP
+.RS 4
+\fI_price\fP The price of the shares for the entry attempt\&. 
+.RE
+.PP
+.RE
+.PP
+
+.PP
+Definition at line 91 of file MarketEntryAttempt\&.java\&.
+.SH "Member Data Documentation"
+.PP 
+.SS "Date financialmarketsimulator\&.MarketEntryAttempt\&.date\fC [protected]\fP"
+Java Data variable to get current date\&. 
+.PP
+Definition at line 32 of file MarketEntryAttempt\&.java\&.
+.SS "int financialmarketsimulator\&.MarketEntryAttempt\&.numberOfShares\fC [protected]\fP"
+Stores the number of shares being offered of bid\&. 
+.PP
+Definition at line 24 of file MarketEntryAttempt\&.java\&.
+.SS "String financialmarketsimulator\&.MarketEntryAttempt\&.participantName\fC [protected]\fP"
+Stores the name of the participant making the bid or offer\&. 
+.PP
+Definition at line 28 of file MarketEntryAttempt\&.java\&.
+.SS "double financialmarketsimulator\&.MarketEntryAttempt\&.price\fC [protected]\fP"
+Stores the price of the entry attempt\&. This can be either a bid share price or an offer share price\&. 
+.PP
+Definition at line 20 of file MarketEntryAttempt\&.java\&.
+.SS "String financialmarketsimulator\&.MarketEntryAttempt\&.timeStamp\fC [protected]\fP"
+Stores the date and time the offer or bid was made\&. 
+.PP
+Definition at line 36 of file MarketEntryAttempt\&.java\&.
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Financial_Market_Simulato_ Documentation_V0\&.1 from the source code\&.

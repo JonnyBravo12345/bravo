@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="classstack_package_unit_tests_1_1_stack_unit_test" kind="class" prot="public">
+    <compoundname>stackPackageUnitTests::StackUnitTest</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classstack_package_unit_tests_1_1_stack_unit_test_1ac01ed09cc4839564ab5190194fc2a779" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>stackPackageUnitTests.StackUnitTest.StackUnitTest</definition>
+        <argsstring>()</argsstring>
+        <name>StackUnitTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/StackUnitTest.java" line="22" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/StackUnitTest.java" bodystart="22" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classstack_package_unit_tests_1_1_stack_unit_test_1a21d7f0fe59add6adeba3968a0efd6665" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void stackPackageUnitTests.StackUnitTest.setUp</definition>
+        <argsstring>()</argsstring>
+        <name>setUp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/StackUnitTest.java" line="34" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/StackUnitTest.java" bodystart="34" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="classstack_package_unit_tests_1_1_stack_unit_test_1a2e35176b63667c6e025495e811b5d473" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void stackPackageUnitTests.StackUnitTest.tearDown</definition>
+        <argsstring>()</argsstring>
+        <name>tearDown</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/StackUnitTest.java" line="38" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/StackUnitTest.java" bodystart="38" bodyend="39"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classstack_package_unit_tests_1_1_stack_unit_test_1ab44e5f0e6f4dfcdc89b416109dd7db11" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void stackPackageUnitTests.StackUnitTest.setUpClass</definition>
+        <argsstring>()</argsstring>
+        <name>setUpClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/StackUnitTest.java" line="26" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/StackUnitTest.java" bodystart="26" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classstack_package_unit_tests_1_1_stack_unit_test_1ab065aabd4484126579c30a5ab4acb941" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void stackPackageUnitTests.StackUnitTest.tearDownClass</definition>
+        <argsstring>()</argsstring>
+        <name>tearDownClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/StackUnitTest.java" line="30" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/StackUnitTest.java" bodystart="30" bodyend="31"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+</para>    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/StackUnitTest.java" line="20" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/StackUnitTest.java" bodystart="20" bodyend="48"/>
+    <listofallmembers>
+      <member refid="classstack_package_unit_tests_1_1_stack_unit_test_1a21d7f0fe59add6adeba3968a0efd6665" prot="public" virt="non-virtual"><scope>stackPackageUnitTests::StackUnitTest</scope><name>setUp</name></member>
+      <member refid="classstack_package_unit_tests_1_1_stack_unit_test_1ab44e5f0e6f4dfcdc89b416109dd7db11" prot="public" virt="non-virtual"><scope>stackPackageUnitTests::StackUnitTest</scope><name>setUpClass</name></member>
+      <member refid="classstack_package_unit_tests_1_1_stack_unit_test_1ac01ed09cc4839564ab5190194fc2a779" prot="public" virt="non-virtual"><scope>stackPackageUnitTests::StackUnitTest</scope><name>StackUnitTest</name></member>
+      <member refid="classstack_package_unit_tests_1_1_stack_unit_test_1a2e35176b63667c6e025495e811b5d473" prot="public" virt="non-virtual"><scope>stackPackageUnitTests::StackUnitTest</scope><name>tearDown</name></member>
+      <member refid="classstack_package_unit_tests_1_1_stack_unit_test_1ab065aabd4484126579c30a5ab4acb941" prot="public" virt="non-virtual"><scope>stackPackageUnitTests::StackUnitTest</scope><name>tearDownClass</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

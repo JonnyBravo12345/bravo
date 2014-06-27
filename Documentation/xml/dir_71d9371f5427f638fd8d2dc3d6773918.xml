@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="dir_71d9371f5427f638fd8d2dc3d6773918" kind="dir">
+    <compoundname>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test</compoundname>
+    <innerdir refid="dir_7a5c4462b1f302c60f03039fcf9c32e2">C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests</innerdir>
+    <innerfile refid="_bid_unit_test_8java">BidUnitTest.java</innerfile>
+    <innerfile refid="_exchange_unit_test_8java">ExchangeUnitTest.java</innerfile>
+    <innerfile refid="_market_entity_unit_test_8java">MarketEntityUnitTest.java</innerfile>
+    <innerfile refid="_market_manager_unit_test_8java">MarketManagerUnitTest.java</innerfile>
+    <innerfile refid="_market_strategy_unit_test_8java">MarketStrategyUnitTest.java</innerfile>
+    <innerfile refid="_matching_engine_unit_test_8java">MatchingEngineUnitTest.java</innerfile>
+    <innerfile refid="_offer_unit_test_8java">OfferUnitTest.java</innerfile>
+    <innerfile refid="_receipt_unit_test_8java">ReceiptUnitTest.java</innerfile>
+    <innerfile refid="_trade_unit_test_8java">TradeUnitTest.java</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/"/>
+  </compounddef>
+</doxygen>

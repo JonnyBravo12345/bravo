@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="class_exchange_unit_test" kind="class" prot="public">
+    <compoundname>ExchangeUnitTest</compoundname>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="class_exchange_unit_test_1af3ee60d26d520d58f5d1ffd0712be054" prot="package" static="no" mutable="no">
+        <type><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref></type>
+        <definition>MarketEntryAttempt ExchangeUnitTest.exchange</definition>
+        <argsstring></argsstring>
+        <name>exchange</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" line="43" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_exchange_unit_test_1a5d935cc130f600879e820fe1b7cb1af6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>ExchangeUnitTest.ExchangeUnitTest</definition>
+        <argsstring>()</argsstring>
+        <name>ExchangeUnitTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" line="23" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" bodystart="23" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="class_exchange_unit_test_1a61dd0af902dc0da5513c53a2dc797b33" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ExchangeUnitTest.setUp</definition>
+        <argsstring>()</argsstring>
+        <name>setUp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" line="35" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" bodystart="35" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="class_exchange_unit_test_1a58164607cebb6763d2c7ab8866988cfb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ExchangeUnitTest.tearDown</definition>
+        <argsstring>()</argsstring>
+        <name>tearDown</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" line="39" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" bodystart="39" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="class_exchange_unit_test_1a7196c89003b25fcbe16ce03c95ad3cb6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ExchangeUnitTest.instantiation</definition>
+        <argsstring>()</argsstring>
+        <name>instantiation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" line="53" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" bodystart="53" bodyend="65"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_exchange_unit_test_1abaa84464701e883f0938e6fdbe2b72b5" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void ExchangeUnitTest.setUpClass</definition>
+        <argsstring>()</argsstring>
+        <name>setUpClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" line="27" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" bodystart="27" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="class_exchange_unit_test_1aeb8675a172645bd95fe665ad75f92bd5" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void ExchangeUnitTest.tearDownClass</definition>
+        <argsstring>()</argsstring>
+        <name>tearDownClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" line="31" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" bodystart="31" bodyend="32"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+</para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="26">
+        <label>ExchangeUnitTest</label>
+        <link refid="class_exchange_unit_test"/>
+        <childnode refid="27" relation="usage">
+          <edgelabel>exchange</edgelabel>
+        </childnode>
+      </node>
+      <node id="27">
+        <label>financialmarketsimulator.MarketEntryAttempt</label>
+        <link refid="classfinancialmarketsimulator_1_1_market_entry_attempt"/>
+        <childnode refid="28" relation="usage">
+          <edgelabel>date</edgelabel>
+        </childnode>
+      </node>
+      <node id="28">
+        <label>Date</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" line="21" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/ExchangeUnitTest.java" bodystart="21" bodyend="66"/>
+    <listofallmembers>
+      <member refid="class_exchange_unit_test_1af3ee60d26d520d58f5d1ffd0712be054" prot="package" virt="non-virtual"><scope>ExchangeUnitTest</scope><name>exchange</name></member>
+      <member refid="class_exchange_unit_test_1a5d935cc130f600879e820fe1b7cb1af6" prot="public" virt="non-virtual"><scope>ExchangeUnitTest</scope><name>ExchangeUnitTest</name></member>
+      <member refid="class_exchange_unit_test_1a7196c89003b25fcbe16ce03c95ad3cb6" prot="public" virt="non-virtual"><scope>ExchangeUnitTest</scope><name>instantiation</name></member>
+      <member refid="class_exchange_unit_test_1a61dd0af902dc0da5513c53a2dc797b33" prot="public" virt="non-virtual"><scope>ExchangeUnitTest</scope><name>setUp</name></member>
+      <member refid="class_exchange_unit_test_1abaa84464701e883f0938e6fdbe2b72b5" prot="public" virt="non-virtual"><scope>ExchangeUnitTest</scope><name>setUpClass</name></member>
+      <member refid="class_exchange_unit_test_1a58164607cebb6763d2c7ab8866988cfb" prot="public" virt="non-virtual"><scope>ExchangeUnitTest</scope><name>tearDown</name></member>
+      <member refid="class_exchange_unit_test_1aeb8675a172645bd95fe665ad75f92bd5" prot="public" virt="non-virtual"><scope>ExchangeUnitTest</scope><name>tearDownClass</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

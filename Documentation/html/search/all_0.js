@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['backoff',['Backoff',['../classfinancialmarketsimulator_1_1stack_1_1_backoff.html',1,'financialmarketsimulator::stack']]],
-  ['bid',['Bid',['../classfinancialmarketsimulator_1_1_bid.html',1,'financialmarketsimulator']]],
-  ['bidreceipt',['BidReceipt',['../classfinancialmarketsimulator_1_1receipts_1_1_bid_receipt.html',1,'financialmarketsimulator::receipts']]],
-  ['bidstack',['BidStack',['../classfinancialmarketsimulator_1_1stack_1_1_bid_stack.html',1,'financialmarketsimulator::stack']]],
-  ['bidunittest',['BidUnitTest',['../class_bid_unit_test.html',1,'']]]
+  ['acceptbid',['acceptBid',['../classfinancialmarketsimulator_1_1_market_manager.html#a468b11be3b1e2ce72f93dfc25468273b',1,'financialmarketsimulator::MarketManager']]],
+  ['acceptbidtest',['acceptBidTest',['../class_market_manager_unit_test.html#aadbb351148ad8792ffdc73d21a477d46',1,'MarketManagerUnitTest']]],
+  ['acceptoffer',['acceptOffer',['../classfinancialmarketsimulator_1_1_market_manager.html#a2f9ad41c35ca0bb1ad2ac045f8cd3dd3',1,'financialmarketsimulator::MarketManager']]],
+  ['acceptoffertest',['acceptOfferTest',['../class_market_manager_unit_test.html#a048bcd980b57e21cf535525c3d354327',1,'MarketManagerUnitTest']]]
 ];

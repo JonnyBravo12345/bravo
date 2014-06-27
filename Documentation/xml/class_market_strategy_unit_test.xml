@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="class_market_strategy_unit_test" kind="class" prot="public">
+    <compoundname>MarketStrategyUnitTest</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_market_strategy_unit_test_1ae43ac2b179784a2176d37163c075fe7d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>MarketStrategyUnitTest.MarketStrategyUnitTest</definition>
+        <argsstring>()</argsstring>
+        <name>MarketStrategyUnitTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" line="20" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" bodystart="20" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_strategy_unit_test_1aab34abed7a4e3829160450b21793da17" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketStrategyUnitTest.setUp</definition>
+        <argsstring>()</argsstring>
+        <name>setUp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" line="32" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" bodystart="32" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_strategy_unit_test_1afa4e0a0e8292236fbcf994dc042741fb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketStrategyUnitTest.tearDown</definition>
+        <argsstring>()</argsstring>
+        <name>tearDown</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" line="36" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" bodystart="36" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_strategy_unit_test_1ab814f5c9983e0eaa02f7c5040b81971a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketStrategyUnitTest.makeOfferTest</definition>
+        <argsstring>()</argsstring>
+        <name>makeOfferTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000012"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" line="43" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" bodystart="43" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_strategy_unit_test_1a98b0ebe10401ed5d3c9af160dfcb8f2a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketStrategyUnitTest.makeBidTest</definition>
+        <argsstring>()</argsstring>
+        <name>makeBidTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000013"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" line="50" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" bodystart="50" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_strategy_unit_test_1aa0b0a03a9824cd06bc94c68d9c45042f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketStrategyUnitTest.retractBidTest</definition>
+        <argsstring>()</argsstring>
+        <name>retractBidTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000014"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" line="57" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" bodystart="57" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_strategy_unit_test_1a045225ba03abd2845f49e6c0e065712a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketStrategyUnitTest.retractOfferTest</definition>
+        <argsstring>()</argsstring>
+        <name>retractOfferTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000015"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" line="65" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" bodystart="65" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_strategy_unit_test_1ac701e483e622d7a918f1b8f21f024108" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketStrategyUnitTest.setStrategyTest</definition>
+        <argsstring>()</argsstring>
+        <name>setStrategyTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000016"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" line="73" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" bodystart="73" bodyend="75"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_strategy_unit_test_1a090ee23fae74dd8351ad91f17c784627" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketStrategyUnitTest.searchMarketEntryAttempt</definition>
+        <argsstring>()</argsstring>
+        <name>searchMarketEntryAttempt</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000017"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" line="81" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" bodystart="81" bodyend="82"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_market_strategy_unit_test_1ab6f9926edcaa9511516b0b3bb1025b9f" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void MarketStrategyUnitTest.setUpClass</definition>
+        <argsstring>()</argsstring>
+        <name>setUpClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" line="24" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" bodystart="24" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_strategy_unit_test_1aeb485798bfb7f18a04b6355e6f2a2581" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void MarketStrategyUnitTest.tearDownClass</definition>
+        <argsstring>()</argsstring>
+        <name>tearDownClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" line="28" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" bodystart="28" bodyend="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+</para>    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" line="18" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketStrategyUnitTest.java" bodystart="18" bodyend="83"/>
+    <listofallmembers>
+      <member refid="class_market_strategy_unit_test_1a98b0ebe10401ed5d3c9af160dfcb8f2a" prot="public" virt="non-virtual"><scope>MarketStrategyUnitTest</scope><name>makeBidTest</name></member>
+      <member refid="class_market_strategy_unit_test_1ab814f5c9983e0eaa02f7c5040b81971a" prot="public" virt="non-virtual"><scope>MarketStrategyUnitTest</scope><name>makeOfferTest</name></member>
+      <member refid="class_market_strategy_unit_test_1ae43ac2b179784a2176d37163c075fe7d" prot="public" virt="non-virtual"><scope>MarketStrategyUnitTest</scope><name>MarketStrategyUnitTest</name></member>
+      <member refid="class_market_strategy_unit_test_1aa0b0a03a9824cd06bc94c68d9c45042f" prot="public" virt="non-virtual"><scope>MarketStrategyUnitTest</scope><name>retractBidTest</name></member>
+      <member refid="class_market_strategy_unit_test_1a045225ba03abd2845f49e6c0e065712a" prot="public" virt="non-virtual"><scope>MarketStrategyUnitTest</scope><name>retractOfferTest</name></member>
+      <member refid="class_market_strategy_unit_test_1a090ee23fae74dd8351ad91f17c784627" prot="public" virt="non-virtual"><scope>MarketStrategyUnitTest</scope><name>searchMarketEntryAttempt</name></member>
+      <member refid="class_market_strategy_unit_test_1ac701e483e622d7a918f1b8f21f024108" prot="public" virt="non-virtual"><scope>MarketStrategyUnitTest</scope><name>setStrategyTest</name></member>
+      <member refid="class_market_strategy_unit_test_1aab34abed7a4e3829160450b21793da17" prot="public" virt="non-virtual"><scope>MarketStrategyUnitTest</scope><name>setUp</name></member>
+      <member refid="class_market_strategy_unit_test_1ab6f9926edcaa9511516b0b3bb1025b9f" prot="public" virt="non-virtual"><scope>MarketStrategyUnitTest</scope><name>setUpClass</name></member>
+      <member refid="class_market_strategy_unit_test_1afa4e0a0e8292236fbcf994dc042741fb" prot="public" virt="non-virtual"><scope>MarketStrategyUnitTest</scope><name>tearDown</name></member>
+      <member refid="class_market_strategy_unit_test_1aeb485798bfb7f18a04b6355e6f2a2581" prot="public" virt="non-virtual"><scope>MarketStrategyUnitTest</scope><name>tearDownClass</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

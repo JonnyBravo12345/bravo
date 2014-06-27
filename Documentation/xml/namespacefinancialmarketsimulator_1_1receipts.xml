@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="namespacefinancialmarketsimulator_1_1receipts" kind="namespace">
+    <compoundname>financialmarketsimulator::receipts</compoundname>
+    <innerclass refid="classfinancialmarketsimulator_1_1receipts_1_1_bid_receipt" prot="public">financialmarketsimulator::receipts::BidReceipt</innerclass>
+    <innerclass refid="classfinancialmarketsimulator_1_1receipts_1_1_offer_receipt" prot="public">financialmarketsimulator::receipts::OfferReceipt</innerclass>
+    <innerclass refid="classfinancialmarketsimulator_1_1receipts_1_1_receipt" prot="public">financialmarketsimulator::receipts::Receipt</innerclass>
+    <innerclass refid="classfinancialmarketsimulator_1_1receipts_1_1_trade_receipt" prot="public">financialmarketsimulator::receipts::TradeReceipt</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/receipts/BidReceipt.java" line="7" column="1"/>
+  </compounddef>
+</doxygen>

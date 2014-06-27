@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="classfinancialmarketsimulator_1_1receipts_1_1_bid_receipt" kind="class" prot="public">
+    <compoundname>financialmarketsimulator::receipts::BidReceipt</compoundname>
+    <basecompoundref refid="classfinancialmarketsimulator_1_1receipts_1_1_receipt" prot="public" virt="non-virtual">financialmarketsimulator.receipts.Receipt</basecompoundref>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Moeletji </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="8">
+        <label>financialmarketsimulator.receipts.BidReceipt</label>
+        <link refid="classfinancialmarketsimulator_1_1receipts_1_1_bid_receipt"/>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>financialmarketsimulator.receipts.Receipt</label>
+        <link refid="classfinancialmarketsimulator_1_1receipts_1_1_receipt"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="10">
+        <label>financialmarketsimulator.receipts.BidReceipt</label>
+        <link refid="classfinancialmarketsimulator_1_1receipts_1_1_bid_receipt"/>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>financialmarketsimulator.receipts.Receipt</label>
+        <link refid="classfinancialmarketsimulator_1_1receipts_1_1_receipt"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/receipts/BidReceipt.java" line="13" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/receipts/BidReceipt.java" bodystart="13" bodyend="15"/>
+    <listofallmembers>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

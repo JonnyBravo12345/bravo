@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="classfinancialmarketsimulator_1_1_offer" kind="class" prot="public">
+    <compoundname>financialmarketsimulator::Offer</compoundname>
+    <basecompoundref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" prot="public" virt="non-virtual">financialmarketsimulator.MarketEntryAttempt</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_offer_1afd21aead83f37337c381877a047004e8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>financialmarketsimulator.Offer.Offer</definition>
+        <argsstring>()</argsstring>
+        <name>Offer</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Offer.java" line="11" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Offer.java" bodystart="11" bodyend="14"/>
+      </memberdef>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_offer_1a155651fa401d386b3e97067f02300b18" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>financialmarketsimulator.Offer.Offer</definition>
+        <argsstring>(double _price, int _numShares, String _name)</argsstring>
+        <name>Offer</name>
+        <param>
+          <type>double</type>
+          <declname>_price</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>_numShares</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>_name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Offer.java" line="16" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Offer.java" bodystart="16" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="authors"><para>Madimetja Shika, Moeletji Semenya, Daniel Makgonta </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="63">
+        <label>financialmarketsimulator.MarketEntryAttempt</label>
+        <link refid="classfinancialmarketsimulator_1_1_market_entry_attempt"/>
+      </node>
+      <node id="62">
+        <label>financialmarketsimulator.Offer</label>
+        <link refid="classfinancialmarketsimulator_1_1_offer"/>
+        <childnode refid="63" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="65">
+        <label>financialmarketsimulator.MarketEntryAttempt</label>
+        <link refid="classfinancialmarketsimulator_1_1_market_entry_attempt"/>
+        <childnode refid="66" relation="usage">
+          <edgelabel>date</edgelabel>
+        </childnode>
+      </node>
+      <node id="66">
+        <label>Date</label>
+      </node>
+      <node id="64">
+        <label>financialmarketsimulator.Offer</label>
+        <link refid="classfinancialmarketsimulator_1_1_offer"/>
+        <childnode refid="65" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Offer.java" line="9" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/Offer.java" bodystart="9" bodyend="23"/>
+    <listofallmembers>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7dcd3bab8cbe1498e452bec851e5ec5d" prot="protected" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>date</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1ae48c6d1bc9ef23b88d077ee194686946" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>getNumberOfShares</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a7c461ce88325da7ce771ef3e8284616c" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>getParticipantName</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a465bd475d2cf836c09e51e26ae937e66" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>getPrice</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a48ec5ce3d7d0451da742f3290f0e3b52" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>getTimeStanp</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a18b910056492a3eca05b112d7003bea7" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>MarketEntryAttempt</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a9b2f8a9eef7975bc053907e2ea05c779" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>MarketEntryAttempt</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a5333f3fb0b26cba3382a05e582f86d8a" prot="protected" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>numberOfShares</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_offer_1afd21aead83f37337c381877a047004e8" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>Offer</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_offer_1a155651fa401d386b3e97067f02300b18" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>Offer</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a3b4418b6906b72597b72ec50a245afce" prot="protected" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>participantName</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a6e3074ceef1578108b239a355b0a6747" prot="protected" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>price</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a27476573fd4a0aa03270c648500a3c98" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>setNumberOfShares</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1af2b5d63e0ac8d2e39cf474e128739c8a" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>setParticipantName</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1ac350f88eed14da376cb58aa920df2f38" prot="public" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>setPrice</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1acd62492a481b9db42703ce1c60a01ff3" prot="protected" virt="non-virtual"><scope>financialmarketsimulator::Offer</scope><name>timeStamp</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

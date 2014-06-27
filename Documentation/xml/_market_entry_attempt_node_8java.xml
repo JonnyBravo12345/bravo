@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="_market_entry_attempt_node_8java" kind="file">
+    <compoundname>MarketEntryAttemptNode.java</compoundname>
+    <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node" prot="public">financialmarketsimulator::stack::MarketEntryAttemptNode</innerclass>
+    <innernamespace refid="namespacefinancialmarketsimulator_1_1stack">financialmarketsimulator::stack</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="comment">/*</highlight></codeline>
+<codeline lineno="2"><highlight class="comment"><sp/>*<sp/>To<sp/>change<sp/>this<sp/>license<sp/>header,<sp/>choose<sp/>License<sp/>Headers<sp/>in<sp/>Project<sp/>Properties.</highlight></codeline>
+<codeline lineno="3"><highlight class="comment"><sp/>*<sp/>To<sp/>change<sp/>this<sp/>template<sp/>file,<sp/>choose<sp/>Tools<sp/>|<sp/>Templates</highlight></codeline>
+<codeline lineno="4"><highlight class="comment"><sp/>*<sp/>and<sp/>open<sp/>the<sp/>template<sp/>in<sp/>the<sp/>editor.</highlight></codeline>
+<codeline lineno="5"><highlight class="comment"><sp/>*/</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="keyword">package<sp/></highlight><highlight class="normal">financialmarketsimulator.stack;</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight></codeline>
+<codeline lineno="8"><highlight class="normal"></highlight><highlight class="keyword">import</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">financialmarketsimulator.MarketEntryAttempt</ref>;</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14" refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node" refkind="compound"><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node" kindref="compound">MarketEntryAttemptNode</ref><sp/>{</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16" refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a9671342fa6e35efe9cbf03385e606f32" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref><sp/><ref refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a9671342fa6e35efe9cbf03385e606f32" kindref="member">next</ref>;</highlight></codeline>
+<codeline lineno="17" refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a9a2784e51cab776b17f9957dbb2feb04" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref><sp/><ref refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a9a2784e51cab776b17f9957dbb2feb04" kindref="member">node</ref>;</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="19" refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a1b07a62e05f0a51e7e77edbad7e1b07d" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a1b07a62e05f0a51e7e77edbad7e1b07d" kindref="member">MarketEntryAttemptNode</ref>(<ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref><sp/>node1)<sp/>{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a9a2784e51cab776b17f9957dbb2feb04" kindref="member">node</ref><sp/>=<sp/>node1;</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a9671342fa6e35efe9cbf03385e606f32" kindref="member">next</ref><sp/>=<sp/>null;</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="23"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/MarketEntryAttemptNode.java"/>
+  </compounddef>
+</doxygen>

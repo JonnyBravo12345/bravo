@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="class_market_manager_unit_test" kind="class" prot="public">
+    <compoundname>MarketManagerUnitTest</compoundname>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="class_market_manager_unit_test_1a577686bfd319e34bfbdaf76c308f2117" prot="package" static="no" mutable="no">
+        <type><ref refid="classfinancialmarketsimulator_1_1_market_manager" kindref="compound">MarketManager</ref></type>
+        <definition>MarketManager MarketManagerUnitTest.marketManager</definition>
+        <argsstring></argsstring>
+        <name>marketManager</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Test object. Used throughout the unit test. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="46" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_market_manager_unit_test_1ad67ee1cfc8c8f11b6a3bef139ed7432e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>MarketManagerUnitTest.MarketManagerUnitTest</definition>
+        <argsstring>()</argsstring>
+        <name>MarketManagerUnitTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="24" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="24" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_manager_unit_test_1a7675c43ec3a21669742870c5ff7bcdef" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketManagerUnitTest.setUp</definition>
+        <argsstring>()</argsstring>
+        <name>setUp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="36" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="36" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_manager_unit_test_1a8ce1dfb5c96973d49b3b1308bc9b77b9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketManagerUnitTest.tearDown</definition>
+        <argsstring>()</argsstring>
+        <name>tearDown</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="40" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="40" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_manager_unit_test_1a975ffc40c27926b93d755a313440c35a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketManagerUnitTest.instantiation</definition>
+        <argsstring>()</argsstring>
+        <name>instantiation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Tests if the MarketManager object instantiates as expected </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="52" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="52" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_manager_unit_test_1aadbb351148ad8792ffdc73d21a477d46" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketManagerUnitTest.acceptBidTest</definition>
+        <argsstring>()</argsstring>
+        <name>acceptBidTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000006"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="63" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="63" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_manager_unit_test_1a048bcd980b57e21cf535525c3d354327" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketManagerUnitTest.acceptOfferTest</definition>
+        <argsstring>()</argsstring>
+        <name>acceptOfferTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000007"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="74" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="74" bodyend="79"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_manager_unit_test_1ad15bca438fb420eb4edc10d2a6d5d69b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketManagerUnitTest.removeBidTest</definition>
+        <argsstring>()</argsstring>
+        <name>removeBidTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000008"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="85" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="85" bodyend="90"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_manager_unit_test_1a3a39f91093490fa570428eeadbee53d8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketManagerUnitTest.removeOfferTest</definition>
+        <argsstring>()</argsstring>
+        <name>removeOfferTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000009"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="96" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="96" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_manager_unit_test_1a1c14446d8fae8ccdc8bbfb43054a5528" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketManagerUnitTest.updateEngineTest</definition>
+        <argsstring>()</argsstring>
+        <name>updateEngineTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000010"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="107" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="107" bodyend="109"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_manager_unit_test_1ac830f868e90ae29122ae6382a4d227de" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void MarketManagerUnitTest.updateEntitiesTest</definition>
+        <argsstring>()</argsstring>
+        <name>updateEntitiesTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000011"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="115" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="115" bodyend="117"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_market_manager_unit_test_1a5ecff1008c99832638bca96b9a12c129" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void MarketManagerUnitTest.setUpClass</definition>
+        <argsstring>()</argsstring>
+        <name>setUpClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="28" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="28" bodyend="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_market_manager_unit_test_1a6384859a83037cf70ee3a30835e9067e" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void MarketManagerUnitTest.tearDownClass</definition>
+        <argsstring>()</argsstring>
+        <name>tearDownClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="32" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="32" bodyend="33"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+</para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="50">
+        <label>financialmarketsimulator.MarketManager</label>
+        <link refid="classfinancialmarketsimulator_1_1_market_manager"/>
+      </node>
+      <node id="49">
+        <label>MarketManagerUnitTest</label>
+        <link refid="class_market_manager_unit_test"/>
+        <childnode refid="50" relation="usage">
+          <edgelabel>marketManager</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="22" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="22" bodyend="118"/>
+    <listofallmembers>
+      <member refid="class_market_manager_unit_test_1aadbb351148ad8792ffdc73d21a477d46" prot="public" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>acceptBidTest</name></member>
+      <member refid="class_market_manager_unit_test_1a048bcd980b57e21cf535525c3d354327" prot="public" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>acceptOfferTest</name></member>
+      <member refid="class_market_manager_unit_test_1a975ffc40c27926b93d755a313440c35a" prot="public" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>instantiation</name></member>
+      <member refid="class_market_manager_unit_test_1a577686bfd319e34bfbdaf76c308f2117" prot="package" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>marketManager</name></member>
+      <member refid="class_market_manager_unit_test_1ad67ee1cfc8c8f11b6a3bef139ed7432e" prot="public" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>MarketManagerUnitTest</name></member>
+      <member refid="class_market_manager_unit_test_1ad15bca438fb420eb4edc10d2a6d5d69b" prot="public" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>removeBidTest</name></member>
+      <member refid="class_market_manager_unit_test_1a3a39f91093490fa570428eeadbee53d8" prot="public" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>removeOfferTest</name></member>
+      <member refid="class_market_manager_unit_test_1a7675c43ec3a21669742870c5ff7bcdef" prot="public" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>setUp</name></member>
+      <member refid="class_market_manager_unit_test_1a5ecff1008c99832638bca96b9a12c129" prot="public" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>setUpClass</name></member>
+      <member refid="class_market_manager_unit_test_1a8ce1dfb5c96973d49b3b1308bc9b77b9" prot="public" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>tearDown</name></member>
+      <member refid="class_market_manager_unit_test_1a6384859a83037cf70ee3a30835e9067e" prot="public" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>tearDownClass</name></member>
+      <member refid="class_market_manager_unit_test_1a1c14446d8fae8ccdc8bbfb43054a5528" prot="public" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>updateEngineTest</name></member>
+      <member refid="class_market_manager_unit_test_1ac830f868e90ae29122ae6382a4d227de" prot="public" virt="non-virtual"><scope>MarketManagerUnitTest</scope><name>updateEntitiesTest</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

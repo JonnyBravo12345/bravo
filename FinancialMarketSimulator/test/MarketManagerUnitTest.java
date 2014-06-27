@@ -39,24 +39,16 @@ public class MarketManagerUnitTest {
     @After
     public void tearDown() {
     }
-
-    // TODO add test methods here.
-    // The methods must be annotated with annotation @Test. For example:
-    //
-    // @Test
-    // public void hello() {}
     
-    //Test Object
+    /*!
+    * Test object. Used throughout the unit test.
+    */
     MarketManager marketManager;
 
-    /*
-     * Function  : constuctor
-     * Input     : 
-     * Process   : 
-     * Output    : 
-     * Speed     : 
-     */
     @Test
+    /**
+     * Tests if the MarketManager object instantiates as expected
+     */
     public void instantiation() {
         //marketManager = new MarketManager();
         String expectedOutput = "";
@@ -64,14 +56,10 @@ public class MarketManagerUnitTest {
         assertEquals(expectedOutput, actualOutput);
     }
 
-    /*
-     * Function  : acceptBid()
-     * Input     : 
-     * Process   : 
-     * Output    : 
-     * Speed     : 
-     */
     @Test
+    /**
+     * @todo 
+     */
     public void acceptBidTest() {
         //marketManager = new MarketManager();
         MarketEntryAttempt expectedOutput = null;
@@ -79,14 +67,10 @@ public class MarketManagerUnitTest {
         assertEquals(expectedOutput, actualOutput);
     }
 
-    /*
-     * Function  : acceptOffer()
-     * Input     : 
-     * Process   : 
-     * Output    : 
-     * Speed     : 
-     */
     @Test
+    /**
+     * @todo
+     */
     public void acceptOfferTest() {
         //marketManager = new MarketManager();
         MarketEntryAttempt expectedOutput = null;
@@ -94,14 +78,10 @@ public class MarketManagerUnitTest {
         assertEquals(expectedOutput, actualOutput);
     }
 
-    /*
-     * Function  : removeBid()
-     * Input     : 
-     * Process   : 
-     * Output    : 
-     * Speed     : 
-     */
     @Test
+    /**
+     * @todo
+     */
     public void removeBidTest() {
         //marketManager = new MarketManager();
         Boolean expectedOutput = true;
@@ -109,14 +89,10 @@ public class MarketManagerUnitTest {
         //assertEquals(expectedOutput, actualOutput);
     }
 
-    /*
-     * Function  : removeOffer()
-     * Input     : 
-     * Process   : 
-     * Output    : 
-     * Speed     : 
-     */
     @Test
+    /**
+     * @todo
+     */
     public void removeOfferTest() {
         //marketManager = new MarketManager();
         Boolean expectedOutput = true;
@@ -124,26 +100,18 @@ public class MarketManagerUnitTest {
         //assertEquals(expectedOutput, actualOutput);
     }
 
-    /*
-     * Function  : updateEngine()
-     * Input     : 
-     * Process   : 
-     * Output    : 
-     * Speed     : 
-     */
     @Test
+    /**
+     * @todo
+     */
     public void updateEngineTest() {
         //marketManager = new MarketManager();
     }
 
-    /*
-     * Function  : updateEntities()
-     * Input     : 
-     * Process   : 
-     * Output    : 
-     * Speed     : 
-     */
     @Test
+    /**
+     * @todo
+     */
     public void updateEntitiesTest() {
         //marketManager = new MarketManager();
     }

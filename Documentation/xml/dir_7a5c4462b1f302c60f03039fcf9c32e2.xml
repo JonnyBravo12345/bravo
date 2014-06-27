@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="dir_7a5c4462b1f302c60f03039fcf9c32e2" kind="dir">
+    <compoundname>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests</compoundname>
+    <innerfile refid="_market_entry_attempt_node_unit_test_8java">MarketEntryAttemptNodeUnitTest.java</innerfile>
+    <innerfile refid="_stack_unit_test_8java">StackUnitTest.java</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/stackPackageUnitTests/"/>
+  </compounddef>
+</doxygen>

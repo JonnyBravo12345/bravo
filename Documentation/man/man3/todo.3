@@ -1,0 +1,58 @@
+.TH "todo" 3 "Fri Jun 27 2014" "Financial_Market_Simulato_ Documentation_V0.1" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+todo \- Todo List 
+
+.IP "\fBMember \fBBidUnitTest\&.instantiation\fP ()\fP" 1c
+Tests if the Bid object instantiates as expected  
+.IP "\fBMember \fBfinancialmarketsimulator\&.MarketEntryAttempt\&.MarketEntryAttempt\fP (double pr, int numShares, String name)\fP" 1c
+MarketEntryAttempt class constructor 
+.IP "\fBMember \fBfinancialmarketsimulator\&.MarketEntryAttempt\&.setNumberOfShares\fP (int _numShares)\fP" 1c
+Sets the number of shares for the entry attempt, i\&.e\&. the number of shares being offered or bid 
+.PP
+\fBParameters:\fP
+.RS 4
+\fI_numShares\fP The number of shares for the entry attempt\&.  
+.RE
+.PP
+.IP "\fBMember \fBfinancialmarketsimulator\&.MarketEntryAttempt\&.setParticipantName\fP (String _name)\fP" 1c
+Sets the name of the participant making the entry attempt\&. 
+.PP
+\fBParameters:\fP
+.RS 4
+\fI_name\fP The name of the participant making the entry attempt\&.  
+.RE
+.PP
+.IP "\fBMember \fBfinancialmarketsimulator\&.MarketEntryAttempt\&.setPrice\fP (double _price)\fP" 1c
+Sets the price of the shares for entry attempt, i\&.e\&. sets the price of shares being offered or bid\&. 
+.PP
+\fBParameters:\fP
+.RS 4
+\fI_price\fP The price of the shares for the entry attempt\&.  
+.RE
+.PP
+.IP "\fBMember \fBMarketManagerUnitTest\&.acceptBidTest\fP ()\fP" 1c
+.IP "\fBMember \fBMarketManagerUnitTest\&.acceptOfferTest\fP ()\fP" 1c
+.IP "\fBMember \fBMarketManagerUnitTest\&.removeBidTest\fP ()\fP" 1c
+.IP "\fBMember \fBMarketManagerUnitTest\&.removeOfferTest\fP ()\fP" 1c
+.IP "\fBMember \fBMarketManagerUnitTest\&.updateEngineTest\fP ()\fP" 1c
+.IP "\fBMember \fBMarketManagerUnitTest\&.updateEntitiesTest\fP ()\fP" 1c
+.IP "\fBMember \fBMarketStrategyUnitTest\&.makeBidTest\fP ()\fP" 1c
+.IP "\fBMember \fBMarketStrategyUnitTest\&.makeOfferTest\fP ()\fP" 1c
+.IP "\fBMember \fBMarketStrategyUnitTest\&.retractBidTest\fP ()\fP" 1c
+.IP "\fBMember \fBMarketStrategyUnitTest\&.retractOfferTest\fP ()\fP" 1c
+.IP "\fBMember \fBMarketStrategyUnitTest\&.searchMarketEntryAttempt\fP ()\fP" 1c
+.IP "\fBMember \fBMarketStrategyUnitTest\&.setStrategyTest\fP ()\fP" 1c
+.IP "\fBMember \fBMatchingEngineUnitTest\&.instantiation\fP ()\fP" 1c
+Tests if the MatchingEngine object instantiates as expected  
+.IP "\fBMember \fBMatchingEngineUnitTest\&.tradeTest\fP ()\fP" 1c
+Tests the MatchingEngine trade() function\&. Two cases are tested: Firstly, if the trade function will record a trade when an offer and a bid are explicitly made to match, and secondly if the trade function will record no trade when all bids and offers are made explicitly not to match\&. The function creates mock bid and offer stacks and populates them with mock bid and offer objects\&. Trade is then called on those stacks\&.  
+.IP "\fBMember \fBMatchingEngineUnitTest\&.updateTest\fP ()\fP" 1c
+Observes the bid and offer stacks when called and informs the MarketManager to either update or not update the views accordingly\&.  
+.IP "\fBMember \fBOfferUnitTest\&.instantiation\fP ()\fP" 1c
+Tests if the Offer object instantiates as expected  
+.IP "\fBMember \fBReceiptUnitTest\&.instantiation\fP ()\fP" 1c
+Tests if the Receipt object instantiates as expected 
+.PP
+

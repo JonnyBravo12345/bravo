@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="dir_3a75d973409d46dc9dc25b989a1fa52c" kind="dir">
+    <compoundname>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack</compoundname>
+    <innerfile refid="_backoff_8java">Backoff.java</innerfile>
+    <innerfile refid="_bid_stack_8java">BidStack.java</innerfile>
+    <innerfile refid="_empty_exception_8java">EmptyException.java</innerfile>
+    <innerfile refid="_market_entry_attempt_node_8java">MarketEntryAttemptNode.java</innerfile>
+    <innerfile refid="_offer_stack_8java">OfferStack.java</innerfile>
+    <innerfile refid="_stack_8java">Stack.java</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/"/>
+  </compounddef>
+</doxygen>

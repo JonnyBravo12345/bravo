@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="namespacefinancialmarketsimulator_1_1stack" kind="namespace">
+    <compoundname>financialmarketsimulator::stack</compoundname>
+    <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_backoff" prot="public">financialmarketsimulator::stack::Backoff</innerclass>
+    <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_bid_stack" prot="public">financialmarketsimulator::stack::BidStack</innerclass>
+    <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_empty_exception" prot="public">financialmarketsimulator::stack::EmptyException</innerclass>
+    <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node" prot="public">financialmarketsimulator::stack::MarketEntryAttemptNode</innerclass>
+    <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_offer_stack" prot="public">financialmarketsimulator::stack::OfferStack</innerclass>
+    <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_stack" prot="public">financialmarketsimulator::stack::Stack</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Backoff.java" line="7" column="1"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node" kind="class" prot="public">
+    <compoundname>financialmarketsimulator::stack::MarketEntryAttemptNode</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a9671342fa6e35efe9cbf03385e606f32" prot="public" static="no" mutable="no">
+        <type><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref></type>
+        <definition>MarketEntryAttempt financialmarketsimulator.stack.MarketEntryAttemptNode.next</definition>
+        <argsstring></argsstring>
+        <name>next</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/MarketEntryAttemptNode.java" line="16" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/MarketEntryAttemptNode.java" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a9a2784e51cab776b17f9957dbb2feb04" prot="public" static="no" mutable="no">
+        <type><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref></type>
+        <definition>MarketEntryAttempt financialmarketsimulator.stack.MarketEntryAttemptNode.node</definition>
+        <argsstring></argsstring>
+        <name>node</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/MarketEntryAttemptNode.java" line="17" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/MarketEntryAttemptNode.java" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a1b07a62e05f0a51e7e77edbad7e1b07d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>financialmarketsimulator.stack.MarketEntryAttemptNode.MarketEntryAttemptNode</definition>
+        <argsstring>(MarketEntryAttempt node1)</argsstring>
+        <name>MarketEntryAttemptNode</name>
+        <param>
+          <type><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref></type>
+          <declname>node1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/MarketEntryAttemptNode.java" line="19" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/MarketEntryAttemptNode.java" bodystart="19" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+</para>    </detaileddescription>
+    <collaborationgraph>
+      <node id="42">
+        <label>financialmarketsimulator.MarketEntryAttempt</label>
+        <link refid="classfinancialmarketsimulator_1_1_market_entry_attempt"/>
+        <childnode refid="43" relation="usage">
+          <edgelabel>date</edgelabel>
+        </childnode>
+      </node>
+      <node id="43">
+        <label>Date</label>
+      </node>
+      <node id="41">
+        <label>financialmarketsimulator.stack.MarketEntryAttemptNode</label>
+        <link refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node"/>
+        <childnode refid="42" relation="usage">
+          <edgelabel>node</edgelabel>
+          <edgelabel>next</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/MarketEntryAttemptNode.java" line="14" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/MarketEntryAttemptNode.java" bodystart="14" bodyend="23"/>
+    <listofallmembers>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a1b07a62e05f0a51e7e77edbad7e1b07d" prot="public" virt="non-virtual"><scope>financialmarketsimulator::stack::MarketEntryAttemptNode</scope><name>MarketEntryAttemptNode</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a9671342fa6e35efe9cbf03385e606f32" prot="public" virt="non-virtual"><scope>financialmarketsimulator::stack::MarketEntryAttemptNode</scope><name>next</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node_1a9a2784e51cab776b17f9957dbb2feb04" prot="public" virt="non-virtual"><scope>financialmarketsimulator::stack::MarketEntryAttemptNode</scope><name>node</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

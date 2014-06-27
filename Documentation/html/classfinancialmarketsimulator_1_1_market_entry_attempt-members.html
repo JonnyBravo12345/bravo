@@ -8,6 +8,13 @@
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -39,6 +46,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
+      <li><a href="namespaces.html"><span>Packages</span></a></li>
       <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -67,12 +75,27 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="functions.html"><span>Class&#160;Members</span></a></li>
     </ul>
   </div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('classfinancialmarketsimulator_1_1_market_entry_attempt.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -81,11 +104,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </iframe>
 </div>
 
-<div id="nav-path" class="navpath">
-  <ul>
-<li class="navelem"><b>financialmarketsimulator</b></li><li class="navelem"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html">MarketEntryAttempt</a></li>  </ul>
-</div>
-</div><!-- top -->
 <div class="header">
   <div class="headertitle">
 <div class="title">financialmarketsimulator.MarketEntryAttempt Member List</div>  </div>
@@ -99,7 +117,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <tr class="even"><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html#a7c461ce88325da7ce771ef3e8284616c">getParticipantName</a>()</td><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html">financialmarketsimulator.MarketEntryAttempt</a></td><td class="entry"></td></tr>
   <tr><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html#a465bd475d2cf836c09e51e26ae937e66">getPrice</a>()</td><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html">financialmarketsimulator.MarketEntryAttempt</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html#a48ec5ce3d7d0451da742f3290f0e3b52">getTimeStanp</a>()</td><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html">financialmarketsimulator.MarketEntryAttempt</a></td><td class="entry"></td></tr>
-  <tr bgcolor="#f0f0f0"><td class="entry"><b>MarketEntryAttempt</b>() (defined in <a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html">financialmarketsimulator.MarketEntryAttempt</a>)</td><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html">financialmarketsimulator.MarketEntryAttempt</a></td><td class="entry"></td></tr>
+  <tr><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html#a18b910056492a3eca05b112d7003bea7">MarketEntryAttempt</a>()</td><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html">financialmarketsimulator.MarketEntryAttempt</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html#a9b2f8a9eef7975bc053907e2ea05c779">MarketEntryAttempt</a>(double pr, int numShares, String name)</td><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html">financialmarketsimulator.MarketEntryAttempt</a></td><td class="entry"></td></tr>
   <tr><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html#a5333f3fb0b26cba3382a05e582f86d8a">numberOfShares</a></td><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html">financialmarketsimulator.MarketEntryAttempt</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html#a3b4418b6906b72597b72ec50a245afce">participantName</a></td><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html">financialmarketsimulator.MarketEntryAttempt</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
@@ -109,11 +127,14 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <tr class="even"><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html#ac350f88eed14da376cb58aa920df2f38">setPrice</a>(double _price)</td><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html">financialmarketsimulator.MarketEntryAttempt</a></td><td class="entry"></td></tr>
   <tr><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html#acd62492a481b9db42703ce1c60a01ff3">timeStamp</a></td><td class="entry"><a class="el" href="classfinancialmarketsimulator_1_1_market_entry_attempt.html">financialmarketsimulator.MarketEntryAttempt</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
 </table></div><!-- contents -->
+</div><!-- doc-content -->
 <!-- start footer part -->
-<hr class="footer"/><address class="footer"><small>
-Generated on Fri Jun 27 2014 12:51:15 for Financial_Market_Simulato_ Documentation_V0.1 by &#160;<a href="http://www.doxygen.org/index.html">
-<img class="footer" src="doxygen.png" alt="doxygen"/>
-</a> 1.8.7
-</small></address>
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="footer">Generated on Fri Jun 27 2014 13:21:25 for Financial_Market_Simulato_ Documentation_V0.1 by
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.7 </li>
+  </ul>
+</div>
 </body>
 </html>

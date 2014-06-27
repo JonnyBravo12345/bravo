@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['emptyexception',['EmptyException',['../classfinancialmarketsimulator_1_1stack_1_1_empty_exception.html',1,'financialmarketsimulator::stack']]],
-  ['exchangeunittest',['ExchangeUnitTest',['../class_exchange_unit_test.html',1,'']]]
+  ['date',['date',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a7dcd3bab8cbe1498e452bec851e5ec5d',1,'financialmarketsimulator::MarketEntryAttempt']]]
 ];

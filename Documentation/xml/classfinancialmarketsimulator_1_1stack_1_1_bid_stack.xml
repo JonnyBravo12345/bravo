@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="classfinancialmarketsimulator_1_1stack_1_1_bid_stack" kind="class" prot="public">
+    <compoundname>financialmarketsimulator::stack::BidStack</compoundname>
+    <basecompoundref refid="classfinancialmarketsimulator_1_1stack_1_1_stack" prot="public" virt="non-virtual">financialmarketsimulator.stack.Stack</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1stack_1_1_bid_stack_1a5c2694a816c3fb93081f61554d60fc42" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void financialmarketsimulator.stack.BidStack.sortStack</definition>
+        <argsstring>()</argsstring>
+        <name>sortStack</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/BidStack.java" line="15" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/BidStack.java" bodystart="15" bodyend="18"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Moeletji </para></simplesect>
+</para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="13">
+        <label>financialmarketsimulator.stack.Stack</label>
+        <link refid="classfinancialmarketsimulator_1_1stack_1_1_stack"/>
+      </node>
+      <node id="12">
+        <label>financialmarketsimulator.stack.BidStack</label>
+        <link refid="classfinancialmarketsimulator_1_1stack_1_1_bid_stack"/>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="17">
+        <label>Random</label>
+      </node>
+      <node id="15">
+        <label>financialmarketsimulator.stack.Stack</label>
+        <link refid="classfinancialmarketsimulator_1_1stack_1_1_stack"/>
+        <childnode refid="16" relation="usage">
+          <edgelabel>backoff</edgelabel>
+        </childnode>
+        <childnode refid="18" relation="usage">
+          <edgelabel>top</edgelabel>
+        </childnode>
+      </node>
+      <node id="14">
+        <label>financialmarketsimulator.stack.BidStack</label>
+        <link refid="classfinancialmarketsimulator_1_1stack_1_1_bid_stack"/>
+        <childnode refid="15" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="16">
+        <label>financialmarketsimulator.stack.Backoff</label>
+        <link refid="classfinancialmarketsimulator_1_1stack_1_1_backoff"/>
+        <childnode refid="17" relation="usage">
+          <edgelabel>random</edgelabel>
+        </childnode>
+      </node>
+      <node id="18">
+        <label>AtomicReference&lt; financialmarketsimulator.stack.MarketEntryAttemptNode &gt;</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/BidStack.java" line="13" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/BidStack.java" bodystart="13" bodyend="19"/>
+    <listofallmembers>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1a85502bdf69183f7582b6c8d11bfb82b1" prot="package" virt="non-virtual"><scope>financialmarketsimulator::stack::BidStack</scope><name>backoff</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1a040a6c6c3fa81f771e4d8d9e790a9b62" prot="package" virt="non-virtual"><scope>financialmarketsimulator::stack::BidStack</scope><name>MAX_DELAY</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1ac8d5da14bd84123fcb4c7ad24a1defdc" prot="package" virt="non-virtual"><scope>financialmarketsimulator::stack::BidStack</scope><name>MIN_DELAY</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1acf0de0447fa83242a8409bc5903ca215" prot="public" virt="non-virtual"><scope>financialmarketsimulator::stack::BidStack</scope><name>pop</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1a923eeb3696e2bbb208516defd3039213" prot="public" virt="non-virtual"><scope>financialmarketsimulator::stack::BidStack</scope><name>push</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_bid_stack_1a5c2694a816c3fb93081f61554d60fc42" prot="public" virt="non-virtual"><scope>financialmarketsimulator::stack::BidStack</scope><name>sortStack</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1a3d774a80f7b2cd7107debc25eebc48cb" prot="package" virt="non-virtual"><scope>financialmarketsimulator::stack::BidStack</scope><name>top</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1aacd57a41238742e12b8ee9f20b93b162" prot="protected" virt="non-virtual"><scope>financialmarketsimulator::stack::BidStack</scope><name>tryPop</name></member>
+      <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1a2566c4821f0d3091cdac87b5ee7404bf" prot="protected" virt="non-virtual"><scope>financialmarketsimulator::stack::BidStack</scope><name>tryPush</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

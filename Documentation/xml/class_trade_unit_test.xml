@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="class_trade_unit_test" kind="class" prot="public">
+    <compoundname>TradeUnitTest</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_trade_unit_test_1abbeaf5bc821390bec6f419d89956e7ac" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>TradeUnitTest.TradeUnitTest</definition>
+        <argsstring>()</argsstring>
+        <name>TradeUnitTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/TradeUnitTest.java" line="20" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/TradeUnitTest.java" bodystart="20" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_trade_unit_test_1aef602b2b9e5555fc5da1bb749b611ccd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TradeUnitTest.setUp</definition>
+        <argsstring>()</argsstring>
+        <name>setUp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/TradeUnitTest.java" line="32" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/TradeUnitTest.java" bodystart="32" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_trade_unit_test_1a34ba2c94e327c25a445241730d3953ef" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TradeUnitTest.tearDown</definition>
+        <argsstring>()</argsstring>
+        <name>tearDown</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/TradeUnitTest.java" line="36" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/TradeUnitTest.java" bodystart="36" bodyend="37"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_trade_unit_test_1a5be15b13c335f6325b1ee14ef9062a92" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void TradeUnitTest.setUpClass</definition>
+        <argsstring>()</argsstring>
+        <name>setUpClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/TradeUnitTest.java" line="24" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/TradeUnitTest.java" bodystart="24" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_trade_unit_test_1a12cc028ac0612978efa5400afd4baaa5" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void TradeUnitTest.tearDownClass</definition>
+        <argsstring>()</argsstring>
+        <name>tearDownClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/TradeUnitTest.java" line="28" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/TradeUnitTest.java" bodystart="28" bodyend="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+</para>    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/TradeUnitTest.java" line="18" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/TradeUnitTest.java" bodystart="18" bodyend="44"/>
+    <listofallmembers>
+      <member refid="class_trade_unit_test_1aef602b2b9e5555fc5da1bb749b611ccd" prot="public" virt="non-virtual"><scope>TradeUnitTest</scope><name>setUp</name></member>
+      <member refid="class_trade_unit_test_1a5be15b13c335f6325b1ee14ef9062a92" prot="public" virt="non-virtual"><scope>TradeUnitTest</scope><name>setUpClass</name></member>
+      <member refid="class_trade_unit_test_1a34ba2c94e327c25a445241730d3953ef" prot="public" virt="non-virtual"><scope>TradeUnitTest</scope><name>tearDown</name></member>
+      <member refid="class_trade_unit_test_1a12cc028ac0612978efa5400afd4baaa5" prot="public" virt="non-virtual"><scope>TradeUnitTest</scope><name>tearDownClass</name></member>
+      <member refid="class_trade_unit_test_1abbeaf5bc821390bec6f419d89956e7ac" prot="public" virt="non-virtual"><scope>TradeUnitTest</scope><name>TradeUnitTest</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

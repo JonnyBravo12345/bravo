@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
+  <compounddef id="class_offer_unit_test" kind="class" prot="public">
+    <compoundname>OfferUnitTest</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_offer_unit_test_1a9203abc6708ce6e8e6a6b7789fb59cc5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>OfferUnitTest.OfferUnitTest</definition>
+        <argsstring>()</argsstring>
+        <name>OfferUnitTest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" line="20" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" bodystart="20" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_offer_unit_test_1a491087ff4d8fd6bad517f3e65c6a2c1a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void OfferUnitTest.setUp</definition>
+        <argsstring>()</argsstring>
+        <name>setUp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" line="32" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" bodystart="32" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_offer_unit_test_1a8e3f348a59b90790bb602bafbe7e2c0d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void OfferUnitTest.tearDown</definition>
+        <argsstring>()</argsstring>
+        <name>tearDown</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" line="36" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" bodystart="36" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_offer_unit_test_1a6a183dfb778383f20231c0dd4a43dc65" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void OfferUnitTest.instantiation</definition>
+        <argsstring>()</argsstring>
+        <name>instantiation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><xrefsect id="todo_1_todo000021"><xreftitle>Todo</xreftitle><xrefdescription><para>Tests if the Offer object instantiates as expected </para></xrefdescription></xrefsect></para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" line="43" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_offer_unit_test_1a814f87470fbd7747577a8d21a1e31374" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void OfferUnitTest.setUpClass</definition>
+        <argsstring>()</argsstring>
+        <name>setUpClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" line="24" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" bodystart="24" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_offer_unit_test_1afcf0203b47fec4b0899c2e53f2a1a4dc" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void OfferUnitTest.tearDownClass</definition>
+        <argsstring>()</argsstring>
+        <name>tearDownClass</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" line="28" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" bodystart="28" bodyend="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+</para>    </detaileddescription>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" line="18" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/OfferUnitTest.java" bodystart="18" bodyend="49"/>
+    <listofallmembers>
+      <member refid="class_offer_unit_test_1a6a183dfb778383f20231c0dd4a43dc65" prot="public" virt="non-virtual"><scope>OfferUnitTest</scope><name>instantiation</name></member>
+      <member refid="class_offer_unit_test_1a9203abc6708ce6e8e6a6b7789fb59cc5" prot="public" virt="non-virtual"><scope>OfferUnitTest</scope><name>OfferUnitTest</name></member>
+      <member refid="class_offer_unit_test_1a491087ff4d8fd6bad517f3e65c6a2c1a" prot="public" virt="non-virtual"><scope>OfferUnitTest</scope><name>setUp</name></member>
+      <member refid="class_offer_unit_test_1a814f87470fbd7747577a8d21a1e31374" prot="public" virt="non-virtual"><scope>OfferUnitTest</scope><name>setUpClass</name></member>
+      <member refid="class_offer_unit_test_1a8e3f348a59b90790bb602bafbe7e2c0d" prot="public" virt="non-virtual"><scope>OfferUnitTest</scope><name>tearDown</name></member>
+      <member refid="class_offer_unit_test_1afcf0203b47fec4b0899c2e53f2a1a4dc" prot="public" virt="non-virtual"><scope>OfferUnitTest</scope><name>tearDownClass</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
