@@ -8,6 +8,11 @@ import java.util.Date;
  */
 public class Bid extends MarketEntryAttempt{
 
+    public Bid()
+    {
+        
+    }
+    
     public Bid(double _price, int _numShares, String _name) {
         this.price = _price;
         this.numberOfShares = _numShares;
