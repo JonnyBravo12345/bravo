@@ -267,35 +267,35 @@
     <briefdescription>
     </briefdescription>
     <detaileddescription>
-<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+<para><simplesect kind="authors"><para>Madimetja Shika, Moeletji Semenya, Daniel Makgonta </para></simplesect>
 </para>    </detaileddescription>
     <inheritancegraph>
-      <node id="36">
+      <node id="40">
         <label>financialmarketsimulator.Bid</label>
         <link refid="classfinancialmarketsimulator_1_1_bid"/>
-        <childnode refid="35" relation="public-inheritance">
+        <childnode refid="39" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="35">
+      <node id="39">
         <label>financialmarketsimulator.MarketEntryAttempt</label>
         <link refid="classfinancialmarketsimulator_1_1_market_entry_attempt"/>
       </node>
-      <node id="37">
+      <node id="41">
         <label>financialmarketsimulator.Offer</label>
         <link refid="classfinancialmarketsimulator_1_1_offer"/>
-        <childnode refid="35" relation="public-inheritance">
+        <childnode refid="39" relation="public-inheritance">
         </childnode>
       </node>
     </inheritancegraph>
     <collaborationgraph>
-      <node id="38">
+      <node id="42">
         <label>financialmarketsimulator.MarketEntryAttempt</label>
         <link refid="classfinancialmarketsimulator_1_1_market_entry_attempt"/>
-        <childnode refid="39" relation="usage">
+        <childnode refid="43" relation="usage">
           <edgelabel>date</edgelabel>
         </childnode>
       </node>
-      <node id="39">
+      <node id="43">
         <label>Date</label>
       </node>
     </collaborationgraph>

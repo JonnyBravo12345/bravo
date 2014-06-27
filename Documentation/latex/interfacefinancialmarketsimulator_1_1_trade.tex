@@ -20,17 +20,17 @@ void \hyperlink{interfacefinancialmarketsimulator_1_1_trade_a1a1cbe142a99ac5e088
 \item 
 void \hyperlink{interfacefinancialmarketsimulator_1_1_trade_aa3cfc0cff8e9a08e48cfd70ae870cb8b}{set\+Strategy} (String strategy)
 \item 
-\hyperlink{classfinancialmarketsimulator_1_1_market_entry_attempt}{Market\+Entry\+Attempt} \hyperlink{interfacefinancialmarketsimulator_1_1_trade_a2635502a77913bfa79d6a953ee7c3c1f}{search\+Market\+Entry\+Attempt} (\hyperlink{classfinancialmarketsimulator_1_1_market_entry_attempt}{Market\+Entry\+Attempt} entry)
+\hyperlink{classfinancialmarketsimulator_1_1_market_entry_attempt}{Market\+Entry\+Attempt} \hyperlink{interfacefinancialmarketsimulator_1_1_trade_a2635502a77913bfa79d6a953ee7c3c1f}{search\+Market\+Entry\+Attempt} (\hyperlink{classfinancialmarketsimulator_1_1_market_entry_attempt}{Market\+Entry\+Attempt} entry)  throws Item\+Not\+Found\+Exception
 \end{DoxyCompactItemize}
 
 
 \subsection{Detailed Description}
-\begin{DoxyAuthor}{Author}
-Madimetja 
+\begin{DoxyAuthor}{Authors}
+Madimetja Shika, Moeletji Semenya, Daniel Makgonta 
 \end{DoxyAuthor}
 
 
-Definition at line 12 of file Trade.\+java.
+Definition at line 9 of file Trade.\+java.
 
 
 
@@ -42,6 +42,13 @@ Definition at line 12 of file Trade.\+java.
 {}
 \end{DoxyParamCaption}
 )}}\label{interfacefinancialmarketsimulator_1_1_trade_ab84e578afb7f519b018ebc0ffaab4d2a}
+\begin{DoxyRefDesc}{Todo}
+\item[\hyperlink{todo__todo000012}{Todo}]Make a bid\end{DoxyRefDesc}
+
+
+\begin{DoxyReturn}{Returns}
+will return a \hyperlink{classfinancialmarketsimulator_1_1_market_entry_attempt}{Market\+Entry\+Attempt} 
+\end{DoxyReturn}
 
 
 Implemented in \hyperlink{classfinancialmarketsimulator_1_1_market_strategy_a2a518f43a8460feab62ef5c31d0e02c9}{financialmarketsimulator.\+Market\+Strategy}.
@@ -53,6 +60,13 @@ Implemented in \hyperlink{classfinancialmarketsimulator_1_1_market_strategy_a2a5
 {}
 \end{DoxyParamCaption}
 )}}\label{interfacefinancialmarketsimulator_1_1_trade_aba2e7742e3c7a477417abb741eb049af}
+\begin{DoxyRefDesc}{Todo}
+\item[\hyperlink{todo__todo000011}{Todo}]Make an offer\end{DoxyRefDesc}
+
+
+\begin{DoxyReturn}{Returns}
+will return a \hyperlink{classfinancialmarketsimulator_1_1_market_entry_attempt}{Market\+Entry\+Attempt} 
+\end{DoxyReturn}
 
 
 Implemented in \hyperlink{classfinancialmarketsimulator_1_1_market_strategy_a82e5b65bef66ffadea8085e3ca107130}{financialmarketsimulator.\+Market\+Strategy}.
@@ -64,6 +78,8 @@ Implemented in \hyperlink{classfinancialmarketsimulator_1_1_market_strategy_a82e
 {}
 \end{DoxyParamCaption}
 )}}\label{interfacefinancialmarketsimulator_1_1_trade_a22d67d3c44faaf8fca8a4fd2d78a3e75}
+\begin{DoxyRefDesc}{Todo}
+\item[\hyperlink{todo__todo000013}{Todo}]Retract a bid that was previously accepted\end{DoxyRefDesc}
 
 
 Implemented in \hyperlink{classfinancialmarketsimulator_1_1_market_strategy_ab7bbd10cab2e86f3c48c81bbb4c058e2}{financialmarketsimulator.\+Market\+Strategy}.
@@ -75,6 +91,8 @@ Implemented in \hyperlink{classfinancialmarketsimulator_1_1_market_strategy_ab7b
 {}
 \end{DoxyParamCaption}
 )}}\label{interfacefinancialmarketsimulator_1_1_trade_a1a1cbe142a99ac5e08872efea02239f7}
+\begin{DoxyRefDesc}{Todo}
+\item[\hyperlink{todo__todo000014}{Todo}]Retract an offer that was previously accepted \end{DoxyRefDesc}
 
 
 Implemented in \hyperlink{classfinancialmarketsimulator_1_1_market_strategy_aa3e0b344b5025ab9aa4a36df70b48ec3}{financialmarketsimulator.\+Market\+Strategy}.
@@ -85,7 +103,24 @@ Implemented in \hyperlink{classfinancialmarketsimulator_1_1_market_strategy_aa3e
 \begin{DoxyParamCaption}
 \item[{{\bf Market\+Entry\+Attempt}}]{entry}
 \end{DoxyParamCaption}
-)}}\label{interfacefinancialmarketsimulator_1_1_trade_a2635502a77913bfa79d6a953ee7c3c1f}
+) throws {\bf Item\+Not\+Found\+Exception}}}\label{interfacefinancialmarketsimulator_1_1_trade_a2635502a77913bfa79d6a953ee7c3c1f}
+\begin{DoxyRefDesc}{Todo}
+\item[\hyperlink{todo__todo000016}{Todo}]Search for a market entry attempt (bid or offer)\end{DoxyRefDesc}
+
+
+
+\begin{DoxyParams}{Parameters}
+{\em entry} & \hyperlink{classfinancialmarketsimulator_1_1_market_entry_attempt}{Market\+Entry\+Attempt} object to be searched \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Returns the searched \hyperlink{classfinancialmarketsimulator_1_1_market_entry_attempt}{Market\+Entry\+Attempt} object 
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em Exception.\+Item\+Not\+Found\+Exception} & \\
+\hline
+\end{DoxyExceptions}
 
 
 Implemented in \hyperlink{classfinancialmarketsimulator_1_1_market_strategy_ac773269f4e29a7b1099b3495d1781823}{financialmarketsimulator.\+Market\+Strategy}.
@@ -97,6 +132,15 @@ Implemented in \hyperlink{classfinancialmarketsimulator_1_1_market_strategy_ac77
 \item[{String}]{strategy}
 \end{DoxyParamCaption}
 )}}\label{interfacefinancialmarketsimulator_1_1_trade_aa3cfc0cff8e9a08e48cfd70ae870cb8b}
+\begin{DoxyRefDesc}{Todo}
+\item[\hyperlink{todo__todo000015}{Todo}]Set the current strategy of the participant\end{DoxyRefDesc}
+
+
+
+\begin{DoxyParams}{Parameters}
+{\em strategy} & strategy to be used by participant \\
+\hline
+\end{DoxyParams}
 
 
 Implemented in \hyperlink{classfinancialmarketsimulator_1_1_market_strategy_ae65923e56266106ecb5b4b7f89a4e70b}{financialmarketsimulator.\+Market\+Strategy}.
@@ -105,4 +149,4 @@ Implemented in \hyperlink{classfinancialmarketsimulator_1_1_market_strategy_ae65
 
 The documentation for this interface was generated from the following file\+:\begin{DoxyCompactItemize}
 \item 
-C\+:/\+Users/\+Madimetja/\+Documents/\+Git\+Hub/bravo/\+Financial\+Market\+Simulator/src/financialmarketsimulator/\hyperlink{_trade_8java}{Trade.\+java}\end{DoxyCompactItemize}
+C\+:/\+Users/\+Madimetja/\+Documents/\+Git\+Hub/bravo/\+Financial\+Market\+Simulator/src/financialmarketsimulator/Trade.\+java\end{DoxyCompactItemize}

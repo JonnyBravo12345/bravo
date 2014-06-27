@@ -9,18 +9,18 @@
     <detaileddescription>
     </detaileddescription>
     <programlisting>
-<codeline lineno="1" refid="namespacefinancialmarketsimulator" refkind="compound"><highlight class="keyword">package<sp/></highlight><highlight class="normal">financialmarketsimulator;</highlight></codeline>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">financialmarketsimulator;</highlight></codeline>
 <codeline lineno="2"><highlight class="normal"></highlight></codeline>
 <codeline lineno="3"><highlight class="normal"></highlight><highlight class="keyword">import</highlight><highlight class="normal"><sp/>java.util.Date;</highlight></codeline>
 <codeline lineno="4"><highlight class="normal"></highlight></codeline>
 <codeline lineno="9" refid="classfinancialmarketsimulator_1_1_bid" refkind="compound"><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classfinancialmarketsimulator_1_1_bid" kindref="compound">Bid</ref><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref>{</highlight></codeline>
 <codeline lineno="10"><highlight class="normal"></highlight></codeline>
-<codeline lineno="11" refid="classfinancialmarketsimulator_1_1_bid_1a9ed8e389307df90419473a2b3ef375af" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_bid_1a9ed8e389307df90419473a2b3ef375af" kindref="member">Bid</ref>()</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_bid" kindref="compound">Bid</ref>()</highlight></codeline>
 <codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight></codeline>
 <codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
-<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
-<codeline lineno="16" refid="classfinancialmarketsimulator_1_1_bid_1a323008939bcfc7e51c56a9d61a1d79d9" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_bid_1a323008939bcfc7e51c56a9d61a1d79d9" kindref="member">Bid</ref>(</highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>_price,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>_numShares,<sp/>String<sp/>_name)<sp/>{</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_bid" kindref="compound">Bid</ref>(</highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>_price,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>_numShares,<sp/>String<sp/>_name)<sp/>{</highlight></codeline>
 <codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.price<sp/>=<sp/>_price;</highlight></codeline>
 <codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.numberOfShares<sp/>=<sp/>_numShares;</highlight></codeline>
 <codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.participantName<sp/>=<sp/>_name;</highlight></codeline>

@@ -4,7 +4,6 @@
     <compoundname>financialmarketsimulator::stack</compoundname>
     <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_backoff" prot="public">financialmarketsimulator::stack::Backoff</innerclass>
     <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_bid_stack" prot="public">financialmarketsimulator::stack::BidStack</innerclass>
-    <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_empty_exception" prot="public">financialmarketsimulator::stack::EmptyException</innerclass>
     <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node" prot="public">financialmarketsimulator::stack::MarketEntryAttemptNode</innerclass>
     <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_offer_stack" prot="public">financialmarketsimulator::stack::OfferStack</innerclass>
     <innerclass refid="classfinancialmarketsimulator_1_1stack_1_1_stack" prot="public">financialmarketsimulator::stack::Stack</innerclass>

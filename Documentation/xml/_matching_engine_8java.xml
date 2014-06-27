@@ -13,17 +13,17 @@
 <codeline lineno="2"><highlight class="normal"></highlight></codeline>
 <codeline lineno="7" refid="classfinancialmarketsimulator_1_1_matching_engine" refkind="compound"><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classfinancialmarketsimulator_1_1_matching_engine" kindref="compound">MatchingEngine</ref><sp/>{</highlight></codeline>
 <codeline lineno="8"><highlight class="normal"></highlight></codeline>
-<codeline lineno="9" refid="classfinancialmarketsimulator_1_1_matching_engine_1a2b6448ca83b5c11a9e48afd1286a6bb0" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_matching_engine_1a2b6448ca83b5c11a9e48afd1286a6bb0" kindref="member">MatchingEngine</ref>()<sp/>{</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_matching_engine" kindref="compound">MatchingEngine</ref>()<sp/>{</highlight></codeline>
 <codeline lineno="10"><highlight class="normal"></highlight></codeline>
 <codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline lineno="12"><highlight class="normal"></highlight></codeline>
 <codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">/*<sp/>Match<sp/>a<sp/>bid<sp/>and<sp/>an<sp/>offer<sp/>*/</highlight><highlight class="normal"></highlight></codeline>
-<codeline lineno="14" refid="classfinancialmarketsimulator_1_1_matching_engine_1aa835268cf4fa1feff9f528b72cadd57f" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_matching_engine_1aa835268cf4fa1feff9f528b72cadd57f" kindref="member">trade</ref>()<sp/>{</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>trade()<sp/>{</highlight></codeline>
 <codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight></codeline>
 <codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline lineno="17"><highlight class="normal"></highlight></codeline>
 <codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">/*<sp/>Update<sp/>the<sp/>matching<sp/>engine<sp/>*/</highlight><highlight class="normal"></highlight></codeline>
-<codeline lineno="19" refid="classfinancialmarketsimulator_1_1_matching_engine_1a7a5e112f743728b6ea9d62d263fb74e3" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_matching_engine_1a7a5e112f743728b6ea9d62d263fb74e3" kindref="member">update</ref>()<sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>update()<sp/>{</highlight></codeline>
 <codeline lineno="20"><highlight class="normal"></highlight></codeline>
 <codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline lineno="22"><highlight class="normal"></highlight></codeline>

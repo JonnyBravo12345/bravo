@@ -1,7 +1,9 @@
 var searchData=
 [
-  ['getnumberofshares',['getNumberOfShares',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#ae48c6d1bc9ef23b88d077ee194686946',1,'financialmarketsimulator::MarketEntryAttempt']]],
-  ['getparticipantname',['getParticipantName',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a7c461ce88325da7ce771ef3e8284616c',1,'financialmarketsimulator::MarketEntryAttempt']]],
-  ['getprice',['getPrice',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a465bd475d2cf836c09e51e26ae937e66',1,'financialmarketsimulator::MarketEntryAttempt']]],
-  ['gettimestanp',['getTimeStanp',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a48ec5ce3d7d0451da742f3290f0e3b52',1,'financialmarketsimulator::MarketEntryAttempt']]]
+  ['makebid',['makeBid',['../classfinancialmarketsimulator_1_1_market_strategy.html#a2a518f43a8460feab62ef5c31d0e02c9',1,'financialmarketsimulator.MarketStrategy.makeBid()'],['../interfacefinancialmarketsimulator_1_1_trade.html#ab84e578afb7f519b018ebc0ffaab4d2a',1,'financialmarketsimulator.Trade.makeBid()']]],
+  ['makebidtest',['makeBidTest',['../class_market_strategy_unit_test.html#a98b0ebe10401ed5d3c9af160dfcb8f2a',1,'MarketStrategyUnitTest']]],
+  ['makeoffer',['makeOffer',['../classfinancialmarketsimulator_1_1_market_strategy.html#a82e5b65bef66ffadea8085e3ca107130',1,'financialmarketsimulator.MarketStrategy.makeOffer()'],['../interfacefinancialmarketsimulator_1_1_trade.html#aba2e7742e3c7a477417abb741eb049af',1,'financialmarketsimulator.Trade.makeOffer()']]],
+  ['makeoffertest',['makeOfferTest',['../class_market_strategy_unit_test.html#ab814f5c9983e0eaa02f7c5040b81971a',1,'MarketStrategyUnitTest']]],
+  ['marketentryattempt',['MarketEntryAttempt',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a9b2f8a9eef7975bc053907e2ea05c779',1,'financialmarketsimulator::MarketEntryAttempt']]],
+  ['marketmanager',['MarketManager',['../classfinancialmarketsimulator_1_1_market_manager.html#a59e7711f4974dd07fb5aa89f77824f86',1,'financialmarketsimulator.MarketManager.MarketManager()'],['../classfinancialmarketsimulator_1_1_market_manager.html#abec3bfc62ba95bd12c444492b7cad61e',1,'financialmarketsimulator.MarketManager.MarketManager(String sName, String sType, int numShares, double val)']]]
 ];

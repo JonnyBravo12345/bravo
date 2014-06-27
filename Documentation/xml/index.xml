@@ -25,8 +25,8 @@
     <member refid="class_bid_unit_test_1a708398bb9f31d775f2a8cadfa7de00ad" kind="function"><name>setUpClass</name></member>
     <member refid="class_bid_unit_test_1a63ef12d1e873a8b1dd37a8d1009a2a2f" kind="function"><name>tearDownClass</name></member>
   </compound>
-  <compound refid="classfinancialmarketsimulator_1_1stack_1_1_empty_exception" kind="class"><name>financialmarketsimulator::stack::EmptyException</name>
-    <member refid="classfinancialmarketsimulator_1_1stack_1_1_empty_exception_1ac89be1a9a37af8d039c3c47599fb35c6" kind="function"><name>EmptyException</name></member>
+  <compound refid="classfinancialmarketsimulator_1_1exception_1_1_empty_exception" kind="class"><name>financialmarketsimulator::exception::EmptyException</name>
+    <member refid="classfinancialmarketsimulator_1_1exception_1_1_empty_exception_1a9afdbc4b69fa2733589eef18cc68ea2f" kind="function"><name>EmptyException</name></member>
   </compound>
   <compound refid="class_exchange_unit_test" kind="class"><name>ExchangeUnitTest</name>
     <member refid="class_exchange_unit_test_1af3ee60d26d520d58f5d1ffd0712be054" kind="variable"><name>exchange</name></member>
@@ -39,6 +39,9 @@
   </compound>
   <compound refid="classfinancialmarketsimulator_1_1_financial_market_simulator" kind="class"><name>financialmarketsimulator::FinancialMarketSimulator</name>
     <member refid="classfinancialmarketsimulator_1_1_financial_market_simulator_1a55f0112537bdd6b3fb2607dd767d2ece" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="classfinancialmarketsimulator_1_1exception_1_1_item_not_found_exception" kind="class"><name>financialmarketsimulator::exception::ItemNotFoundException</name>
+    <member refid="classfinancialmarketsimulator_1_1exception_1_1_item_not_found_exception_1ad13688b2ff9a73a82d3254a7ae8f7523" kind="function"><name>ItemNotFoundException</name></member>
   </compound>
   <compound refid="classfinancialmarketsimulator_1_1_market_entity" kind="class"><name>financialmarketsimulator::MarketEntity</name>
     <member refid="classfinancialmarketsimulator_1_1_market_entity_1a115fb994b2d376d6122ce1ccb64e900b" kind="variable"><name>marketName</name></member>
@@ -91,8 +94,8 @@
     <member refid="classfinancialmarketsimulator_1_1_market_manager_1aae3fa88d6f64385e76d53b1a38b03070" kind="variable"><name>offerStack</name></member>
     <member refid="classfinancialmarketsimulator_1_1_market_manager_1a59e7711f4974dd07fb5aa89f77824f86" kind="function"><name>MarketManager</name></member>
     <member refid="classfinancialmarketsimulator_1_1_market_manager_1abec3bfc62ba95bd12c444492b7cad61e" kind="function"><name>MarketManager</name></member>
-    <member refid="classfinancialmarketsimulator_1_1_market_manager_1a468b11be3b1e2ce72f93dfc25468273b" kind="function"><name>acceptBid</name></member>
-    <member refid="classfinancialmarketsimulator_1_1_market_manager_1a2f9ad41c35ca0bb1ad2ac045f8cd3dd3" kind="function"><name>acceptOffer</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1a628b1d67f2d120933d52c0311f733a8e" kind="function"><name>acceptBid</name></member>
+    <member refid="classfinancialmarketsimulator_1_1_market_manager_1a46a095623bcda32e2ff6f3d85b4f8994" kind="function"><name>acceptOffer</name></member>
     <member refid="classfinancialmarketsimulator_1_1_market_manager_1aa8c0454b1d66599ff5abbb01d35790e8" kind="function"><name>removeBid</name></member>
     <member refid="classfinancialmarketsimulator_1_1_market_manager_1ad49a43c96b962562014c7bb37dfa5f7e" kind="function"><name>removeOffer</name></member>
     <member refid="classfinancialmarketsimulator_1_1_market_manager_1afb2bf557ed70cd23feccddfb5c01ab0d" kind="function"><name>updateEngine</name></member>
@@ -114,6 +117,7 @@
     <member refid="class_market_manager_unit_test_1a6384859a83037cf70ee3a30835e9067e" kind="function"><name>tearDownClass</name></member>
   </compound>
   <compound refid="classfinancialmarketsimulator_1_1_market_strategy" kind="class"><name>financialmarketsimulator::MarketStrategy</name>
+    <member refid="classfinancialmarketsimulator_1_1_market_strategy_1a789e2614d6dbb27151157a6166f56185" kind="function"><name>MarketStrategy</name></member>
     <member refid="classfinancialmarketsimulator_1_1_market_strategy_1a82e5b65bef66ffadea8085e3ca107130" kind="function"><name>makeOffer</name></member>
     <member refid="classfinancialmarketsimulator_1_1_market_strategy_1a2a518f43a8460feab62ef5c31d0e02c9" kind="function"><name>makeBid</name></member>
     <member refid="classfinancialmarketsimulator_1_1_market_strategy_1ab7bbd10cab2e86f3c48c81bbb4c058e2" kind="function"><name>retractBid</name></member>
@@ -213,6 +217,8 @@
   </compound>
   <compound refid="namespacefinancialmarketsimulator" kind="namespace"><name>financialmarketsimulator</name>
   </compound>
+  <compound refid="namespacefinancialmarketsimulator_1_1exception" kind="namespace"><name>financialmarketsimulator::exception</name>
+  </compound>
   <compound refid="namespacefinancialmarketsimulator_1_1receipts" kind="namespace"><name>financialmarketsimulator::receipts</name>
   </compound>
   <compound refid="namespacefinancialmarketsimulator_1_1stack" kind="namespace"><name>financialmarketsimulator::stack</name>
@@ -222,6 +228,10 @@
   <compound refid="namespacestack_package_unit_tests" kind="namespace"><name>stackPackageUnitTests</name>
   </compound>
   <compound refid="_bid_8java" kind="file"><name>Bid.java</name>
+  </compound>
+  <compound refid="_empty_exception_8java" kind="file"><name>EmptyException.java</name>
+  </compound>
+  <compound refid="_item_not_found_exception_8java" kind="file"><name>ItemNotFoundException.java</name>
   </compound>
   <compound refid="_financial_market_simulator_8java" kind="file"><name>FinancialMarketSimulator.java</name>
   </compound>
@@ -248,8 +258,6 @@
   <compound refid="_backoff_8java" kind="file"><name>Backoff.java</name>
   </compound>
   <compound refid="_bid_stack_8java" kind="file"><name>BidStack.java</name>
-  </compound>
-  <compound refid="_empty_exception_8java" kind="file"><name>EmptyException.java</name>
   </compound>
   <compound refid="_market_entry_attempt_node_8java" kind="file"><name>MarketEntryAttemptNode.java</name>
   </compound>
@@ -284,6 +292,8 @@
   <compound refid="todo" kind="page"><name>todo</name>
   </compound>
   <compound refid="dir_1c3d04a1d42243e861f4366d8e5f6de5" kind="dir"><name>C:/Users/Madimetja/Documents/GitHub/bravo</name>
+  </compound>
+  <compound refid="dir_a9e6d0607dbad8c741f50fe58f327e35" kind="dir"><name>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/exception</name>
   </compound>
   <compound refid="dir_878d062290a498f31d2bf10f755df26d" kind="dir"><name>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator</name>
   </compound>

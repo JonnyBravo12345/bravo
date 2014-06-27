@@ -1,4 +1,4 @@
-.TH "financialmarketsimulator.MarketManager" 3 "Fri Jun 27 2014" "Financial_Market_Simulato_ Documentation_V0.1" \" -*- nroff -*-
+.TH "financialmarketsimulator.MarketManager" 3 "Fri Jun 27 2014" "My Project" \" -*- nroff -*-
 .ad l
 .nh
 .SH NAME
@@ -16,10 +16,10 @@ financialmarketsimulator.MarketManager \-
 .RI "\fBMarketManager\fP (String sName, String sType, int numShares, double val)"
 .br
 .ti -1c
-.RI "String \fBacceptBid\fP (\fBBid\fP bid)"
+.RI "\fBReceipt\fP \fBacceptBid\fP (\fBBid\fP bid)"
 .br
 .ti -1c
-.RI "String \fBacceptOffer\fP (\fBOffer\fP offer)"
+.RI "\fBReceipt\fP \fBacceptOffer\fP (\fBOffer\fP offer)"
 .br
 .ti -1c
 .RI "String \fBremoveBid\fP (\fBBid\fP bid)"
@@ -45,44 +45,143 @@ Madimetja Shika, Moeletji Semenya, Daniel Makgonta
 .PP
 
 .PP
-Definition at line 10 of file MarketManager\&.java\&.
+Definition at line 11 of file MarketManager\&.java\&.
 .SH "Constructor & Destructor Documentation"
 .PP 
 .SS "financialmarketsimulator\&.MarketManager\&.MarketManager ()"
-
+\fBMarketManager\fP Constructor 
 .PP
-Definition at line 21 of file MarketManager\&.java\&.
+Definition at line 24 of file MarketManager\&.java\&.
 .SS "financialmarketsimulator\&.MarketManager\&.MarketManager (StringsName, StringsType, intnumShares, doubleval)"
+\fBMarketManager\fP Constructor
+.PP
+\fBParameters:\fP
+.RS 4
+\fIsName\fP Name of the stock 
+.br
+\fIsType\fP Type of stock 
+.br
+\fInumShares\fP Number of shares the stock holds 
+.br
+\fIval\fP Market value of the stock 
+.RE
+.PP
 
 .PP
-Definition at line 25 of file MarketManager\&.java\&.
+Definition at line 36 of file MarketManager\&.java\&.
 .SH "Member Function Documentation"
 .PP 
-.SS "String financialmarketsimulator\&.MarketManager\&.acceptBid (\fBBid\fPbid)"
+.SS "\fBReceipt\fP financialmarketsimulator\&.MarketManager\&.acceptBid (\fBBid\fPbid)"
 
 .PP
-Definition at line 35 of file MarketManager\&.java\&.
-.SS "String financialmarketsimulator\&.MarketManager\&.acceptOffer (\fBOffer\fPoffer)"
-
+\fBTodo\fP
+.RS 4
+Acknowledgement of the bid being accepted by the market manager 
 .PP
-Definition at line 40 of file MarketManager\&.java\&.
-.SS "String financialmarketsimulator\&.MarketManager\&.removeBid (\fBBid\fPbid)"
-
+\fBParameters:\fP
+.RS 4
+\fIbid\fP \fBBid\fP object to be accepted 
+.RE
 .PP
-Definition at line 45 of file MarketManager\&.java\&.
-.SS "String financialmarketsimulator\&.MarketManager\&.removeOffer (\fBOffer\fPoffer)"
+\fBReturns:\fP
+.RS 4
+Returns a receipt object that acknowledges that a bid was accepted 
+.RE
+.PP
+.RE
+.PP
 
 .PP
 Definition at line 50 of file MarketManager\&.java\&.
+.SS "\fBReceipt\fP financialmarketsimulator\&.MarketManager\&.acceptOffer (\fBOffer\fPoffer)"
+
+.PP
+\fBTodo\fP
+.RS 4
+Acknowledgement of the offer being accepted by the market manager
+.RE
+.PP
+.PP
+\fBParameters:\fP
+.RS 4
+\fIoffer\fP \fBOffer\fP object to be accepted 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+Returns a receipt object that acknowledges that an offer was accepted 
+.RE
+.PP
+
+.PP
+Definition at line 60 of file MarketManager\&.java\&.
+.SS "String financialmarketsimulator\&.MarketManager\&.removeBid (\fBBid\fPbid)"
+
+.PP
+\fBTodo\fP
+.RS 4
+Acknowledgement of the bid being removed by the market manager
+.RE
+.PP
+.PP
+\fBParameters:\fP
+.RS 4
+\fIbid\fP \fBBid\fP to be removed 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+Returns a receipt object that acknowledges that an offer was removed 
+.RE
+.PP
+
+.PP
+Definition at line 70 of file MarketManager\&.java\&.
+.SS "String financialmarketsimulator\&.MarketManager\&.removeOffer (\fBOffer\fPoffer)"
+
+.PP
+\fBTodo\fP
+.RS 4
+Acknowledgement of the offer being removed by the market manager
+.RE
+.PP
+.PP
+\fBParameters:\fP
+.RS 4
+\fIbid\fP \fBOffer\fP to be removed 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+Returns a receipt object that acknowledges that an offer was removed 
+.RE
+.PP
+
+.PP
+Definition at line 80 of file MarketManager\&.java\&.
 .SS "void financialmarketsimulator\&.MarketManager\&.updateEngine ()"
 
 .PP
-Definition at line 54 of file MarketManager\&.java\&.
+\fBTodo\fP
+.RS 4
+Update the engine with the current states of the bid and offer stack\&. 
+.RE
+.PP
+
+.PP
+Definition at line 87 of file MarketManager\&.java\&.
 .SS "void financialmarketsimulator\&.MarketManager\&.updateEntities ()"
 
 .PP
-Definition at line 58 of file MarketManager\&.java\&.
+\fBTodo\fP
+.RS 4
+Update entities 
+.RE
+.PP
+
+.PP
+Definition at line 94 of file MarketManager\&.java\&.
 
 .SH "Author"
 .PP 
-Generated automatically by Doxygen for Financial_Market_Simulato_ Documentation_V0\&.1 from the source code\&.
+Generated automatically by Doxygen for My Project from the source code\&.

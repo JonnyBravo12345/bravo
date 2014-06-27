@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['trade',['Trade',['../interfacefinancialmarketsimulator_1_1_trade.html',1,'financialmarketsimulator']]],
-  ['tradereceipt',['TradeReceipt',['../classfinancialmarketsimulator_1_1receipts_1_1_trade_receipt.html',1,'financialmarketsimulator::receipts']]],
-  ['tradeunittest',['TradeUnitTest',['../class_trade_unit_test.html',1,'']]]
+  ['stack',['Stack',['../classfinancialmarketsimulator_1_1stack_1_1_stack.html',1,'financialmarketsimulator::stack']]],
+  ['stackunittest',['StackUnitTest',['../classstack_package_unit_tests_1_1_stack_unit_test.html',1,'stackPackageUnitTests']]]
 ];

@@ -50,7 +50,7 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para><xrefsect id="todo_1_todo000005"><xreftitle>Todo</xreftitle><xrefdescription><para>Tests if the Bid object instantiates as expected </para></xrefdescription></xrefsect></para>        </detaileddescription>
+<para><xrefsect id="todo_1_todo000017"><xreftitle>Todo</xreftitle><xrefdescription><para>Tests if the Bid object instantiates as expected </para></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
         <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/BidUnitTest.java" line="43" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/BidUnitTest.java" bodystart="43" bodyend="48"/>

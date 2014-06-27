@@ -15,7 +15,7 @@
 <codeline lineno="4"><highlight class="comment"><sp/>*<sp/>and<sp/>open<sp/>the<sp/>template<sp/>in<sp/>the<sp/>editor.</highlight></codeline>
 <codeline lineno="5"><highlight class="comment"><sp/>*/</highlight><highlight class="normal"></highlight></codeline>
 <codeline lineno="6"><highlight class="normal"></highlight></codeline>
-<codeline lineno="7" refid="namespacefinancialmarketsimulator_1_1receipts" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">package<sp/></highlight><highlight class="normal">financialmarketsimulator.receipts;</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight><highlight class="keyword">package<sp/></highlight><highlight class="normal">financialmarketsimulator.receipts;</highlight></codeline>
 <codeline lineno="8"><highlight class="normal"></highlight></codeline>
 <codeline lineno="13" refid="classfinancialmarketsimulator_1_1receipts_1_1_bid_receipt" refkind="compound"><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classfinancialmarketsimulator_1_1receipts_1_1_bid_receipt" kindref="compound">BidReceipt</ref><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1receipts_1_1_receipt" kindref="compound">Receipt</ref>{</highlight></codeline>
 <codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>

@@ -8,9 +8,9 @@
 \item 
 \hyperlink{classfinancialmarketsimulator_1_1_market_manager_abec3bfc62ba95bd12c444492b7cad61e}{Market\+Manager} (String s\+Name, String s\+Type, int num\+Shares, double val)
 \item 
-String \hyperlink{classfinancialmarketsimulator_1_1_market_manager_a468b11be3b1e2ce72f93dfc25468273b}{accept\+Bid} (\hyperlink{classfinancialmarketsimulator_1_1_bid}{Bid} bid)
+\hyperlink{classfinancialmarketsimulator_1_1receipts_1_1_receipt}{Receipt} \hyperlink{classfinancialmarketsimulator_1_1_market_manager_a628b1d67f2d120933d52c0311f733a8e}{accept\+Bid} (\hyperlink{classfinancialmarketsimulator_1_1_bid}{Bid} bid)
 \item 
-String \hyperlink{classfinancialmarketsimulator_1_1_market_manager_a2f9ad41c35ca0bb1ad2ac045f8cd3dd3}{accept\+Offer} (\hyperlink{classfinancialmarketsimulator_1_1_offer}{Offer} offer)
+\hyperlink{classfinancialmarketsimulator_1_1receipts_1_1_receipt}{Receipt} \hyperlink{classfinancialmarketsimulator_1_1_market_manager_a46a095623bcda32e2ff6f3d85b4f8994}{accept\+Offer} (\hyperlink{classfinancialmarketsimulator_1_1_offer}{Offer} offer)
 \item 
 String \hyperlink{classfinancialmarketsimulator_1_1_market_manager_aa8c0454b1d66599ff5abbb01d35790e8}{remove\+Bid} (\hyperlink{classfinancialmarketsimulator_1_1_bid}{Bid} bid)
 \item 
@@ -28,7 +28,7 @@ Madimetja Shika, Moeletji Semenya, Daniel Makgonta
 \end{DoxyAuthor}
 
 
-Definition at line 10 of file Market\+Manager.\+java.
+Definition at line 11 of file Market\+Manager.\+java.
 
 
 
@@ -40,9 +40,9 @@ Definition at line 10 of file Market\+Manager.\+java.
 {}
 \end{DoxyParamCaption}
 )}}\label{classfinancialmarketsimulator_1_1_market_manager_a59e7711f4974dd07fb5aa89f77824f86}
+\hyperlink{classfinancialmarketsimulator_1_1_market_manager}{Market\+Manager} Constructor 
 
-
-Definition at line 21 of file Market\+Manager.\+java.
+Definition at line 24 of file Market\+Manager.\+java.
 
 \hypertarget{classfinancialmarketsimulator_1_1_market_manager_abec3bfc62ba95bd12c444492b7cad61e}{\index{financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}!Market\+Manager@{Market\+Manager}}
 \index{Market\+Manager@{Market\+Manager}!financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}}
@@ -54,34 +54,69 @@ Definition at line 21 of file Market\+Manager.\+java.
 \item[{double}]{val}
 \end{DoxyParamCaption}
 )}}\label{classfinancialmarketsimulator_1_1_market_manager_abec3bfc62ba95bd12c444492b7cad61e}
+\hyperlink{classfinancialmarketsimulator_1_1_market_manager}{Market\+Manager} Constructor
 
 
-Definition at line 25 of file Market\+Manager.\+java.
+\begin{DoxyParams}{Parameters}
+{\em s\+Name} & Name of the stock \\
+\hline
+{\em s\+Type} & Type of stock \\
+\hline
+{\em num\+Shares} & Number of shares the stock holds \\
+\hline
+{\em val} & Market value of the stock \\
+\hline
+\end{DoxyParams}
+
+
+Definition at line 36 of file Market\+Manager.\+java.
 
 
 
 \subsection{Member Function Documentation}
-\hypertarget{classfinancialmarketsimulator_1_1_market_manager_a468b11be3b1e2ce72f93dfc25468273b}{\index{financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}!accept\+Bid@{accept\+Bid}}
+\hypertarget{classfinancialmarketsimulator_1_1_market_manager_a628b1d67f2d120933d52c0311f733a8e}{\index{financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}!accept\+Bid@{accept\+Bid}}
 \index{accept\+Bid@{accept\+Bid}!financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}}
-\subsubsection[{accept\+Bid}]{\setlength{\rightskip}{0pt plus 5cm}String financialmarketsimulator.\+Market\+Manager.\+accept\+Bid (
+\subsubsection[{accept\+Bid}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Receipt} financialmarketsimulator.\+Market\+Manager.\+accept\+Bid (
 \begin{DoxyParamCaption}
 \item[{{\bf Bid}}]{bid}
 \end{DoxyParamCaption}
-)}}\label{classfinancialmarketsimulator_1_1_market_manager_a468b11be3b1e2ce72f93dfc25468273b}
+)}}\label{classfinancialmarketsimulator_1_1_market_manager_a628b1d67f2d120933d52c0311f733a8e}
+\begin{DoxyRefDesc}{Todo}
+\item[\hyperlink{todo__todo000005}{Todo}]Acknowledgement of the bid being accepted by the market manager 
+\begin{DoxyParams}{Parameters}
+{\em bid} & \hyperlink{classfinancialmarketsimulator_1_1_bid}{Bid} object to be accepted \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Returns a receipt object that acknowledges that a bid was accepted 
+\end{DoxyReturn}
+\end{DoxyRefDesc}
 
 
-Definition at line 35 of file Market\+Manager.\+java.
+Definition at line 50 of file Market\+Manager.\+java.
 
-\hypertarget{classfinancialmarketsimulator_1_1_market_manager_a2f9ad41c35ca0bb1ad2ac045f8cd3dd3}{\index{financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}!accept\+Offer@{accept\+Offer}}
+\hypertarget{classfinancialmarketsimulator_1_1_market_manager_a46a095623bcda32e2ff6f3d85b4f8994}{\index{financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}!accept\+Offer@{accept\+Offer}}
 \index{accept\+Offer@{accept\+Offer}!financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}}
-\subsubsection[{accept\+Offer}]{\setlength{\rightskip}{0pt plus 5cm}String financialmarketsimulator.\+Market\+Manager.\+accept\+Offer (
+\subsubsection[{accept\+Offer}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Receipt} financialmarketsimulator.\+Market\+Manager.\+accept\+Offer (
 \begin{DoxyParamCaption}
 \item[{{\bf Offer}}]{offer}
 \end{DoxyParamCaption}
-)}}\label{classfinancialmarketsimulator_1_1_market_manager_a2f9ad41c35ca0bb1ad2ac045f8cd3dd3}
+)}}\label{classfinancialmarketsimulator_1_1_market_manager_a46a095623bcda32e2ff6f3d85b4f8994}
+\begin{DoxyRefDesc}{Todo}
+\item[\hyperlink{todo__todo000006}{Todo}]Acknowledgement of the offer being accepted by the market manager\end{DoxyRefDesc}
 
 
-Definition at line 40 of file Market\+Manager.\+java.
+
+\begin{DoxyParams}{Parameters}
+{\em offer} & \hyperlink{classfinancialmarketsimulator_1_1_offer}{Offer} object to be accepted \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Returns a receipt object that acknowledges that an offer was accepted 
+\end{DoxyReturn}
+
+
+Definition at line 60 of file Market\+Manager.\+java.
 
 \hypertarget{classfinancialmarketsimulator_1_1_market_manager_aa8c0454b1d66599ff5abbb01d35790e8}{\index{financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}!remove\+Bid@{remove\+Bid}}
 \index{remove\+Bid@{remove\+Bid}!financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}}
@@ -90,9 +125,21 @@ Definition at line 40 of file Market\+Manager.\+java.
 \item[{{\bf Bid}}]{bid}
 \end{DoxyParamCaption}
 )}}\label{classfinancialmarketsimulator_1_1_market_manager_aa8c0454b1d66599ff5abbb01d35790e8}
+\begin{DoxyRefDesc}{Todo}
+\item[\hyperlink{todo__todo000007}{Todo}]Acknowledgement of the bid being removed by the market manager\end{DoxyRefDesc}
 
 
-Definition at line 45 of file Market\+Manager.\+java.
+
+\begin{DoxyParams}{Parameters}
+{\em bid} & \hyperlink{classfinancialmarketsimulator_1_1_bid}{Bid} to be removed \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Returns a receipt object that acknowledges that an offer was removed 
+\end{DoxyReturn}
+
+
+Definition at line 70 of file Market\+Manager.\+java.
 
 \hypertarget{classfinancialmarketsimulator_1_1_market_manager_ad49a43c96b962562014c7bb37dfa5f7e}{\index{financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}!remove\+Offer@{remove\+Offer}}
 \index{remove\+Offer@{remove\+Offer}!financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}}
@@ -101,9 +148,21 @@ Definition at line 45 of file Market\+Manager.\+java.
 \item[{{\bf Offer}}]{offer}
 \end{DoxyParamCaption}
 )}}\label{classfinancialmarketsimulator_1_1_market_manager_ad49a43c96b962562014c7bb37dfa5f7e}
+\begin{DoxyRefDesc}{Todo}
+\item[\hyperlink{todo__todo000008}{Todo}]Acknowledgement of the offer being removed by the market manager\end{DoxyRefDesc}
 
 
-Definition at line 50 of file Market\+Manager.\+java.
+
+\begin{DoxyParams}{Parameters}
+{\em bid} & \hyperlink{classfinancialmarketsimulator_1_1_offer}{Offer} to be removed \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Returns a receipt object that acknowledges that an offer was removed 
+\end{DoxyReturn}
+
+
+Definition at line 80 of file Market\+Manager.\+java.
 
 \hypertarget{classfinancialmarketsimulator_1_1_market_manager_afb2bf557ed70cd23feccddfb5c01ab0d}{\index{financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}!update\+Engine@{update\+Engine}}
 \index{update\+Engine@{update\+Engine}!financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}}
@@ -112,9 +171,11 @@ Definition at line 50 of file Market\+Manager.\+java.
 {}
 \end{DoxyParamCaption}
 )}}\label{classfinancialmarketsimulator_1_1_market_manager_afb2bf557ed70cd23feccddfb5c01ab0d}
+\begin{DoxyRefDesc}{Todo}
+\item[\hyperlink{todo__todo000009}{Todo}]Update the engine with the current states of the bid and offer stack. \end{DoxyRefDesc}
 
 
-Definition at line 54 of file Market\+Manager.\+java.
+Definition at line 87 of file Market\+Manager.\+java.
 
 \hypertarget{classfinancialmarketsimulator_1_1_market_manager_a32d674b201543e3a6783ec64ba172266}{\index{financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}!update\+Entities@{update\+Entities}}
 \index{update\+Entities@{update\+Entities}!financialmarketsimulator\+::\+Market\+Manager@{financialmarketsimulator\+::\+Market\+Manager}}
@@ -123,12 +184,14 @@ Definition at line 54 of file Market\+Manager.\+java.
 {}
 \end{DoxyParamCaption}
 )}}\label{classfinancialmarketsimulator_1_1_market_manager_a32d674b201543e3a6783ec64ba172266}
+\begin{DoxyRefDesc}{Todo}
+\item[\hyperlink{todo__todo000010}{Todo}]Update entities \end{DoxyRefDesc}
 
 
-Definition at line 58 of file Market\+Manager.\+java.
+Definition at line 94 of file Market\+Manager.\+java.
 
 
 
 The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
 \item 
-C\+:/\+Users/\+Madimetja/\+Documents/\+Git\+Hub/bravo/\+Financial\+Market\+Simulator/src/financialmarketsimulator/\hyperlink{_market_manager_8java}{Market\+Manager.\+java}\end{DoxyCompactItemize}
+C\+:/\+Users/\+Madimetja/\+Documents/\+Git\+Hub/bravo/\+Financial\+Market\+Simulator/src/financialmarketsimulator/Market\+Manager.\+java\end{DoxyCompactItemize}

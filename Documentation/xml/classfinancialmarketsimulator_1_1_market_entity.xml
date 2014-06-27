@@ -14,7 +14,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" line="17" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" bodystart="17" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" line="11" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" bodystart="11" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_entity_1a4ebe72cd5259043f9acf42eb4bbd29fb" prot="private" static="no" mutable="no">
         <type>String</type>
@@ -27,7 +27,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" line="18" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" bodystart="18" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" line="12" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" bodystart="12" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_entity_1a7db150a75db8fbd0430f5bf87227b229" prot="private" static="no" mutable="no">
         <type>String</type>
@@ -40,7 +40,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" line="19" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" bodystart="19" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" line="13" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" bodystart="13" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_entity_1a94223fa07955cf4b4ee8a46a9a7b8915" prot="private" static="no" mutable="no">
         <type>ArrayList&lt; <ref refid="classfinancialmarketsimulator_1_1_market_strategy" kindref="compound">MarketStrategy</ref> &gt;</type>
@@ -53,15 +53,15 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" line="20" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" bodystart="20" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" line="14" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" bodystart="14" bodyend="-1"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
     </briefdescription>
     <detaileddescription>
-<para><simplesect kind="author"><para>Madimetja </para></simplesect>
+<para><simplesect kind="authors"><para>Madimetja Shika, Moeletji Semenya, Daniel Makgonta </para></simplesect>
 </para>    </detaileddescription>
-    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" line="15" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" bodystart="15" bodyend="22"/>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" line="9" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketEntity.java" bodystart="9" bodyend="16"/>
     <listofallmembers>
       <member refid="classfinancialmarketsimulator_1_1_market_entity_1a4ebe72cd5259043f9acf42eb4bbd29fb" prot="private" virt="non-virtual"><scope>financialmarketsimulator::MarketEntity</scope><name>entityID</name></member>
       <member refid="classfinancialmarketsimulator_1_1_market_entity_1a115fb994b2d376d6122ce1ccb64e900b" prot="private" virt="non-virtual"><scope>financialmarketsimulator::MarketEntity</scope><name>marketName</name></member>

@@ -17,7 +17,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="16" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="16" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="17" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="17" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classfinancialmarketsimulator_1_1stack_1_1_stack_1a85502bdf69183f7582b6c8d11bfb82b1" prot="package" static="no" mutable="no">
         <type><ref refid="classfinancialmarketsimulator_1_1stack_1_1_backoff" kindref="compound">Backoff</ref></type>
@@ -31,7 +31,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="19" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="19" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="20" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="20" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="package-static-attrib">
@@ -47,7 +47,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="17" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="17" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="18" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="18" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classfinancialmarketsimulator_1_1stack_1_1_stack_1a040a6c6c3fa81f771e4d8d9e790a9b62" prot="package" static="yes" mutable="no">
         <type>final int</type>
@@ -61,7 +61,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="18" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="18" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="19" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="19" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="protected-func">
@@ -80,21 +80,21 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="21" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="21" bodyend="25"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="22" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="22" bodyend="26"/>
       </memberdef>
       <memberdef kind="function" id="classfinancialmarketsimulator_1_1stack_1_1_stack_1aacd57a41238742e12b8ee9f20b93b162" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type><ref refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node" kindref="compound">MarketEntryAttemptNode</ref></type>
         <definition>MarketEntryAttemptNode financialmarketsimulator.stack.Stack.tryPop</definition>
         <argsstring>()</argsstring>
         <name>tryPop</name>
-        <exceptions> throws <ref refid="classfinancialmarketsimulator_1_1stack_1_1_empty_exception" kindref="compound">EmptyException</ref> </exceptions>
+        <exceptions> throws <ref refid="classfinancialmarketsimulator_1_1exception_1_1_empty_exception" kindref="compound">EmptyException</ref> </exceptions>
         <briefdescription>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="37" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="37" bodyend="49"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="38" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="38" bodyend="50"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -114,21 +114,21 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="27" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="27" bodyend="35"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="28" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="28" bodyend="36"/>
       </memberdef>
       <memberdef kind="function" id="classfinancialmarketsimulator_1_1stack_1_1_stack_1acf0de0447fa83242a8409bc5903ca215" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type><ref refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node" kindref="compound">MarketEntryAttemptNode</ref></type>
         <definition>MarketEntryAttemptNode financialmarketsimulator.stack.Stack.pop</definition>
         <argsstring>()</argsstring>
         <name>pop</name>
-        <exceptions> throws <ref refid="classfinancialmarketsimulator_1_1stack_1_1_empty_exception" kindref="compound">EmptyException</ref>, InterruptedException </exceptions>
+        <exceptions> throws <ref refid="classfinancialmarketsimulator_1_1exception_1_1_empty_exception" kindref="compound">EmptyException</ref>, InterruptedException </exceptions>
         <briefdescription>
         </briefdescription>
         <detaileddescription>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="51" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="51" bodyend="60"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="52" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="52" bodyend="61"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -137,49 +137,49 @@
 <para><simplesect kind="author"><para>Madimetja </para></simplesect>
 </para>    </detaileddescription>
     <inheritancegraph>
-      <node id="84">
+      <node id="88">
         <label>financialmarketsimulator.stack.Stack</label>
         <link refid="classfinancialmarketsimulator_1_1stack_1_1_stack"/>
       </node>
-      <node id="85">
+      <node id="89">
         <label>financialmarketsimulator.stack.BidStack</label>
         <link refid="classfinancialmarketsimulator_1_1stack_1_1_bid_stack"/>
-        <childnode refid="84" relation="public-inheritance">
+        <childnode refid="88" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="86">
+      <node id="90">
         <label>financialmarketsimulator.stack.OfferStack</label>
         <link refid="classfinancialmarketsimulator_1_1stack_1_1_offer_stack"/>
-        <childnode refid="84" relation="public-inheritance">
+        <childnode refid="88" relation="public-inheritance">
         </childnode>
       </node>
     </inheritancegraph>
     <collaborationgraph>
-      <node id="89">
+      <node id="93">
         <label>Random</label>
       </node>
-      <node id="87">
+      <node id="91">
         <label>financialmarketsimulator.stack.Stack</label>
         <link refid="classfinancialmarketsimulator_1_1stack_1_1_stack"/>
-        <childnode refid="88" relation="usage">
+        <childnode refid="92" relation="usage">
           <edgelabel>backoff</edgelabel>
         </childnode>
-        <childnode refid="90" relation="usage">
+        <childnode refid="94" relation="usage">
           <edgelabel>top</edgelabel>
         </childnode>
       </node>
-      <node id="88">
+      <node id="92">
         <label>financialmarketsimulator.stack.Backoff</label>
         <link refid="classfinancialmarketsimulator_1_1stack_1_1_backoff"/>
-        <childnode refid="89" relation="usage">
+        <childnode refid="93" relation="usage">
           <edgelabel>random</edgelabel>
         </childnode>
       </node>
-      <node id="90">
+      <node id="94">
         <label>AtomicReference&lt; financialmarketsimulator.stack.MarketEntryAttemptNode &gt;</label>
       </node>
     </collaborationgraph>
-    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="14" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="14" bodyend="61"/>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" line="15" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack/Stack.java" bodystart="15" bodyend="62"/>
     <listofallmembers>
       <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1a85502bdf69183f7582b6c8d11bfb82b1" prot="package" virt="non-virtual"><scope>financialmarketsimulator::stack::Stack</scope><name>backoff</name></member>
       <member refid="classfinancialmarketsimulator_1_1stack_1_1_stack_1a040a6c6c3fa81f771e4d8d9e790a9b62" prot="package" virt="non-virtual"><scope>financialmarketsimulator::stack::Stack</scope><name>MAX_DELAY</name></member>

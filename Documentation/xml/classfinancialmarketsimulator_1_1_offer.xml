@@ -49,32 +49,32 @@
 <para><simplesect kind="authors"><para>Madimetja Shika, Moeletji Semenya, Daniel Makgonta </para></simplesect>
 </para>    </detaileddescription>
     <inheritancegraph>
-      <node id="63">
+      <node id="67">
         <label>financialmarketsimulator.MarketEntryAttempt</label>
         <link refid="classfinancialmarketsimulator_1_1_market_entry_attempt"/>
       </node>
-      <node id="62">
+      <node id="66">
         <label>financialmarketsimulator.Offer</label>
         <link refid="classfinancialmarketsimulator_1_1_offer"/>
-        <childnode refid="63" relation="public-inheritance">
+        <childnode refid="67" relation="public-inheritance">
         </childnode>
       </node>
     </inheritancegraph>
     <collaborationgraph>
-      <node id="65">
+      <node id="69">
         <label>financialmarketsimulator.MarketEntryAttempt</label>
         <link refid="classfinancialmarketsimulator_1_1_market_entry_attempt"/>
-        <childnode refid="66" relation="usage">
+        <childnode refid="70" relation="usage">
           <edgelabel>date</edgelabel>
         </childnode>
       </node>
-      <node id="66">
+      <node id="70">
         <label>Date</label>
       </node>
-      <node id="64">
+      <node id="68">
         <label>financialmarketsimulator.Offer</label>
         <link refid="classfinancialmarketsimulator_1_1_offer"/>
-        <childnode refid="65" relation="public-inheritance">
+        <childnode refid="69" relation="public-inheritance">
         </childnode>
       </node>
     </collaborationgraph>

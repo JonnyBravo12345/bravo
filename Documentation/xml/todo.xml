@@ -5,7 +5,7 @@
     <title>Todo List</title>
     <detaileddescription>
 <para><variablelist>
-<varlistentry><term><anchor id="todo_1_todo000005"/>Member <ref refid="class_bid_unit_test_1a00b30251528b2203d6d9f17c321bc499" kindref="member">BidUnitTest.instantiation</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000017"/>Member <ref refid="class_bid_unit_test_1a00b30251528b2203d6d9f17c321bc499" kindref="member">BidUnitTest.instantiation</ref>  ()</term></varlistentry>
 <listitem><para>Tests if the Bid object instantiates as expected  </para></listitem>
 <varlistentry><term><anchor id="todo_1_todo000001"/>Member <ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a9b2f8a9eef7975bc053907e2ea05c779" kindref="member">financialmarketsimulator.MarketEntryAttempt.MarketEntryAttempt</ref>  (double pr, int numShares, String name)</term></varlistentry>
 <listitem><para>MarketEntryAttempt class constructor </para></listitem>
@@ -39,39 +39,72 @@
 </parameteritem>
 </parameterlist>
 </para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000006"/>Member <ref refid="class_market_manager_unit_test_1aadbb351148ad8792ffdc73d21a477d46" kindref="member">MarketManagerUnitTest.acceptBidTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000005"/>Member <ref refid="classfinancialmarketsimulator_1_1_market_manager_1a628b1d67f2d120933d52c0311f733a8e" kindref="member">financialmarketsimulator.MarketManager.acceptBid</ref>  (Bid bid)</term></varlistentry>
+<listitem><para>Acknowledgement of the bid being accepted by the market manager <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>bid</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Bid object to be accepted </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Returns a receipt object that acknowledges that a bid was accepted  </para></simplesect>
+</para></listitem>
+<varlistentry><term><anchor id="todo_1_todo000006"/>Member <ref refid="classfinancialmarketsimulator_1_1_market_manager_1a46a095623bcda32e2ff6f3d85b4f8994" kindref="member">financialmarketsimulator.MarketManager.acceptOffer</ref>  (Offer offer)</term></varlistentry>
+<listitem><para>Acknowledgement of the offer being accepted by the market manager </para></listitem>
+<varlistentry><term><anchor id="todo_1_todo000007"/>Member <ref refid="classfinancialmarketsimulator_1_1_market_manager_1aa8c0454b1d66599ff5abbb01d35790e8" kindref="member">financialmarketsimulator.MarketManager.removeBid</ref>  (Bid bid)</term></varlistentry>
+<listitem><para>Acknowledgement of the bid being removed by the market manager </para></listitem>
+<varlistentry><term><anchor id="todo_1_todo000008"/>Member <ref refid="classfinancialmarketsimulator_1_1_market_manager_1ad49a43c96b962562014c7bb37dfa5f7e" kindref="member">financialmarketsimulator.MarketManager.removeOffer</ref>  (Offer offer)</term></varlistentry>
+<listitem><para>Acknowledgement of the offer being removed by the market manager </para></listitem>
+<varlistentry><term><anchor id="todo_1_todo000009"/>Member <ref refid="classfinancialmarketsimulator_1_1_market_manager_1afb2bf557ed70cd23feccddfb5c01ab0d" kindref="member">financialmarketsimulator.MarketManager.updateEngine</ref>  ()</term></varlistentry>
+<listitem><para>Update the engine with the current states of the bid and offer stack.  </para></listitem>
+<varlistentry><term><anchor id="todo_1_todo000010"/>Member <ref refid="classfinancialmarketsimulator_1_1_market_manager_1a32d674b201543e3a6783ec64ba172266" kindref="member">financialmarketsimulator.MarketManager.updateEntities</ref>  ()</term></varlistentry>
+<listitem><para>Update entities  </para></listitem>
+<varlistentry><term><anchor id="todo_1_todo000012"/>Member <ref refid="interfacefinancialmarketsimulator_1_1_trade_1ab84e578afb7f519b018ebc0ffaab4d2a" kindref="member">financialmarketsimulator.Trade.makeBid</ref>  ()</term></varlistentry>
+<listitem><para>Make a bid </para></listitem>
+<varlistentry><term><anchor id="todo_1_todo000011"/>Member <ref refid="interfacefinancialmarketsimulator_1_1_trade_1aba2e7742e3c7a477417abb741eb049af" kindref="member">financialmarketsimulator.Trade.makeOffer</ref>  ()</term></varlistentry>
+<listitem><para>Make an offer </para></listitem>
+<varlistentry><term><anchor id="todo_1_todo000013"/>Member <ref refid="interfacefinancialmarketsimulator_1_1_trade_1a22d67d3c44faaf8fca8a4fd2d78a3e75" kindref="member">financialmarketsimulator.Trade.retractBid</ref>  ()</term></varlistentry>
+<listitem><para>Retract a bid that was previously accepted </para></listitem>
+<varlistentry><term><anchor id="todo_1_todo000014"/>Member <ref refid="interfacefinancialmarketsimulator_1_1_trade_1a1a1cbe142a99ac5e08872efea02239f7" kindref="member">financialmarketsimulator.Trade.retractOffer</ref>  ()</term></varlistentry>
+<listitem><para>Retract an offer that was previously accepted  </para></listitem>
+<varlistentry><term><anchor id="todo_1_todo000016"/>Member <ref refid="interfacefinancialmarketsimulator_1_1_trade_1a2635502a77913bfa79d6a953ee7c3c1f" kindref="member">financialmarketsimulator.Trade.searchMarketEntryAttempt</ref>  (MarketEntryAttempt entry)</term></varlistentry>
+<listitem><para>Search for a market entry attempt (bid or offer) </para></listitem>
+<varlistentry><term><anchor id="todo_1_todo000015"/>Member <ref refid="interfacefinancialmarketsimulator_1_1_trade_1aa3cfc0cff8e9a08e48cfd70ae870cb8b" kindref="member">financialmarketsimulator.Trade.setStrategy</ref>  (String strategy)</term></varlistentry>
+<listitem><para>Set the current strategy of the participant </para></listitem>
+<varlistentry><term><anchor id="todo_1_todo000018"/>Member <ref refid="class_market_manager_unit_test_1aadbb351148ad8792ffdc73d21a477d46" kindref="member">MarketManagerUnitTest.acceptBidTest</ref>  ()</term></varlistentry>
 <listitem><para></para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000007"/>Member <ref refid="class_market_manager_unit_test_1a048bcd980b57e21cf535525c3d354327" kindref="member">MarketManagerUnitTest.acceptOfferTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000019"/>Member <ref refid="class_market_manager_unit_test_1a048bcd980b57e21cf535525c3d354327" kindref="member">MarketManagerUnitTest.acceptOfferTest</ref>  ()</term></varlistentry>
 <listitem><para></para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000008"/>Member <ref refid="class_market_manager_unit_test_1ad15bca438fb420eb4edc10d2a6d5d69b" kindref="member">MarketManagerUnitTest.removeBidTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000020"/>Member <ref refid="class_market_manager_unit_test_1ad15bca438fb420eb4edc10d2a6d5d69b" kindref="member">MarketManagerUnitTest.removeBidTest</ref>  ()</term></varlistentry>
 <listitem><para></para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000009"/>Member <ref refid="class_market_manager_unit_test_1a3a39f91093490fa570428eeadbee53d8" kindref="member">MarketManagerUnitTest.removeOfferTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000021"/>Member <ref refid="class_market_manager_unit_test_1a3a39f91093490fa570428eeadbee53d8" kindref="member">MarketManagerUnitTest.removeOfferTest</ref>  ()</term></varlistentry>
 <listitem><para></para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000010"/>Member <ref refid="class_market_manager_unit_test_1a1c14446d8fae8ccdc8bbfb43054a5528" kindref="member">MarketManagerUnitTest.updateEngineTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000022"/>Member <ref refid="class_market_manager_unit_test_1a1c14446d8fae8ccdc8bbfb43054a5528" kindref="member">MarketManagerUnitTest.updateEngineTest</ref>  ()</term></varlistentry>
 <listitem><para></para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000011"/>Member <ref refid="class_market_manager_unit_test_1ac830f868e90ae29122ae6382a4d227de" kindref="member">MarketManagerUnitTest.updateEntitiesTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000023"/>Member <ref refid="class_market_manager_unit_test_1ac830f868e90ae29122ae6382a4d227de" kindref="member">MarketManagerUnitTest.updateEntitiesTest</ref>  ()</term></varlistentry>
 <listitem><para></para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000013"/>Member <ref refid="class_market_strategy_unit_test_1a98b0ebe10401ed5d3c9af160dfcb8f2a" kindref="member">MarketStrategyUnitTest.makeBidTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000025"/>Member <ref refid="class_market_strategy_unit_test_1a98b0ebe10401ed5d3c9af160dfcb8f2a" kindref="member">MarketStrategyUnitTest.makeBidTest</ref>  ()</term></varlistentry>
 <listitem><para></para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000012"/>Member <ref refid="class_market_strategy_unit_test_1ab814f5c9983e0eaa02f7c5040b81971a" kindref="member">MarketStrategyUnitTest.makeOfferTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000024"/>Member <ref refid="class_market_strategy_unit_test_1ab814f5c9983e0eaa02f7c5040b81971a" kindref="member">MarketStrategyUnitTest.makeOfferTest</ref>  ()</term></varlistentry>
 <listitem><para></para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000014"/>Member <ref refid="class_market_strategy_unit_test_1aa0b0a03a9824cd06bc94c68d9c45042f" kindref="member">MarketStrategyUnitTest.retractBidTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000026"/>Member <ref refid="class_market_strategy_unit_test_1aa0b0a03a9824cd06bc94c68d9c45042f" kindref="member">MarketStrategyUnitTest.retractBidTest</ref>  ()</term></varlistentry>
 <listitem><para></para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000015"/>Member <ref refid="class_market_strategy_unit_test_1a045225ba03abd2845f49e6c0e065712a" kindref="member">MarketStrategyUnitTest.retractOfferTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000027"/>Member <ref refid="class_market_strategy_unit_test_1a045225ba03abd2845f49e6c0e065712a" kindref="member">MarketStrategyUnitTest.retractOfferTest</ref>  ()</term></varlistentry>
 <listitem><para></para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000017"/>Member <ref refid="class_market_strategy_unit_test_1a090ee23fae74dd8351ad91f17c784627" kindref="member">MarketStrategyUnitTest.searchMarketEntryAttempt</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000029"/>Member <ref refid="class_market_strategy_unit_test_1a090ee23fae74dd8351ad91f17c784627" kindref="member">MarketStrategyUnitTest.searchMarketEntryAttempt</ref>  ()</term></varlistentry>
 <listitem><para></para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000016"/>Member <ref refid="class_market_strategy_unit_test_1ac701e483e622d7a918f1b8f21f024108" kindref="member">MarketStrategyUnitTest.setStrategyTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000028"/>Member <ref refid="class_market_strategy_unit_test_1ac701e483e622d7a918f1b8f21f024108" kindref="member">MarketStrategyUnitTest.setStrategyTest</ref>  ()</term></varlistentry>
 <listitem><para></para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000018"/>Member <ref refid="class_matching_engine_unit_test_1acbb8d543a15e349d8f46769388fd28bd" kindref="member">MatchingEngineUnitTest.instantiation</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000030"/>Member <ref refid="class_matching_engine_unit_test_1acbb8d543a15e349d8f46769388fd28bd" kindref="member">MatchingEngineUnitTest.instantiation</ref>  ()</term></varlistentry>
 <listitem><para>Tests if the MatchingEngine object instantiates as expected  </para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000019"/>Member <ref refid="class_matching_engine_unit_test_1a2dbbdf5632bac8d35d6902caf5556c5f" kindref="member">MatchingEngineUnitTest.tradeTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000031"/>Member <ref refid="class_matching_engine_unit_test_1a2dbbdf5632bac8d35d6902caf5556c5f" kindref="member">MatchingEngineUnitTest.tradeTest</ref>  ()</term></varlistentry>
 <listitem><para>Tests the MatchingEngine trade() function. Two cases are tested: Firstly, if the trade function will record a trade when an offer and a bid are explicitly made to match, and secondly if the trade function will record no trade when all bids and offers are made explicitly not to match. The function creates mock bid and offer stacks and populates them with mock bid and offer objects. Trade is then called on those stacks.  </para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000020"/>Member <ref refid="class_matching_engine_unit_test_1a914f15f54087d84798e02b33734a9791" kindref="member">MatchingEngineUnitTest.updateTest</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000032"/>Member <ref refid="class_matching_engine_unit_test_1a914f15f54087d84798e02b33734a9791" kindref="member">MatchingEngineUnitTest.updateTest</ref>  ()</term></varlistentry>
 <listitem><para>Observes the bid and offer stacks when called and informs the MarketManager to either update or not update the views accordingly.  </para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000021"/>Member <ref refid="class_offer_unit_test_1a6a183dfb778383f20231c0dd4a43dc65" kindref="member">OfferUnitTest.instantiation</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000033"/>Member <ref refid="class_offer_unit_test_1a6a183dfb778383f20231c0dd4a43dc65" kindref="member">OfferUnitTest.instantiation</ref>  ()</term></varlistentry>
 <listitem><para>Tests if the Offer object instantiates as expected  </para></listitem>
-<varlistentry><term><anchor id="todo_1_todo000022"/>Member <ref refid="class_receipt_unit_test_1aab92fcc0a866db8ec56ed65b9693cdc8" kindref="member">ReceiptUnitTest.instantiation</ref>  ()</term></varlistentry>
+<varlistentry><term><anchor id="todo_1_todo000034"/>Member <ref refid="class_receipt_unit_test_1aab92fcc0a866db8ec56ed65b9693cdc8" kindref="member">ReceiptUnitTest.instantiation</ref>  ()</term></varlistentry>
 <listitem><para>Tests if the Receipt object instantiates as expected </para></listitem>
 </variablelist>
 </para>    </detaileddescription>

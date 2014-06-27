@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['backoff',['backoff',['../classfinancialmarketsimulator_1_1stack_1_1_backoff.html#ac9fda467f801c8d4b07a77c49ef4d937',1,'financialmarketsimulator.stack.Backoff.backoff()'],['../classfinancialmarketsimulator_1_1stack_1_1_backoff.html#ad23617770370498034c220b0c70ded4e',1,'financialmarketsimulator.stack.Backoff.Backoff(int min, int max)']]],
-  ['bid',['Bid',['../classfinancialmarketsimulator_1_1_bid.html#a9ed8e389307df90419473a2b3ef375af',1,'financialmarketsimulator.Bid.Bid()'],['../classfinancialmarketsimulator_1_1_bid.html#a323008939bcfc7e51c56a9d61a1d79d9',1,'financialmarketsimulator.Bid.Bid(double _price, int _numShares, String _name)']]],
-  ['bidunittest',['BidUnitTest',['../class_bid_unit_test.html#a8fd151d7f101bf0368f2d916dc9d684c',1,'BidUnitTest']]]
+  ['getnumberofshares',['getNumberOfShares',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#ae48c6d1bc9ef23b88d077ee194686946',1,'financialmarketsimulator::MarketEntryAttempt']]],
+  ['getparticipantname',['getParticipantName',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a7c461ce88325da7ce771ef3e8284616c',1,'financialmarketsimulator::MarketEntryAttempt']]],
+  ['getprice',['getPrice',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a465bd475d2cf836c09e51e26ae937e66',1,'financialmarketsimulator::MarketEntryAttempt']]],
+  ['gettimestanp',['getTimeStanp',['../classfinancialmarketsimulator_1_1_market_entry_attempt.html#a48ec5ce3d7d0451da742f3290f0e3b52',1,'financialmarketsimulator::MarketEntryAttempt']]]
 ];

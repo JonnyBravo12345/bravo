@@ -1,4 +1,4 @@
-.TH "todo" 3 "Fri Jun 27 2014" "Financial_Market_Simulato_ Documentation_V0.1" \" -*- nroff -*-
+.TH "todo" 3 "Fri Jun 27 2014" "My Project" \" -*- nroff -*-
 .ad l
 .nh
 .SH NAME
@@ -32,6 +32,41 @@ Sets the price of the shares for entry attempt, i\&.e\&. sets the price of share
 \fI_price\fP The price of the shares for the entry attempt\&.  
 .RE
 .PP
+.IP "\fBMember \fBfinancialmarketsimulator\&.MarketManager\&.acceptBid\fP (Bid bid)\fP" 1c
+Acknowledgement of the bid being accepted by the market manager 
+.PP
+\fBParameters:\fP
+.RS 4
+\fIbid\fP Bid object to be accepted 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+Returns a receipt object that acknowledges that a bid was accepted  
+.RE
+.PP
+.IP "\fBMember \fBfinancialmarketsimulator\&.MarketManager\&.acceptOffer\fP (Offer offer)\fP" 1c
+Acknowledgement of the offer being accepted by the market manager 
+.IP "\fBMember \fBfinancialmarketsimulator\&.MarketManager\&.removeBid\fP (Bid bid)\fP" 1c
+Acknowledgement of the bid being removed by the market manager 
+.IP "\fBMember \fBfinancialmarketsimulator\&.MarketManager\&.removeOffer\fP (Offer offer)\fP" 1c
+Acknowledgement of the offer being removed by the market manager 
+.IP "\fBMember \fBfinancialmarketsimulator\&.MarketManager\&.updateEngine\fP ()\fP" 1c
+Update the engine with the current states of the bid and offer stack\&.  
+.IP "\fBMember \fBfinancialmarketsimulator\&.MarketManager\&.updateEntities\fP ()\fP" 1c
+Update entities  
+.IP "\fBMember \fBfinancialmarketsimulator\&.Trade\&.makeBid\fP ()\fP" 1c
+Make a bid 
+.IP "\fBMember \fBfinancialmarketsimulator\&.Trade\&.makeOffer\fP ()\fP" 1c
+Make an offer 
+.IP "\fBMember \fBfinancialmarketsimulator\&.Trade\&.retractBid\fP ()\fP" 1c
+Retract a bid that was previously accepted 
+.IP "\fBMember \fBfinancialmarketsimulator\&.Trade\&.retractOffer\fP ()\fP" 1c
+Retract an offer that was previously accepted  
+.IP "\fBMember \fBfinancialmarketsimulator\&.Trade\&.searchMarketEntryAttempt\fP (MarketEntryAttempt entry)\fP" 1c
+Search for a market entry attempt (bid or offer) 
+.IP "\fBMember \fBfinancialmarketsimulator\&.Trade\&.setStrategy\fP (String strategy)\fP" 1c
+Set the current strategy of the participant 
 .IP "\fBMember \fBMarketManagerUnitTest\&.acceptBidTest\fP ()\fP" 1c
 .IP "\fBMember \fBMarketManagerUnitTest\&.acceptOfferTest\fP ()\fP" 1c
 .IP "\fBMember \fBMarketManagerUnitTest\&.removeBidTest\fP ()\fP" 1c

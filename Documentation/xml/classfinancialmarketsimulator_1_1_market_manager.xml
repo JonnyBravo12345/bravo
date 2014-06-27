@@ -14,7 +14,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="12" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="12" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="13" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="13" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_manager_1ae0b027e815b5fa8aad4e94128c36ce61" prot="private" static="no" mutable="no">
         <type>String</type>
@@ -27,7 +27,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="13" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="13" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="14" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="14" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_manager_1ae1104e3ec64ad7851796ebf92aa1eb4d" prot="private" static="no" mutable="no">
         <type>int</type>
@@ -40,7 +40,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="14" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="14" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="15" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="15" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_manager_1af942b20a8919ab994d4c953515ee43da" prot="private" static="no" mutable="no">
         <type>double</type>
@@ -53,7 +53,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="15" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="15" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="16" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="16" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_manager_1a91ee7d24908d9e97d999cb6da7f12366" prot="private" static="no" mutable="no">
         <type><ref refid="classfinancialmarketsimulator_1_1_matching_engine" kindref="compound">MatchingEngine</ref></type>
@@ -66,7 +66,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="16" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="16" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="17" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="17" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_manager_1a2dc19fc7b921365bc5172a3f5b7933c8" prot="private" static="no" mutable="no">
         <type>Stack&lt; <ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref> &gt;</type>
@@ -79,7 +79,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="17" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="17" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="18" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="18" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="classfinancialmarketsimulator_1_1_market_manager_1aae3fa88d6f64385e76d53b1a38b03070" prot="private" static="no" mutable="no">
         <type>Stack&lt; <ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref> &gt;</type>
@@ -92,7 +92,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="18" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="18" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="19" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="19" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -104,10 +104,10 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-        </detaileddescription>
+<para><ref refid="classfinancialmarketsimulator_1_1_market_manager" kindref="compound">MarketManager</ref> Constructor </para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="21" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="21" bodyend="23"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="24" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="24" bodyend="26"/>
       </memberdef>
       <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_manager_1abec3bfc62ba95bd12c444492b7cad61e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type></type>
@@ -133,14 +133,43 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-        </detaileddescription>
+<para><ref refid="classfinancialmarketsimulator_1_1_market_manager" kindref="compound">MarketManager</ref> Constructor</para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Name of the stock </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>sType</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Type of stock </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>numShares</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Number of shares the stock holds </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>val</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Market value of the stock </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="25" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="25" bodyend="32"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="36" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="36" bodyend="43"/>
       </memberdef>
-      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_manager_1a468b11be3b1e2ce72f93dfc25468273b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
-        <type>String</type>
-        <definition>String financialmarketsimulator.MarketManager.acceptBid</definition>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_manager_1a628b1d67f2d120933d52c0311f733a8e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="classfinancialmarketsimulator_1_1receipts_1_1_receipt" kindref="compound">Receipt</ref></type>
+        <definition>Receipt financialmarketsimulator.MarketManager.acceptBid</definition>
         <argsstring>(Bid bid)</argsstring>
         <name>acceptBid</name>
         <param>
@@ -150,14 +179,23 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-        </detaileddescription>
+<para><xrefsect id="todo_1_todo000005"><xreftitle>Todo</xreftitle><xrefdescription><para>Acknowledgement of the bid being accepted by the market manager <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>bid</parametername>
+</parameternamelist>
+<parameterdescription>
+<para><ref refid="classfinancialmarketsimulator_1_1_bid" kindref="compound">Bid</ref> object to be accepted </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Returns a receipt object that acknowledges that a bid was accepted </para></simplesect>
+</para></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="35" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="35" bodyend="37"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="50" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="50" bodyend="52"/>
       </memberdef>
-      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_manager_1a2f9ad41c35ca0bb1ad2ac045f8cd3dd3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
-        <type>String</type>
-        <definition>String financialmarketsimulator.MarketManager.acceptOffer</definition>
+      <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_manager_1a46a095623bcda32e2ff6f3d85b4f8994" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="classfinancialmarketsimulator_1_1receipts_1_1_receipt" kindref="compound">Receipt</ref></type>
+        <definition>Receipt financialmarketsimulator.MarketManager.acceptOffer</definition>
         <argsstring>(Offer offer)</argsstring>
         <name>acceptOffer</name>
         <param>
@@ -167,10 +205,19 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-        </detaileddescription>
+<para><xrefsect id="todo_1_todo000006"><xreftitle>Todo</xreftitle><xrefdescription><para>Acknowledgement of the offer being accepted by the market manager</para></xrefdescription></xrefsect></para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>offer</parametername>
+</parameternamelist>
+<parameterdescription>
+<para><ref refid="classfinancialmarketsimulator_1_1_offer" kindref="compound">Offer</ref> object to be accepted </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Returns a receipt object that acknowledges that an offer was accepted </para></simplesect>
+</para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="40" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="40" bodyend="42"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="60" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="60" bodyend="62"/>
       </memberdef>
       <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_manager_1aa8c0454b1d66599ff5abbb01d35790e8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>String</type>
@@ -184,10 +231,19 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-        </detaileddescription>
+<para><xrefsect id="todo_1_todo000007"><xreftitle>Todo</xreftitle><xrefdescription><para>Acknowledgement of the bid being removed by the market manager</para></xrefdescription></xrefsect></para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>bid</parametername>
+</parameternamelist>
+<parameterdescription>
+<para><ref refid="classfinancialmarketsimulator_1_1_bid" kindref="compound">Bid</ref> to be removed </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Returns a receipt object that acknowledges that an offer was removed </para></simplesect>
+</para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="45" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="45" bodyend="47"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="70" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="70" bodyend="72"/>
       </memberdef>
       <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_manager_1ad49a43c96b962562014c7bb37dfa5f7e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>String</type>
@@ -201,10 +257,19 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-        </detaileddescription>
+<para><xrefsect id="todo_1_todo000008"><xreftitle>Todo</xreftitle><xrefdescription><para>Acknowledgement of the offer being removed by the market manager</para></xrefdescription></xrefsect></para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>bid</parametername>
+</parameternamelist>
+<parameterdescription>
+<para><ref refid="classfinancialmarketsimulator_1_1_offer" kindref="compound">Offer</ref> to be removed </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Returns a receipt object that acknowledges that an offer was removed </para></simplesect>
+</para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="50" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="50" bodyend="52"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="80" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="80" bodyend="82"/>
       </memberdef>
       <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_manager_1afb2bf557ed70cd23feccddfb5c01ab0d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -214,10 +279,10 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-        </detaileddescription>
+<para><xrefsect id="todo_1_todo000009"><xreftitle>Todo</xreftitle><xrefdescription><para>Update the engine with the current states of the bid and offer stack. </para></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="54" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="54" bodyend="56"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="87" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="87" bodyend="89"/>
       </memberdef>
       <memberdef kind="function" id="classfinancialmarketsimulator_1_1_market_manager_1a32d674b201543e3a6783ec64ba172266" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -227,10 +292,10 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-        </detaileddescription>
+<para><xrefsect id="todo_1_todo000010"><xreftitle>Todo</xreftitle><xrefdescription><para>Update entities </para></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="58" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="58" bodyend="60"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="94" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="94" bodyend="96"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -238,10 +303,10 @@
     <detaileddescription>
 <para><simplesect kind="authors"><para>Madimetja Shika, Moeletji Semenya, Daniel Makgonta </para></simplesect>
 </para>    </detaileddescription>
-    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="10" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="10" bodyend="61"/>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" line="11" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/MarketManager.java" bodystart="11" bodyend="97"/>
     <listofallmembers>
-      <member refid="classfinancialmarketsimulator_1_1_market_manager_1a468b11be3b1e2ce72f93dfc25468273b" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketManager</scope><name>acceptBid</name></member>
-      <member refid="classfinancialmarketsimulator_1_1_market_manager_1a2f9ad41c35ca0bb1ad2ac045f8cd3dd3" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketManager</scope><name>acceptOffer</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_manager_1a628b1d67f2d120933d52c0311f733a8e" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketManager</scope><name>acceptBid</name></member>
+      <member refid="classfinancialmarketsimulator_1_1_market_manager_1a46a095623bcda32e2ff6f3d85b4f8994" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketManager</scope><name>acceptOffer</name></member>
       <member refid="classfinancialmarketsimulator_1_1_market_manager_1a2dc19fc7b921365bc5172a3f5b7933c8" prot="private" virt="non-virtual"><scope>financialmarketsimulator::MarketManager</scope><name>bidsStack</name></member>
       <member refid="classfinancialmarketsimulator_1_1_market_manager_1a59e7711f4974dd07fb5aa89f77824f86" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketManager</scope><name>MarketManager</name></member>
       <member refid="classfinancialmarketsimulator_1_1_market_manager_1abec3bfc62ba95bd12c444492b7cad61e" prot="public" virt="non-virtual"><scope>financialmarketsimulator::MarketManager</scope><name>MarketManager</name></member>

@@ -55,20 +55,20 @@
 <para><simplesect kind="author"><para>Madimetja </para></simplesect>
 </para>    </detaileddescription>
     <collaborationgraph>
-      <node id="42">
+      <node id="46">
         <label>financialmarketsimulator.MarketEntryAttempt</label>
         <link refid="classfinancialmarketsimulator_1_1_market_entry_attempt"/>
-        <childnode refid="43" relation="usage">
+        <childnode refid="47" relation="usage">
           <edgelabel>date</edgelabel>
         </childnode>
       </node>
-      <node id="43">
+      <node id="47">
         <label>Date</label>
       </node>
-      <node id="41">
+      <node id="45">
         <label>financialmarketsimulator.stack.MarketEntryAttemptNode</label>
         <link refid="classfinancialmarketsimulator_1_1stack_1_1_market_entry_attempt_node"/>
-        <childnode refid="42" relation="usage">
+        <childnode refid="46" relation="usage">
           <edgelabel>node</edgelabel>
           <edgelabel>next</edgelabel>
         </childnode>

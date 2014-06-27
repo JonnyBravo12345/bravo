@@ -10,20 +10,20 @@
 <para><simplesect kind="author"><para>Moeletji </para></simplesect>
 </para>    </detaileddescription>
     <inheritancegraph>
-      <node id="79">
+      <node id="83">
         <label>financialmarketsimulator.receipts.BidReceipt</label>
         <link refid="classfinancialmarketsimulator_1_1receipts_1_1_bid_receipt"/>
-        <childnode refid="78" relation="public-inheritance">
+        <childnode refid="82" relation="public-inheritance">
         </childnode>
       </node>
-      <node id="78">
+      <node id="82">
         <label>financialmarketsimulator.receipts.Receipt</label>
         <link refid="classfinancialmarketsimulator_1_1receipts_1_1_receipt"/>
       </node>
-      <node id="80">
+      <node id="84">
         <label>financialmarketsimulator.receipts.TradeReceipt</label>
         <link refid="classfinancialmarketsimulator_1_1receipts_1_1_trade_receipt"/>
-        <childnode refid="78" relation="public-inheritance">
+        <childnode refid="82" relation="public-inheritance">
         </childnode>
       </node>
     </inheritancegraph>

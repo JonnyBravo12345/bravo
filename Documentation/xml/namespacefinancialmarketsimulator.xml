@@ -11,6 +11,7 @@
     <innerclass refid="classfinancialmarketsimulator_1_1_matching_engine" prot="public">financialmarketsimulator::MatchingEngine</innerclass>
     <innerclass refid="classfinancialmarketsimulator_1_1_offer" prot="public">financialmarketsimulator::Offer</innerclass>
     <innerclass refid="interfacefinancialmarketsimulator_1_1_trade" prot="public">financialmarketsimulator::Trade</innerclass>
+    <innernamespace refid="namespacefinancialmarketsimulator_1_1exception">financialmarketsimulator::exception</innernamespace>
     <innernamespace refid="namespacefinancialmarketsimulator_1_1receipts">financialmarketsimulator::receipts</innernamespace>
     <innernamespace refid="namespacefinancialmarketsimulator_1_1stack">financialmarketsimulator::stack</innernamespace>
     <briefdescription>

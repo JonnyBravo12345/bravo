@@ -1,4 +1,4 @@
-.TH "financialmarketsimulator.MarketStrategy" 3 "Fri Jun 27 2014" "Financial_Market_Simulato_ Documentation_V0.1" \" -*- nroff -*-
+.TH "financialmarketsimulator.MarketStrategy" 3 "Fri Jun 27 2014" "My Project" \" -*- nroff -*-
 .ad l
 .nh
 .SH NAME
@@ -27,30 +27,56 @@ Inherits \fBfinancialmarketsimulator\&.Trade\fP\&.
 .RI "void \fBsetStrategy\fP (String strategy)"
 .br
 .ti -1c
-.RI "\fBMarketEntryAttempt\fP \fBsearchMarketEntryAttempt\fP (\fBMarketEntryAttempt\fP entry)"
+.RI "\fBMarketEntryAttempt\fP \fBsearchMarketEntryAttempt\fP (\fBMarketEntryAttempt\fP entry)  throws ItemNotFoundException "
 .br
 .in -1c
 .SH "Detailed Description"
 .PP 
 
 .PP
-\fBAuthor:\fP
+\fBAuthors:\fP
 .RS 4
-Madimetja 
+Madimetja Shika, Moeletji Semenya, Daniel Makgonta 
 .RE
 .PP
 
 .PP
-Definition at line 12 of file MarketStrategy\&.java\&.
+Definition at line 9 of file MarketStrategy\&.java\&.
 .SH "Member Function Documentation"
 .PP 
 .SS "\fBMarketEntryAttempt\fP financialmarketsimulator\&.MarketStrategy\&.makeBid ()"
 
 .PP
+\fBTodo\fP
+.RS 4
+Make a bid
+.RE
+.PP
+.PP
+\fBReturns:\fP
+.RS 4
+will return a \fBMarketEntryAttempt\fP 
+.RE
+.PP
+
+.PP
 Implements \fBfinancialmarketsimulator\&.Trade\fP\&.
 .PP
-Definition at line 19 of file MarketStrategy\&.java\&.
+Definition at line 20 of file MarketStrategy\&.java\&.
 .SS "\fBMarketEntryAttempt\fP financialmarketsimulator\&.MarketStrategy\&.makeOffer ()"
+
+.PP
+\fBTodo\fP
+.RS 4
+Make an offer
+.RE
+.PP
+.PP
+\fBReturns:\fP
+.RS 4
+will return a \fBMarketEntryAttempt\fP 
+.RE
+.PP
 
 .PP
 Implements \fBfinancialmarketsimulator\&.Trade\fP\&.
@@ -59,28 +85,78 @@ Definition at line 15 of file MarketStrategy\&.java\&.
 .SS "void financialmarketsimulator\&.MarketStrategy\&.retractBid ()"
 
 .PP
-Implements \fBfinancialmarketsimulator\&.Trade\fP\&.
+\fBTodo\fP
+.RS 4
+Retract a bid that was previously accepted
+.RE
 .PP
-Definition at line 23 of file MarketStrategy\&.java\&.
-.SS "void financialmarketsimulator\&.MarketStrategy\&.retractOffer ()"
 
 .PP
 Implements \fBfinancialmarketsimulator\&.Trade\fP\&.
 .PP
-Definition at line 27 of file MarketStrategy\&.java\&.
-.SS "\fBMarketEntryAttempt\fP financialmarketsimulator\&.MarketStrategy\&.searchMarketEntryAttempt (\fBMarketEntryAttempt\fPentry)"
+Definition at line 25 of file MarketStrategy\&.java\&.
+.SS "void financialmarketsimulator\&.MarketStrategy\&.retractOffer ()"
+
+.PP
+\fBTodo\fP
+.RS 4
+Retract an offer that was previously accepted 
+.RE
+.PP
+
+.PP
+Implements \fBfinancialmarketsimulator\&.Trade\fP\&.
+.PP
+Definition at line 30 of file MarketStrategy\&.java\&.
+.SS "\fBMarketEntryAttempt\fP financialmarketsimulator\&.MarketStrategy\&.searchMarketEntryAttempt (\fBMarketEntryAttempt\fPentry) throws \fBItemNotFoundException\fP"
+
+.PP
+\fBTodo\fP
+.RS 4
+Search for a market entry attempt (bid or offer)
+.RE
+.PP
+.PP
+\fBParameters:\fP
+.RS 4
+\fIentry\fP \fBMarketEntryAttempt\fP object to be searched 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+Returns the searched \fBMarketEntryAttempt\fP object 
+.RE
+.PP
+\fBExceptions:\fP
+.RS 4
+\fIException\&.ItemNotFoundException\fP 
+.RE
+.PP
+
+.PP
+Implements \fBfinancialmarketsimulator\&.Trade\fP\&.
+.PP
+Definition at line 40 of file MarketStrategy\&.java\&.
+.SS "void financialmarketsimulator\&.MarketStrategy\&.setStrategy (Stringstrategy)"
+
+.PP
+\fBTodo\fP
+.RS 4
+Set the current strategy of the participant
+.RE
+.PP
+.PP
+\fBParameters:\fP
+.RS 4
+\fIstrategy\fP strategy to be used by participant 
+.RE
+.PP
 
 .PP
 Implements \fBfinancialmarketsimulator\&.Trade\fP\&.
 .PP
 Definition at line 35 of file MarketStrategy\&.java\&.
-.SS "void financialmarketsimulator\&.MarketStrategy\&.setStrategy (Stringstrategy)"
-
-.PP
-Implements \fBfinancialmarketsimulator\&.Trade\fP\&.
-.PP
-Definition at line 31 of file MarketStrategy\&.java\&.
 
 .SH "Author"
 .PP 
-Generated automatically by Doxygen for Financial_Market_Simulato_ Documentation_V0\&.1 from the source code\&.
+Generated automatically by Doxygen for My Project from the source code\&.

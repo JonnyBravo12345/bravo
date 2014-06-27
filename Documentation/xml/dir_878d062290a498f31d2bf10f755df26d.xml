@@ -2,6 +2,7 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.7">
   <compounddef id="dir_878d062290a498f31d2bf10f755df26d" kind="dir">
     <compoundname>C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator</compoundname>
+    <innerdir refid="dir_a9e6d0607dbad8c741f50fe58f327e35">C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/exception</innerdir>
     <innerdir refid="dir_a2e395377a3410ca19ae3a075d11db2c">C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/receipts</innerdir>
     <innerdir refid="dir_3a75d973409d46dc9dc25b989a1fa52c">C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/src/financialmarketsimulator/stack</innerdir>
     <innerfile refid="_bid_8java">Bid.java</innerfile>

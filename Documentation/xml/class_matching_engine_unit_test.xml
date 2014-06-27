@@ -14,7 +14,7 @@
 <para>The MatchingEngine object used for testing throughout the class </para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="47" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="47" bodyend="-1"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="48" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="48" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="25" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="25" bodyend="26"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="26" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="26" bodyend="27"/>
       </memberdef>
       <memberdef kind="function" id="class_matching_engine_unit_test_1a2fe9413d67e2ad0c8233d11d1f209548" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -42,7 +42,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="37" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="37" bodyend="38"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="38" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="38" bodyend="39"/>
       </memberdef>
       <memberdef kind="function" id="class_matching_engine_unit_test_1adececd49e895e978d85a27b8470104d3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -55,7 +55,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="41" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="41" bodyend="42"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="42" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="42" bodyend="43"/>
       </memberdef>
       <memberdef kind="function" id="class_matching_engine_unit_test_1acbb8d543a15e349d8f46769388fd28bd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -65,10 +65,10 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para><xrefsect id="todo_1_todo000018"><xreftitle>Todo</xreftitle><xrefdescription><para>Tests if the MatchingEngine object instantiates as expected </para></xrefdescription></xrefsect></para>        </detaileddescription>
+<para><xrefsect id="todo_1_todo000030"><xreftitle>Todo</xreftitle><xrefdescription><para>Tests if the MatchingEngine object instantiates as expected </para></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="53" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="53" bodyend="56"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="54" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="54" bodyend="57"/>
       </memberdef>
       <memberdef kind="function" id="class_matching_engine_unit_test_1a2dbbdf5632bac8d35d6902caf5556c5f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -78,10 +78,10 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para><xrefsect id="todo_1_todo000019"><xreftitle>Todo</xreftitle><xrefdescription><para>Tests the MatchingEngine trade() function. Two cases are tested: Firstly, if the trade function will record a trade when an offer and a bid are explicitly made to match, and secondly if the trade function will record no trade when all bids and offers are made explicitly not to match. The function creates mock bid and offer stacks and populates them with mock bid and offer objects. Trade is then called on those stacks. </para></xrefdescription></xrefsect></para>        </detaileddescription>
+<para><xrefsect id="todo_1_todo000031"><xreftitle>Todo</xreftitle><xrefdescription><para>Tests the MatchingEngine trade() function. Two cases are tested: Firstly, if the trade function will record a trade when an offer and a bid are explicitly made to match, and secondly if the trade function will record no trade when all bids and offers are made explicitly not to match. The function creates mock bid and offer stacks and populates them with mock bid and offer objects. Trade is then called on those stacks. </para></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="68" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="68" bodyend="160"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="69" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="69" bodyend="161"/>
       </memberdef>
       <memberdef kind="function" id="class_matching_engine_unit_test_1a914f15f54087d84798e02b33734a9791" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -91,10 +91,10 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para><xrefsect id="todo_1_todo000020"><xreftitle>Todo</xreftitle><xrefdescription><para>Observes the bid and offer stacks when called and informs the MarketManager to either update or not update the views accordingly. </para></xrefdescription></xrefsect></para>        </detaileddescription>
+<para><xrefsect id="todo_1_todo000032"><xreftitle>Todo</xreftitle><xrefdescription><para>Observes the bid and offer stacks when called and informs the MarketManager to either update or not update the views accordingly. </para></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="167" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="167" bodyend="169"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="168" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="168" bodyend="170"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-static-func">
@@ -109,7 +109,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="29" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="29" bodyend="30"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="30" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="30" bodyend="31"/>
       </memberdef>
       <memberdef kind="function" id="class_matching_engine_unit_test_1a0fb23de300ffd3a7d2b42e84d457be09" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -122,7 +122,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="33" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="33" bodyend="34"/>
+        <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="34" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="34" bodyend="35"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -131,19 +131,19 @@
 <para><simplesect kind="author"><para>Madimetja </para></simplesect>
 </para>    </detaileddescription>
     <collaborationgraph>
-      <node id="60">
+      <node id="64">
         <label>MatchingEngineUnitTest</label>
         <link refid="class_matching_engine_unit_test"/>
-        <childnode refid="61" relation="usage">
+        <childnode refid="65" relation="usage">
           <edgelabel>matchingEngine</edgelabel>
         </childnode>
       </node>
-      <node id="61">
+      <node id="65">
         <label>financialmarketsimulator.MatchingEngine</label>
         <link refid="classfinancialmarketsimulator_1_1_matching_engine"/>
       </node>
     </collaborationgraph>
-    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="23" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="23" bodyend="170"/>
+    <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" line="24" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MatchingEngineUnitTest.java" bodystart="24" bodyend="171"/>
     <listofallmembers>
       <member refid="class_matching_engine_unit_test_1acbb8d543a15e349d8f46769388fd28bd" prot="public" virt="non-virtual"><scope>MatchingEngineUnitTest</scope><name>instantiation</name></member>
       <member refid="class_matching_engine_unit_test_1a9b9c1aa450f77228a7473644d5e7a8d1" prot="package" virt="non-virtual"><scope>MatchingEngineUnitTest</scope><name>matchingEngine</name></member>

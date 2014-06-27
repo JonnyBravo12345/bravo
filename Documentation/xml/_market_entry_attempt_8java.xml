@@ -27,7 +27,7 @@
 <codeline lineno="36" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1acd62492a481b9db42703ce1c60a01ff3" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">protected</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1acd62492a481b9db42703ce1c60a01ff3" kindref="member">timeStamp</ref>;</highlight></codeline>
 <codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight></codeline>
 <codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Constructor</highlight><highlight class="normal"></highlight></codeline>
-<codeline lineno="39" refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a18b910056492a3eca05b112d7003bea7" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt_1a18b910056492a3eca05b112d7003bea7" kindref="member">MarketEntryAttempt</ref>()</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classfinancialmarketsimulator_1_1_market_entry_attempt" kindref="compound">MarketEntryAttempt</ref>()</highlight></codeline>
 <codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
 <codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight></codeline>
 <codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>

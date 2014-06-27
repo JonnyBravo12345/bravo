@@ -78,7 +78,7 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para><xrefsect id="todo_1_todo000006"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+<para><xrefsect id="todo_1_todo000018"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
         <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="63" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="63" bodyend="68"/>
@@ -91,7 +91,7 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para><xrefsect id="todo_1_todo000007"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+<para><xrefsect id="todo_1_todo000019"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
         <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="74" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="74" bodyend="79"/>
@@ -104,7 +104,7 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para><xrefsect id="todo_1_todo000008"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+<para><xrefsect id="todo_1_todo000020"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
         <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="85" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="85" bodyend="90"/>
@@ -117,7 +117,7 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para><xrefsect id="todo_1_todo000009"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+<para><xrefsect id="todo_1_todo000021"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
         <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="96" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="96" bodyend="101"/>
@@ -130,7 +130,7 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para><xrefsect id="todo_1_todo000010"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+<para><xrefsect id="todo_1_todo000022"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
         <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="107" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="107" bodyend="109"/>
@@ -143,7 +143,7 @@
         <briefdescription>
         </briefdescription>
         <detaileddescription>
-<para><xrefsect id="todo_1_todo000011"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
+<para><xrefsect id="todo_1_todo000023"><xreftitle>Todo</xreftitle><xrefdescription></xrefdescription></xrefsect></para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
         <location file="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" line="115" column="1" bodyfile="C:/Users/Madimetja/Documents/GitHub/bravo/FinancialMarketSimulator/test/MarketManagerUnitTest.java" bodystart="115" bodyend="117"/>
@@ -183,14 +183,14 @@
 <para><simplesect kind="author"><para>Madimetja </para></simplesect>
 </para>    </detaileddescription>
     <collaborationgraph>
-      <node id="50">
+      <node id="54">
         <label>financialmarketsimulator.MarketManager</label>
         <link refid="classfinancialmarketsimulator_1_1_market_manager"/>
       </node>
-      <node id="49">
+      <node id="53">
         <label>MarketManagerUnitTest</label>
         <link refid="class_market_manager_unit_test"/>
-        <childnode refid="50" relation="usage">
+        <childnode refid="54" relation="usage">
           <edgelabel>marketManager</edgelabel>
         </childnode>
       </node>
