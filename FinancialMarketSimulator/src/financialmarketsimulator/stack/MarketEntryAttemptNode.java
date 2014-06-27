@@ -20,4 +20,9 @@ public class MarketEntryAttemptNode {
         node = node1;
         next = null;
     }
+    
+    public String toString()
+    {
+        return node.getNumberOfShares() + "@" + node.getPrice() + " by " + node.getParticipantName();
+    }
 }
