@@ -1,26 +1,52 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package financialmarketsimulator;
+
+import Exception.ItemNotFoundException;
 
 /**
  *
- * @author Madimetja
+ * @authors Madimetja Shika, Moeletji Semenya, Daniel Makgonta
  */
 public interface Trade {
 
-    public MarketEntryAttempt makeOffer(); 
+    /**
+     * @todo Make an offer
+     *
+     * @return will return a MarketEntryAttempt
+     */
+    public MarketEntryAttempt makeOffer();
 
+    /**
+     * @todo Make a bid
+     *
+     * @return will return a MarketEntryAttempt
+     */
     public MarketEntryAttempt makeBid();
 
+    /**
+     * @todo Retract a bid that was previously accepted
+     *
+     */
     public void retractBid();
 
-    public void retractOffer() ;
+    /**
+     * @todo Retract an offer that was previously accepted
+     */
+    public void retractOffer();
 
+    /**
+     * @todo Set the current strategy of the participant
+     *
+     * @param strategy strategy to be used by participant
+     */
     public void setStrategy(String strategy);
 
-    public MarketEntryAttempt searchMarketEntryAttempt(MarketEntryAttempt entry);
+    /**
+     * @todo Search for a market entry attempt (bid or offer)
+     * 
+     * @param entry MarketEntryAttempt object to be searched
+     * @return Returns the searched MarketEntryAttempt object
+     * @throws Exception.ItemNotFoundException
+     */
+    public MarketEntryAttempt searchMarketEntryAttempt(MarketEntryAttempt entry) throws ItemNotFoundException;
 
 }

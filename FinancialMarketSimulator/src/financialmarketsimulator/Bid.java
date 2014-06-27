@@ -12,7 +12,7 @@ public class Bid extends MarketEntryAttempt{
     {
         
     }
-    
+   
     public Bid(double _price, int _numShares, String _name) {
         this.price = _price;
         this.numberOfShares = _numShares;
